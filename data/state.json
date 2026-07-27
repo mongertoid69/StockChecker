@@ -1,0 +1,26 @@
+{
+  "watching": {},
+  "holdings": {
+    "ULTP": {
+      "company": "Ultimate Products",
+      "buy_date": "2025-06-25",
+      "buy_price": 52.17,
+      "peak_at_buy": 77.45808410644531,
+      "cycle_days": null
+    },
+    "AML": {
+      "company": "Aston Martin Lagonda",
+      "buy_date": "2025-10-09",
+      "buy_price": 58.55,
+      "peak_at_buy": 88.0,
+      "cycle_days": null
+    },
+    "RWA": {
+      "company": "Robert Walters",
+      "buy_date": "2026-03-05",
+      "buy_price": 110.0,
+      "peak_at_buy": 158.0,
+      "cycle_days": null
+    }
+  }
+}

@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FTSE Strategy Tracker</title>
+<style>
+  :root {
+    --bg: #12151a;
+    --panel: #1a1f26;
+    --panel-alt: #1f252d;
+    --border: #2a313b;
+    --text: #e8eaed;
+    --muted: #8b93a1;
+    --accent: #d4a24e;
+    --positive: #4caf7d;
+    --negative: #e0685c;
+    --mono: ui-monospace, "SF Mono", "Cascadia Mono", Consolas, monospace;
+    --sans: ui-sans-serif, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    line-height: 1.5;
+    padding: 0 0 4rem;
+  }
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 1.75rem 1.5rem 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  header h1 {
+    margin: 0;
+    font-size: 1.15rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+  header h1 .accent { color: var(--accent); }
+  #last-run {
+    font-family: var(--mono);
+    font-size: 0.8rem;
+    color: var(--muted);
+  }
+  main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 1.5rem;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    margin-bottom: 2rem;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .stat {
+    background: var(--panel);
+    padding: 1rem 1.25rem;
+  }
+  .stat .label {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    margin-bottom: 0.35rem;
+  }
+  .stat .value {
+    font-family: var(--mono);
+    font-size: 1.4rem;
+    font-weight: 600;
+  }
+  section {
+    margin-bottom: 2.5rem;
+  }
+  section h2 {
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin: 0 0 0.9rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  section h2 .count {
+    font-family: var(--mono);
+    font-size: 0.75rem;
+    color: var(--muted);
+    font-weight: 400;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.88rem;
+  }
+  th {
+    text-align: left;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--muted);
+    font-weight: 500;
+    padding: 0.5rem 0.7rem;
+    border-bottom: 1px solid var(--border);
+  }
+  td {
+    padding: 0.6rem 0.7rem;
+    border-bottom: 1px solid var(--panel-alt);
+    font-family: var(--mono);
+    font-variant-numeric: tabular-nums;
+  }
+  td.company-cell { font-family: var(--sans); }
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: var(--panel-alt); }
+  .pos { color: var(--positive); }
+  .neg { color: var(--negative); }
+  .ticker {
+    font-weight: 700;
+    color: var(--accent);
+  }
+  .empty {
+    color: var(--muted);
+    font-size: 0.85rem;
+    padding: 1rem 0.2rem;
+    font-style: italic;
+  }
+  .bar-track {
+    background: var(--panel-alt);
+    border-radius: 3px;
+    height: 6px;
+    width: 100px;
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 0.5rem;
+  }
+  .bar-fill {
+    background: var(--accent);
+    height: 100%;
+  }
+  .signal-note {
+    font-family: var(--sans);
+    color: var(--muted);
+    font-size: 0.78rem;
+    margin-top: -0.4rem;
+    margin-bottom: 0.9rem;
+  }
+  footer {
+    max-width: 1100px;
+    margin: 3rem auto 0;
+    padding: 1.5rem;
+    color: var(--muted);
+    font-size: 0.78rem;
+    border-top: 1px solid var(--border);
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>FTSE Strategy <span class="accent">Tracker</span></h1>
+  <div id="last-run">loading...</div>
+</header>
+
+<main>
+
+  <div class="grid" id="stat-grid"></div>
+
+  <section>
+    <h2>Today's signals <span class="count" id="signals-count"></span></h2>
+    <div id="signals-body"></div>
+  </section>
+
+  <section>
+    <h2>Current holdings <span class="count" id="holdings-count"></span></h2>
+    <div id="holdings-body"></div>
+  </section>
+
+  <section>
+    <h2>Watchlist <span class="count" id="watchlist-count"></span></h2>
+    <div class="signal-note">Companies that have shown the 20-25% growth signal and are being tracked for a 30%-off-peak buy trigger.</div>
+    <div id="watchlist-body"></div>
+  </section>
+
+  <section>
+    <h2>Trade history <span class="count" id="history-count"></span></h2>
+    <div id="history-body"></div>
+  </section>
+
+</main>
+
+<footer>
+  Decision-support only — this does not place trades. Review every signal (especially recent
+  news and financial health) before acting on it; the scanner does not screen for profit
+  warnings or debt distress. Methodology: 20-25% growth in a 20-day window → buy at 30% below
+  the trailing peak → sell at 10% below peak (i.e. 90% recovery) → force-exit after 300 trading
+  days if neither has happened. Quality filter requires signal-to-buy time ≤ 150 days and
+  pre-signal volatility &gt; 2.3%.
+</footer>
+
+<script>
+async function loadJSON(path) {
+  try {
+    const res = await fetch(path + '?t=' + Date.now());
+    if (!res.ok) return null;
+    return await res.json();
+  } catch (e) {
+    return null;
+  }
+}
+
+function fmtPct(v) {
+  const cls = v >= 0 ? 'pos' : 'neg';
+  const sign = v >= 0 ? '+' : '';
+  return `<span class="${cls}">${sign}${v.toFixed(1)}%</span>`;
+}
+
+function fmtMoney(v) {
+  const cls = v >= 0 ? 'pos' : 'neg';
+  const sign = v >= 0 ? '+' : '';
+  return `<span class="${cls}">${sign}£${v.toFixed(2)}</span>`;
+}
+
+function emptyMsg(text) {
+  return `<div class="empty">${text}</div>`;
+}
+
+function renderStats(state, todaySignals, tradeLog) {
+  const holdings = Object.values(state.holdings || {});
+  const closedTrades = tradeLog || [];
+  const totalInvested = closedTrades.length * 1000 + holdings.length * 1000;
+  const realizedProfit = closedTrades.reduce((s, t) => s + t.profit, 0);
+
+  const stats = [
+    { label: 'Holding', value: holdings.length },
+    { label: 'Watching', value: Object.keys(state.watching || {}).length },
+    { label: 'Closed trades', value: closedTrades.length },
+    { label: 'Realized profit', value: '£' + realizedProfit.toFixed(0), raw: realizedProfit },
+    { label: 'New signals today', value: (todaySignals?.new_growth_signals?.length || 0) },
+  ];
+
+  document.getElementById('stat-grid').innerHTML = stats.map(s => `
+    <div class="stat">
+      <div class="label">${s.label}</div>
+      <div class="value ${s.raw !== undefined ? (s.raw >= 0 ? 'pos' : 'neg') : ''}">${s.value}</div>
+    </div>
+  `).join('');
+}
+
+function renderSignals(today) {
+  document.getElementById('signals-count').textContent = today ? `(${today.date})` : '';
+  if (!today) { document.getElementById('signals-body').innerHTML = emptyMsg('No scan data yet — waiting for the first daily run.'); return; }
+
+  let html = '';
+  const sections = [
+    ['New buys', today.new_buys, t => `<tr><td class="ticker">${t.ticker}</td><td class="company-cell">${t.company}</td><td>£${t.buy_price}</td><td>peak £${t.peak_price}</td><td>${t.cycle_days}d cycle</td></tr>`],
+    ['New sells (hit target)', today.new_sells, t => `<tr><td class="ticker">${t.ticker}</td><td class="company-cell">${t.company}</td><td>${fmtPct(t.return_pct)}</td><td>${fmtMoney(t.profit)}</td></tr>`],
+    ['Forced exits (300-day cap)', today.forced_exits, t => `<tr><td class="ticker">${t.ticker}</td><td class="company-cell">${t.company}</td><td>${fmtPct(t.return_pct)}</td><td>${fmtMoney(t.profit)}</td></tr>`],
+    ['Rejected buys (failed quality filter)', today.rejected_buys, t => `<tr><td class="ticker">${t.ticker}</td><td class="company-cell">${t.company}</td><td style="font-family:var(--sans);color:var(--muted);font-size:0.8rem">${t.reason}</td></tr>`],
+    ['New growth signals (added to watchlist)', today.new_growth_signals, t => `<tr><td class="ticker">${t.ticker}</td><td class="company-cell">${t.company}</td><td>${fmtPct(t.growth_pct)}</td></tr>`],
+  ];
+
+  let anyContent = false;
+  for (const [title, items, rowFn] of sections) {
+    if (items && items.length > 0) {
+      anyContent = true;
+      html += `<h3 style="font-size:0.82rem;color:var(--muted);margin:1rem 0 0.4rem;font-weight:500">${title}</h3>`;
+      html += `<table><tbody>${items.map(rowFn).join('')}</tbody></table>`;
+    }
+  }
+  if (!anyContent) html = emptyMsg('No new signals in today\'s scan.');
+  document.getElementById('signals-body').innerHTML = html;
+}
+
+function renderHoldings(state) {
+  const holdings = Object.entries(state.holdings || {});
+  document.getElementById('holdings-count').textContent = `(${holdings.length})`;
+  if (holdings.length === 0) { document.getElementById('holdings-body').innerHTML = emptyMsg('No open positions.'); return; }
+
+  const rows = holdings.map(([ticker, h]) => {
+    return `<tr>
+      <td class="ticker">${ticker}</td>
+      <td class="company-cell">${h.company}</td>
+      <td>${h.buy_date}</td>
+      <td>£${h.buy_price.toFixed(2)}</td>
+      <td>peak £${h.peak_at_buy.toFixed(2)}</td>
+    </tr>`;
+  }).join('');
+
+  document.getElementById('holdings-body').innerHTML = `
+    <table><thead><tr><th>Ticker</th><th>Company</th><th>Buy date</th><th>Buy price</th><th>Trigger peak</th></tr></thead>
+    <tbody>${rows}</tbody></table>`;
+}
+
+function renderWatchlist(today) {
+  const items = (today?.watchlist_status) || [];
+  document.getElementById('watchlist-count').textContent = `(${items.length})`;
+  if (items.length === 0) { document.getElementById('watchlist-body').innerHTML = emptyMsg('Nothing currently being tracked toward a buy trigger.'); return; }
+
+  const sorted = [...items].sort((a, b) => b.pct_below_peak - a.pct_below_peak);
+  const rows = sorted.map(w => {
+    const pct = Math.min(100, (w.pct_below_peak / 30) * 100);
+    return `<tr>
+      <td class="ticker">${w.ticker}</td>
+      <td class="company-cell">${w.company}</td>
+      <td>£${w.current_price}</td>
+      <td>£${w.peak_price}</td>
+      <td><span class="bar-track"><span class="bar-fill" style="width:${pct}%"></span></span>${w.pct_below_peak}% below peak</td>
+      <td>${w.still_needs_to_fall_pct}% more to trigger</td>
+    </tr>`;
+  }).join('');
+
+  document.getElementById('watchlist-body').innerHTML = `
+    <table><thead><tr><th>Ticker</th><th>Company</th><th>Price</th><th>Peak</th><th>Progress</th><th></th></tr></thead>
+    <tbody>${rows}</tbody></table>`;
+}
+
+function renderHistory(tradeLog) {
+  const trades = (tradeLog || []).slice().reverse();
+  document.getElementById('history-count').textContent = `(${trades.length})`;
+  if (trades.length === 0) { document.getElementById('history-body').innerHTML = emptyMsg('No completed trades yet.'); return; }
+
+  const rows = trades.slice(0, 50).map(t => `
+    <tr>
+      <td class="ticker">${t.ticker}</td>
+      <td class="company-cell">${t.company}</td>
+      <td>${t.status}</td>
+      <td>${t.buy_date}</td>
+      <td>${t.sell_date}</td>
+      <td>${t.days_held}d</td>
+      <td>${fmtPct(t.return_pct)}</td>
+      <td>${fmtMoney(t.profit)}</td>
+    </tr>`).join('');
+
+  document.getElementById('history-body').innerHTML = `
+    <table><thead><tr><th>Ticker</th><th>Company</th><th>Status</th><th>Bought</th><th>Sold</th><th>Held</th><th>Return</th><th>P&amp;L</th></tr></thead>
+    <tbody>${rows}</tbody></table>`;
+}
+
+async function init() {
+  const [state, tradeLog, todaySignals] = await Promise.all([
+    loadJSON('data/state.json'),
+    loadJSON('data/trade_log.json'),
+    loadJSON('data/today_signals.json'),
+  ]);
+
+  const safeState = state || { watching: {}, holdings: {} };
+  const safeLog = tradeLog || [];
+
+  document.getElementById('last-run').textContent = todaySignals
+    ? `Last scan: ${todaySignals.date}`
+    : 'No scan has run yet';
+
+  renderStats(safeState, todaySignals, safeLog);
+  renderSignals(todaySignals);
+  renderHoldings(safeState);
+  renderWatchlist(todaySignals);
+  renderHistory(safeLog);
+}
+
+init();
+</script>
+
+</body>
+</html>

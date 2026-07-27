@@ -1,0 +1,38 @@
+name: Daily FTSE Strategy Scan
+
+on:
+  schedule:
+    # Runs at 18:00 UTC on weekdays (after the LSE closes at 16:30 UK time,
+    # with a buffer for Yahoo Finance to update its end-of-day data).
+    # Cron is always in UTC - adjust if you want a different local time.
+    - cron: "0 18 * * 1-5"
+  workflow_dispatch: {}   # lets you also trigger a run manually from the Actions tab
+
+permissions:
+  contents: write   # needed so the workflow can commit updated data files back to the repo
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install yfinance pandas numpy
+
+      - name: Run daily scanner
+        run: python scanner.py
+
+      - name: Commit updated data files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/state.json data/trade_log.json data/today_signals.json
+          git diff --quiet --cached || git commit -m "Daily scan: $(date -u +%Y-%m-%d)"
+          git push
