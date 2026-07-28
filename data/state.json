@@ -1,5 +1,974 @@
 {
-  "watching": {},
+  "watching": {
+    "AAL": {
+      "company": "Anglo American plc",
+      "signal_date": "2026-04-20",
+      "growth_pct": 23.2,
+      "pre_event_vol": 3.03,
+      "peak_price": 3642.0,
+      "peak_date": "2026-04-20"
+    },
+    "AAS": {
+      "company": "Aberdeen Asia Focus",
+      "signal_date": "2026-05-06",
+      "growth_pct": 20.2,
+      "pre_event_vol": 1.67,
+      "peak_price": 452.9832458496094,
+      "peak_date": "2026-05-06"
+    },
+    "AEP": {
+      "company": "AEP Plantations",
+      "signal_date": "2026-04-07",
+      "growth_pct": 20.1,
+      "pre_event_vol": 1.68,
+      "peak_price": 190.9611053466797,
+      "peak_date": "2026-04-07"
+    },
+    "AJB": {
+      "company": "AJ Bell",
+      "signal_date": "2026-04-08",
+      "growth_pct": 20.1,
+      "pre_event_vol": 1.76,
+      "peak_price": 593.5,
+      "peak_date": "2026-07-28"
+    },
+    "ANTO": {
+      "company": "Antofagasta plc",
+      "signal_date": "2026-02-25",
+      "growth_pct": 20.1,
+      "pre_event_vol": 4.51,
+      "peak_price": 4454.5927734375,
+      "peak_date": "2026-02-25"
+    },
+    "APN": {
+      "company": "Applied Nutrition",
+      "signal_date": "2026-06-01",
+      "growth_pct": 24.5,
+      "pre_event_vol": 2.27,
+      "peak_price": 326.0,
+      "peak_date": "2026-07-28"
+    },
+    "ATT": {
+      "company": "Allianz Technology Trust",
+      "signal_date": "2026-04-28",
+      "growth_pct": 20.0,
+      "pre_event_vol": 1.66,
+      "peak_price": 654.0,
+      "peak_date": "2026-07-28"
+    },
+    "BA": {
+      "company": "BAE Systems",
+      "signal_date": "2026-03-04",
+      "growth_pct": 21.0,
+      "pre_event_vol": 2.16,
+      "peak_price": 2268.755126953125,
+      "peak_date": "2026-03-04"
+    },
+    "BAB": {
+      "company": "Babcock International",
+      "signal_date": "2026-07-27",
+      "growth_pct": 22.1,
+      "pre_event_vol": 2.49,
+      "peak_price": 1160.0,
+      "peak_date": "2026-07-28"
+    },
+    "BGEO": {
+      "company": "Lion Finance Group",
+      "signal_date": "2026-04-20",
+      "growth_pct": 24.7,
+      "pre_event_vol": 2.75,
+      "peak_price": 11609.158203125,
+      "peak_date": "2026-04-20"
+    },
+    "BME": {
+      "company": "B&M",
+      "signal_date": "2026-06-09",
+      "growth_pct": 21.1,
+      "pre_event_vol": 2.92,
+      "peak_price": 229.39999389648438,
+      "peak_date": "2026-07-28"
+    },
+    "BMY": {
+      "company": "Bloomsbury Publishing",
+      "signal_date": "2026-03-05",
+      "growth_pct": 22.7,
+      "pre_event_vol": 2.36,
+      "peak_price": 630.0,
+      "peak_date": "2026-07-28"
+    },
+    "BOWL": {
+      "company": "Hollywood Bowl Group",
+      "signal_date": "2026-05-29",
+      "growth_pct": 22.0,
+      "pre_event_vol": 2.47,
+      "peak_price": 307.4519958496094,
+      "peak_date": "2026-05-29"
+    },
+    "BOY": {
+      "company": "Bodycote",
+      "signal_date": "2026-05-26",
+      "growth_pct": 20.4,
+      "pre_event_vol": 3.31,
+      "peak_price": 836.5,
+      "peak_date": "2026-05-26"
+    },
+    "BP": {
+      "company": "BP",
+      "signal_date": "2026-03-19",
+      "growth_pct": 21.8,
+      "pre_event_vol": 2.12,
+      "peak_price": 583.1337280273438,
+      "peak_date": "2026-03-19"
+    },
+    "BPT": {
+      "company": "Bridgepoint Group",
+      "signal_date": "2026-04-21",
+      "growth_pct": 24.3,
+      "pre_event_vol": 2.56,
+      "peak_price": 320.6000061035156,
+      "peak_date": "2026-07-28"
+    },
+    "BRWM": {
+      "company": "BlackRock World Mining Trust",
+      "signal_date": "2026-04-21",
+      "growth_pct": 20.3,
+      "pre_event_vol": 3.26,
+      "peak_price": 985.9475708007812,
+      "peak_date": "2026-04-21"
+    },
+    "BYIT": {
+      "company": "Bytes Technology Group",
+      "signal_date": "2026-04-23",
+      "growth_pct": 21.6,
+      "pre_event_vol": 3.03,
+      "peak_price": 407.0,
+      "peak_date": "2026-07-28"
+    },
+    "CBG": {
+      "company": "Close Brothers Group",
+      "signal_date": "2026-05-06",
+      "growth_pct": 23.9,
+      "pre_event_vol": 3.64,
+      "peak_price": 482.6000061035156,
+      "peak_date": "2026-05-06"
+    },
+    "CCC": {
+      "company": "Computacenter",
+      "signal_date": "2026-04-21",
+      "growth_pct": 20.2,
+      "pre_event_vol": 2.07,
+      "peak_price": 4814.0,
+      "peak_date": "2026-07-28"
+    },
+    "CCEP": {
+      "company": "Coca-Cola Europacific Partners",
+      "signal_date": "2026-02-26",
+      "growth_pct": 21.1,
+      "pre_event_vol": 1.08,
+      "peak_price": 8440.0,
+      "peak_date": "2026-07-28"
+    },
+    "CCH": {
+      "company": "Coca-Cola HBC",
+      "signal_date": "2026-02-25",
+      "growth_pct": 22.1,
+      "pre_event_vol": 1.57,
+      "peak_price": 5085.0,
+      "peak_date": "2026-07-28"
+    },
+    "CHG": {
+      "company": "Chemring Group",
+      "signal_date": "2026-07-22",
+      "growth_pct": 22.3,
+      "pre_event_vol": 2.33,
+      "peak_price": 603.0,
+      "peak_date": "2026-07-28"
+    },
+    "CMCX": {
+      "company": "CMC Markets",
+      "signal_date": "2026-06-08",
+      "growth_pct": 20.8,
+      "pre_event_vol": 2.48,
+      "peak_price": 721.0,
+      "peak_date": "2026-07-28"
+    },
+    "CNE": {
+      "company": "Capricorn Energy",
+      "signal_date": "2026-04-07",
+      "growth_pct": 23.5,
+      "pre_event_vol": 2.75,
+      "peak_price": 372.0,
+      "peak_date": "2026-07-28"
+    },
+    "CPG": {
+      "company": "Compass Group",
+      "signal_date": "2026-04-07",
+      "growth_pct": 24.0,
+      "pre_event_vol": 6.46,
+      "peak_price": 32.849998474121094,
+      "peak_date": "2026-07-28"
+    },
+    "CPI": {
+      "company": "Capita",
+      "signal_date": "2026-04-21",
+      "growth_pct": 22.6,
+      "pre_event_vol": 4.58,
+      "peak_price": 293.0,
+      "peak_date": "2026-04-21"
+    },
+    "CRDA": {
+      "company": "Croda International",
+      "signal_date": "2026-04-20",
+      "growth_pct": 20.6,
+      "pre_event_vol": 2.69,
+      "peak_price": 3160.0,
+      "peak_date": "2026-07-28"
+    },
+    "CURY": {
+      "company": "Currys",
+      "signal_date": "2026-05-27",
+      "growth_pct": 20.7,
+      "pre_event_vol": 2.86,
+      "peak_price": 165.0,
+      "peak_date": "2026-07-28"
+    },
+    "CWR": {
+      "company": "Ceres Power",
+      "signal_date": "2026-04-15",
+      "growth_pct": 24.7,
+      "pre_event_vol": 4.71,
+      "peak_price": 401.6000061035156,
+      "peak_date": "2026-04-15"
+    },
+    "CYN": {
+      "company": "CQS Natural Resources",
+      "signal_date": "2026-03-02",
+      "growth_pct": 20.2,
+      "pre_event_vol": 3.6,
+      "peak_price": 439.8268737792969,
+      "peak_date": "2026-03-02"
+    },
+    "DATA": {
+      "company": "GlobalData",
+      "signal_date": "2026-04-14",
+      "growth_pct": 20.8,
+      "pre_event_vol": 3.6,
+      "peak_price": 85.5,
+      "peak_date": "2026-04-14"
+    },
+    "DCC": {
+      "company": "DCC Energy",
+      "signal_date": "2026-05-01",
+      "growth_pct": 21.9,
+      "pre_event_vol": 2.3,
+      "peak_price": 6330.0,
+      "peak_date": "2026-07-28"
+    },
+    "DGI9": {
+      "company": "Digital 9 Infrastructure",
+      "signal_date": "2026-04-10",
+      "growth_pct": 20.1,
+      "pre_event_vol": 2.64,
+      "peak_price": 6.099999904632568,
+      "peak_date": "2026-04-10"
+    },
+    "DOCS": {
+      "company": "Dr. Martens",
+      "signal_date": "2026-05-29",
+      "growth_pct": 21.3,
+      "pre_event_vol": 2.14,
+      "peak_price": 78.30000305175781,
+      "peak_date": "2026-07-28"
+    },
+    "DPLM": {
+      "company": "Diploma",
+      "signal_date": "2026-04-21",
+      "growth_pct": 20.9,
+      "pre_event_vol": 2.82,
+      "peak_price": 7420.0,
+      "peak_date": "2026-07-28"
+    },
+    "DSCV": {
+      "company": "discoverIE",
+      "signal_date": "2026-04-23",
+      "growth_pct": 20.5,
+      "pre_event_vol": 2.5,
+      "peak_price": 792.0,
+      "peak_date": "2026-07-28"
+    },
+    "EDV": {
+      "company": "Endeavour Mining",
+      "signal_date": "2026-04-20",
+      "growth_pct": 20.9,
+      "pre_event_vol": 3.31,
+      "peak_price": 4940.0,
+      "peak_date": "2026-04-20"
+    },
+    "ENQ": {
+      "company": "EnQuest",
+      "signal_date": "2026-06-19",
+      "growth_pct": 22.4,
+      "pre_event_vol": 4.79,
+      "peak_price": 23.600000381469727,
+      "peak_date": "2026-07-28"
+    },
+    "EVOK": {
+      "company": "Evoke",
+      "signal_date": "2026-02-27",
+      "growth_pct": 20.3,
+      "pre_event_vol": 3.51,
+      "peak_price": 45.0,
+      "peak_date": "2026-07-28"
+    },
+    "EWG": {
+      "company": "Eurowag",
+      "signal_date": "2026-04-22",
+      "growth_pct": 20.0,
+      "pre_event_vol": 2.46,
+      "peak_price": 118.58262634277344,
+      "peak_date": "2026-04-22"
+    },
+    "EWI": {
+      "company": "Edinburgh Worldwide Investment Trust",
+      "signal_date": "2026-05-29",
+      "growth_pct": 20.5,
+      "pre_event_vol": 1.54,
+      "peak_price": 279.5,
+      "peak_date": "2026-05-29"
+    },
+    "EZJ": {
+      "company": "EasyJet",
+      "signal_date": "2026-06-01",
+      "growth_pct": 24.5,
+      "pre_event_vol": 2.76,
+      "peak_price": 612.0,
+      "peak_date": "2026-07-28"
+    },
+    "FCH": {
+      "company": "Funding Circle",
+      "signal_date": "2026-04-21",
+      "growth_pct": 22.8,
+      "pre_event_vol": 2.17,
+      "peak_price": 220.5,
+      "peak_date": "2026-07-28"
+    },
+    "FEML": {
+      "company": "Fidelity Emerging Markets",
+      "signal_date": "2026-04-23",
+      "growth_pct": 21.2,
+      "pre_event_vol": 1.71,
+      "peak_price": 1370.0,
+      "peak_date": "2026-07-28"
+    },
+    "FSJ": {
+      "company": "James Fisher & Sons",
+      "signal_date": "2026-03-13",
+      "growth_pct": 23.0,
+      "pre_event_vol": 3.02,
+      "peak_price": 550.0,
+      "peak_date": "2026-03-13"
+    },
+    "GBG": {
+      "company": "GB Group",
+      "signal_date": "2026-07-16",
+      "growth_pct": 20.2,
+      "pre_event_vol": 3.01,
+      "peak_price": 229.5,
+      "peak_date": "2026-07-16"
+    },
+    "GDWN": {
+      "company": "Goodwin",
+      "signal_date": "2026-06-02",
+      "growth_pct": 23.6,
+      "pre_event_vol": 6.64,
+      "peak_price": 17160.0,
+      "peak_date": "2026-07-28"
+    },
+    "GFRD": {
+      "company": "Galliford Try",
+      "signal_date": "2026-07-22",
+      "growth_pct": 20.7,
+      "pre_event_vol": 1.88,
+      "peak_price": 618.0,
+      "peak_date": "2026-07-22"
+    },
+    "GNC": {
+      "company": "Greencore",
+      "signal_date": "2026-07-22",
+      "growth_pct": 21.6,
+      "pre_event_vol": 2.02,
+      "peak_price": 255.1999969482422,
+      "peak_date": "2026-07-28"
+    },
+    "GROW": {
+      "company": "Molten Ventures",
+      "signal_date": "2026-04-23",
+      "growth_pct": 20.5,
+      "pre_event_vol": 2.29,
+      "peak_price": 605.0,
+      "peak_date": "2026-07-28"
+    },
+    "GSK": {
+      "company": "GSK plc",
+      "signal_date": "2026-02-25",
+      "growth_pct": 21.8,
+      "pre_event_vol": 2.14,
+      "peak_price": 2213.800537109375,
+      "peak_date": "2026-02-25"
+    },
+    "HAS": {
+      "company": "Hays",
+      "signal_date": "2026-06-12",
+      "growth_pct": 22.1,
+      "pre_event_vol": 2.6,
+      "peak_price": 64.5,
+      "peak_date": "2026-07-28"
+    },
+    "HBR": {
+      "company": "Harbour Energy",
+      "signal_date": "2026-03-11",
+      "growth_pct": 20.4,
+      "pre_event_vol": 3.16,
+      "peak_price": 270.140625,
+      "peak_date": "2026-03-11"
+    },
+    "HFD": {
+      "company": "Halfords",
+      "signal_date": "2026-05-14",
+      "growth_pct": 20.0,
+      "pre_event_vol": 1.82,
+      "peak_price": 241.0,
+      "peak_date": "2026-07-28"
+    },
+    "HGT": {
+      "company": "Hg Capital Trust",
+      "signal_date": "2026-06-18",
+      "growth_pct": 21.1,
+      "pre_event_vol": 3.21,
+      "peak_price": 401.0,
+      "peak_date": "2026-06-18"
+    },
+    "HILS": {
+      "company": "Hill & Smith",
+      "signal_date": "2026-04-29",
+      "growth_pct": 22.4,
+      "pre_event_vol": 1.88,
+      "peak_price": 2975.0,
+      "peak_date": "2026-07-28"
+    },
+    "HLMA": {
+      "company": "Halma plc",
+      "signal_date": "2026-04-20",
+      "growth_pct": 21.4,
+      "pre_event_vol": 1.99,
+      "peak_price": 4479.8134765625,
+      "peak_date": "2026-04-20"
+    },
+    "HTG": {
+      "company": "Hunting",
+      "signal_date": "2026-02-25",
+      "growth_pct": 20.5,
+      "pre_event_vol": 1.91,
+      "peak_price": 530.9276733398438,
+      "peak_date": "2026-02-25"
+    },
+    "HTWS": {
+      "company": "Helios Towers",
+      "signal_date": "2026-05-11",
+      "growth_pct": 22.5,
+      "pre_event_vol": 2.46,
+      "peak_price": 242.39999389648438,
+      "peak_date": "2026-05-11"
+    },
+    "ICG": {
+      "company": "ICG",
+      "signal_date": "2026-04-20",
+      "growth_pct": 21.8,
+      "pre_event_vol": 2.44,
+      "peak_price": 1930.0,
+      "peak_date": "2026-07-28"
+    },
+    "IGG": {
+      "company": "IG Group",
+      "signal_date": "2026-05-22",
+      "growth_pct": 21.9,
+      "pre_event_vol": 1.84,
+      "peak_price": 1850.0,
+      "peak_date": "2026-05-22"
+    },
+    "III": {
+      "company": "3i",
+      "signal_date": "2026-07-06",
+      "growth_pct": 20.0,
+      "pre_event_vol": 3.48,
+      "peak_price": 2913.0,
+      "peak_date": "2026-07-28"
+    },
+    "IPO": {
+      "company": "IP Group",
+      "signal_date": "2026-04-21",
+      "growth_pct": 23.5,
+      "pre_event_vol": 2.73,
+      "peak_price": 64.4000015258789,
+      "peak_date": "2026-07-28"
+    },
+    "ITH": {
+      "company": "Ithaca Energy",
+      "signal_date": "2026-02-25",
+      "growth_pct": 20.9,
+      "pre_event_vol": 2.09,
+      "peak_price": 228.1999969482422,
+      "peak_date": "2026-07-28"
+    },
+    "JD": {
+      "company": "JD Sports",
+      "signal_date": "2026-05-27",
+      "growth_pct": 24.0,
+      "pre_event_vol": 2.57,
+      "peak_price": 94.91999816894531,
+      "peak_date": "2026-07-28"
+    },
+    "KLR": {
+      "company": "Keller Group",
+      "signal_date": "2026-03-03",
+      "growth_pct": 21.0,
+      "pre_event_vol": 1.01,
+      "peak_price": 3096.0,
+      "peak_date": "2026-07-28"
+    },
+    "KNOS": {
+      "company": "Kainos",
+      "signal_date": "2026-04-22",
+      "growth_pct": 20.8,
+      "pre_event_vol": 2.93,
+      "peak_price": 901.0,
+      "peak_date": "2026-07-28"
+    },
+    "LIO": {
+      "company": "Liontrust Asset Management",
+      "signal_date": "2026-06-03",
+      "growth_pct": 21.5,
+      "pre_event_vol": 2.49,
+      "peak_price": 305.3955383300781,
+      "peak_date": "2026-06-03"
+    },
+    "LSEG": {
+      "company": "London Stock Exchange Group",
+      "signal_date": "2026-03-04",
+      "growth_pct": 20.8,
+      "pre_event_vol": 3.85,
+      "peak_price": 9150.0,
+      "peak_date": "2026-07-28"
+    },
+    "LUCE": {
+      "company": "Luceco",
+      "signal_date": "2026-02-25",
+      "growth_pct": 24.4,
+      "pre_event_vol": 2.57,
+      "peak_price": 225.0,
+      "peak_date": "2026-07-28"
+    },
+    "MAJE": {
+      "company": "Majedie Investments",
+      "signal_date": "2026-06-15",
+      "growth_pct": 20.0,
+      "pre_event_vol": 1.57,
+      "peak_price": 327.0,
+      "peak_date": "2026-06-15"
+    },
+    "MARS": {
+      "company": "Marston's",
+      "signal_date": "2026-07-07",
+      "growth_pct": 21.5,
+      "pre_event_vol": 2.1,
+      "peak_price": 55.0,
+      "peak_date": "2026-07-07"
+    },
+    "MER": {
+      "company": "Mears Group",
+      "signal_date": "2026-04-29",
+      "growth_pct": 20.2,
+      "pre_event_vol": 1.49,
+      "peak_price": 436.0,
+      "peak_date": "2026-07-28"
+    },
+    "MMIT": {
+      "company": "Mobius Investment Trust",
+      "signal_date": "2026-05-06",
+      "growth_pct": 20.7,
+      "pre_event_vol": 1.61,
+      "peak_price": 172.0,
+      "peak_date": "2026-07-28"
+    },
+    "MOON": {
+      "company": "Moonpig",
+      "signal_date": "2026-07-06",
+      "growth_pct": 20.3,
+      "pre_event_vol": 1.61,
+      "peak_price": 274.20001220703125,
+      "peak_date": "2026-07-28"
+    },
+    "MTLN": {
+      "company": "Metlen Energy & Metals",
+      "signal_date": "2026-05-26",
+      "growth_pct": 20.7,
+      "pre_event_vol": 3.9,
+      "peak_price": 44.65999984741211,
+      "peak_date": "2026-07-28"
+    },
+    "MTRO": {
+      "company": "Metro Bank",
+      "signal_date": "2026-04-13",
+      "growth_pct": 24.8,
+      "pre_event_vol": 2.32,
+      "peak_price": 176.8000030517578,
+      "peak_date": "2026-07-28"
+    },
+    "NCC": {
+      "company": "NCC Group",
+      "signal_date": "2026-05-08",
+      "growth_pct": 21.5,
+      "pre_event_vol": 2.38,
+      "peak_price": 144.60000610351562,
+      "peak_date": "2026-07-28"
+    },
+    "ONT": {
+      "company": "Oxford Nanopore Technologies",
+      "signal_date": "2026-06-01",
+      "growth_pct": 21.0,
+      "pre_event_vol": 3.73,
+      "peak_price": 136.0,
+      "peak_date": "2026-06-01"
+    },
+    "OTB": {
+      "company": "On The Beach Group",
+      "signal_date": "2026-06-12",
+      "growth_pct": 20.1,
+      "pre_event_vol": 3.52,
+      "peak_price": 183.8000030517578,
+      "peak_date": "2026-07-28"
+    },
+    "OXIG": {
+      "company": "Oxford Instruments",
+      "signal_date": "2026-04-20",
+      "growth_pct": 20.4,
+      "pre_event_vol": 2.23,
+      "peak_price": 2895.81201171875,
+      "peak_date": "2026-04-20"
+    },
+    "PAGE": {
+      "company": "PageGroup",
+      "signal_date": "2026-07-13",
+      "growth_pct": 22.3,
+      "pre_event_vol": 2.86,
+      "peak_price": 194.39999389648438,
+      "peak_date": "2026-07-28"
+    },
+    "PCT": {
+      "company": "Polar Capital Technology Trust",
+      "signal_date": "2026-04-22",
+      "growth_pct": 21.1,
+      "pre_event_vol": 1.76,
+      "peak_price": 610.5,
+      "peak_date": "2026-07-28"
+    },
+    "PHAR": {
+      "company": "Pharos Energy",
+      "signal_date": "2026-03-09",
+      "growth_pct": 20.5,
+      "pre_event_vol": 2.28,
+      "peak_price": 31.600000381469727,
+      "peak_date": "2026-07-28"
+    },
+    "PHI": {
+      "company": "Pacific Horizon Investment Trust",
+      "signal_date": "2026-05-06",
+      "growth_pct": 24.4,
+      "pre_event_vol": 1.82,
+      "peak_price": 1096.0,
+      "peak_date": "2026-05-06"
+    },
+    "POLN": {
+      "company": "Pollen Street Group",
+      "signal_date": "2026-04-15",
+      "growth_pct": 20.2,
+      "pre_event_vol": 2.08,
+      "peak_price": 877.0,
+      "peak_date": "2026-04-15"
+    },
+    "PPH": {
+      "company": "PPHE Hotel Group",
+      "signal_date": "2026-05-28",
+      "growth_pct": 22.6,
+      "pre_event_vol": 2.51,
+      "peak_price": 1966.0,
+      "peak_date": "2026-05-28"
+    },
+    "PRV": {
+      "company": "Porvair",
+      "signal_date": "2026-05-28",
+      "growth_pct": 21.1,
+      "pre_event_vol": 2.05,
+      "peak_price": 859.975830078125,
+      "peak_date": "2026-05-28"
+    },
+    "PTEC": {
+      "company": "Playtech",
+      "signal_date": "2026-02-26",
+      "growth_pct": 23.3,
+      "pre_event_vol": 3.59,
+      "peak_price": 396.20001220703125,
+      "peak_date": "2026-07-28"
+    },
+    "REL": {
+      "company": "RELX",
+      "signal_date": "2026-03-06",
+      "growth_pct": 23.1,
+      "pre_event_vol": 4.51,
+      "peak_price": 2832.0,
+      "peak_date": "2026-07-28"
+    },
+    "RHIM": {
+      "company": "RHI Magnesita",
+      "signal_date": "2026-02-27",
+      "growth_pct": 20.8,
+      "pre_event_vol": 1.39,
+      "peak_price": 3343.625244140625,
+      "peak_date": "2026-02-27"
+    },
+    "ROSE": {
+      "company": "Rosebank Industries",
+      "signal_date": "2026-04-21",
+      "growth_pct": 21.9,
+      "pre_event_vol": 1323.23,
+      "peak_price": 384.0,
+      "peak_date": "2026-04-21"
+    },
+    "RPI": {
+      "company": "Raspberry Pi Holdings",
+      "signal_date": "2026-03-05",
+      "growth_pct": 20.5,
+      "pre_event_vol": 8.75,
+      "peak_price": 636.0,
+      "peak_date": "2026-07-28"
+    },
+    "RR": {
+      "company": "Rolls-Royce Holdings",
+      "signal_date": "2026-05-29",
+      "growth_pct": 21.7,
+      "pre_event_vol": 3.22,
+      "peak_price": 1419.4000244140625,
+      "peak_date": "2026-07-28"
+    },
+    "RSW": {
+      "company": "Renishaw",
+      "signal_date": "2026-04-21",
+      "growth_pct": 22.6,
+      "pre_event_vol": 2.46,
+      "peak_price": 5065.0,
+      "peak_date": "2026-07-28"
+    },
+    "SAGA": {
+      "company": "Saga",
+      "signal_date": "2026-04-13",
+      "growth_pct": 23.6,
+      "pre_event_vol": 4.5,
+      "peak_price": 663.0,
+      "peak_date": "2026-07-28"
+    },
+    "SBRE": {
+      "company": "Sabre Insurance",
+      "signal_date": "2026-03-16",
+      "growth_pct": 20.5,
+      "pre_event_vol": 2.22,
+      "peak_price": 186.1999969482422,
+      "peak_date": "2026-07-28"
+    },
+    "SCT": {
+      "company": "Softcat",
+      "signal_date": "2026-05-22",
+      "growth_pct": 22.3,
+      "pre_event_vol": 2.25,
+      "peak_price": 1964.0,
+      "peak_date": "2026-07-28"
+    },
+    "SFR": {
+      "company": "Severfield",
+      "signal_date": "2026-06-29",
+      "growth_pct": 23.5,
+      "pre_event_vol": 3.59,
+      "peak_price": 36.70000076293945,
+      "peak_date": "2026-07-28"
+    },
+    "SGRO": {
+      "company": "Segro",
+      "signal_date": "2026-06-24",
+      "growth_pct": 20.6,
+      "pre_event_vol": 1.95,
+      "peak_price": 997.4000244140625,
+      "peak_date": "2026-07-28"
+    },
+    "SHEL": {
+      "company": "Shell plc",
+      "signal_date": "2026-03-17",
+      "growth_pct": 21.2,
+      "pre_event_vol": 1.4,
+      "peak_price": 3473.6884765625,
+      "peak_date": "2026-03-17"
+    },
+    "SMIN": {
+      "company": "Smiths Group",
+      "signal_date": "2026-04-21",
+      "growth_pct": 20.9,
+      "pre_event_vol": 2.27,
+      "peak_price": 2646.0,
+      "peak_date": "2026-07-28"
+    },
+    "SMT": {
+      "company": "Scottish Mortgage Investment Trust",
+      "signal_date": "2026-04-21",
+      "growth_pct": 21.2,
+      "pre_event_vol": 1.85,
+      "peak_price": 1416.9700927734375,
+      "peak_date": "2026-04-21"
+    },
+    "SNR": {
+      "company": "Senior",
+      "signal_date": "2026-03-02",
+      "growth_pct": 23.2,
+      "pre_event_vol": 4.43,
+      "peak_price": 296.977783203125,
+      "peak_date": "2026-03-02"
+    },
+    "SSIT": {
+      "company": "Seraphim Space Investment Trust",
+      "signal_date": "2026-02-25",
+      "growth_pct": 22.8,
+      "pre_event_vol": 4.07,
+      "peak_price": 154.60000610351562,
+      "peak_date": "2026-07-28"
+    },
+    "STB": {
+      "company": "Secure Trust Bank",
+      "signal_date": "2026-07-06",
+      "growth_pct": 20.2,
+      "pre_event_vol": 2.12,
+      "peak_price": 1600.0,
+      "peak_date": "2026-07-28"
+    },
+    "TBCG": {
+      "company": "TBC Bank",
+      "signal_date": "2026-04-17",
+      "growth_pct": 22.9,
+      "pre_event_vol": 2.77,
+      "peak_price": 5178.75927734375,
+      "peak_date": "2026-04-17"
+    },
+    "TEM": {
+      "company": "Templeton Emerging Markets Investment Trust",
+      "signal_date": "2026-06-02",
+      "growth_pct": 21.0,
+      "pre_event_vol": 1.58,
+      "peak_price": 342.4665222167969,
+      "peak_date": "2026-06-02"
+    },
+    "TEP": {
+      "company": "Telecom Plus",
+      "signal_date": "2026-07-21",
+      "growth_pct": 22.5,
+      "pre_event_vol": 3.43,
+      "peak_price": 870.0,
+      "peak_date": "2026-07-21"
+    },
+    "THG": {
+      "company": "THG",
+      "signal_date": "2026-04-15",
+      "growth_pct": 20.2,
+      "pre_event_vol": 3.55,
+      "peak_price": 36.58000183105469,
+      "peak_date": "2026-04-15"
+    },
+    "TRI": {
+      "company": "Trifast",
+      "signal_date": "2026-07-10",
+      "growth_pct": 21.8,
+      "pre_event_vol": 3.01,
+      "peak_price": 81.5999984741211,
+      "peak_date": "2026-07-10"
+    },
+    "TRN": {
+      "company": "Trainline",
+      "signal_date": "2026-03-31",
+      "growth_pct": 22.4,
+      "pre_event_vol": 2.56,
+      "peak_price": 241.60000610351562,
+      "peak_date": "2026-07-28"
+    },
+    "TRST": {
+      "company": "Trustpilot",
+      "signal_date": "2026-05-07",
+      "growth_pct": 23.1,
+      "pre_event_vol": 5.49,
+      "peak_price": 277.0,
+      "peak_date": "2026-07-28"
+    },
+    "VCT": {
+      "company": "Victrex",
+      "signal_date": "2026-07-23",
+      "growth_pct": 20.0,
+      "pre_event_vol": 2.62,
+      "peak_price": 796.0,
+      "peak_date": "2026-07-28"
+    },
+    "VOD": {
+      "company": "Vodafone Group",
+      "signal_date": "2026-07-28",
+      "growth_pct": 23.7,
+      "pre_event_vol": 2.1,
+      "peak_price": 123.25,
+      "peak_date": "2026-07-28"
+    },
+    "WIZZ": {
+      "company": "Wizz Air",
+      "signal_date": "2026-05-27",
+      "growth_pct": 21.8,
+      "pre_event_vol": 4.08,
+      "peak_price": 1087.0,
+      "peak_date": "2026-07-28"
+    },
+    "WOSG": {
+      "company": "Watches of Switzerland",
+      "signal_date": "2026-04-21",
+      "growth_pct": 20.6,
+      "pre_event_vol": 2.34,
+      "peak_price": 713.0,
+      "peak_date": "2026-07-28"
+    },
+    "XAR": {
+      "company": "Xaar",
+      "signal_date": "2026-04-20",
+      "growth_pct": 23.0,
+      "pre_event_vol": 2.63,
+      "peak_price": 131.0,
+      "peak_date": "2026-04-20"
+    },
+    "XPP": {
+      "company": "XP Power",
+      "signal_date": "2026-04-27",
+      "growth_pct": 21.8,
+      "pre_event_vol": 2.32,
+      "peak_price": 1602.0,
+      "peak_date": "2026-07-28"
+    },
+    "ZTF": {
+      "company": "Zotefoams",
+      "signal_date": "2026-06-16",
+      "growth_pct": 20.2,
+      "pre_event_vol": 2.25,
+      "peak_price": 460.0,
+      "peak_date": "2026-07-28"
+    }
+  },
   "holdings": {
     "ULTP": {
       "company": "Ultimate Products",
@@ -21,6 +990,27 @@
       "buy_price": 110.0,
       "peak_at_buy": 158.0,
       "cycle_days": null
+    },
+    "HEAD": {
+      "company": "Headlam Group",
+      "buy_date": "2026-07-28",
+      "buy_price": 5.239999771118164,
+      "peak_at_buy": 37.0,
+      "cycle_days": 71
+    },
+    "HOC": {
+      "company": "Hochschild Mining",
+      "buy_date": "2026-07-28",
+      "buy_price": 444.6000061035156,
+      "peak_at_buy": 797.9536743164062,
+      "cycle_days": 148
+    },
+    "VID": {
+      "company": "Videndum",
+      "buy_date": "2026-07-28",
+      "buy_price": 237.5,
+      "peak_at_buy": 420.0,
+      "cycle_days": 19
     }
   }
 }
