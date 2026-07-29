@@ -85,16 +85,16 @@
       "signal_date": "2026-06-09",
       "growth_pct": 21.1,
       "pre_event_vol": 2.92,
-      "peak_price": 229.39999389648438,
-      "peak_date": "2026-07-28"
+      "peak_price": 230.1999969482422,
+      "peak_date": "2026-07-29"
     },
     "BMY": {
       "company": "Bloomsbury Publishing",
       "signal_date": "2026-03-05",
       "growth_pct": 22.7,
       "pre_event_vol": 2.36,
-      "peak_price": 630.0,
-      "peak_date": "2026-07-28"
+      "peak_price": 638.0,
+      "peak_date": "2026-07-29"
     },
     "BOWL": {
       "company": "Hollywood Bowl Group",
@@ -205,8 +205,8 @@
       "signal_date": "2026-04-07",
       "growth_pct": 24.0,
       "pre_event_vol": 6.46,
-      "peak_price": 32.849998474121094,
-      "peak_date": "2026-07-28"
+      "peak_price": 32.95000076293945,
+      "peak_date": "2026-07-29"
     },
     "CPI": {
       "company": "Capita",
@@ -221,16 +221,16 @@
       "signal_date": "2026-04-20",
       "growth_pct": 20.6,
       "pre_event_vol": 2.69,
-      "peak_price": 3160.0,
-      "peak_date": "2026-07-28"
+      "peak_price": 3220.0,
+      "peak_date": "2026-07-29"
     },
     "CURY": {
       "company": "Currys",
       "signal_date": "2026-05-27",
       "growth_pct": 20.7,
       "pre_event_vol": 2.86,
-      "peak_price": 165.0,
-      "peak_date": "2026-07-28"
+      "peak_price": 168.0,
+      "peak_date": "2026-07-29"
     },
     "CWR": {
       "company": "Ceres Power",
@@ -261,8 +261,8 @@
       "signal_date": "2026-05-01",
       "growth_pct": 21.9,
       "pre_event_vol": 2.3,
-      "peak_price": 6330.0,
-      "peak_date": "2026-07-28"
+      "peak_price": 6350.0,
+      "peak_date": "2026-07-29"
     },
     "DGI9": {
       "company": "Digital 9 Infrastructure",
@@ -309,8 +309,8 @@
       "signal_date": "2026-06-19",
       "growth_pct": 22.4,
       "pre_event_vol": 4.79,
-      "peak_price": 23.600000381469727,
-      "peak_date": "2026-07-28"
+      "peak_price": 24.0,
+      "peak_date": "2026-07-29"
     },
     "EVOK": {
       "company": "Evoke",
@@ -397,8 +397,8 @@
       "signal_date": "2026-07-22",
       "growth_pct": 21.6,
       "pre_event_vol": 2.02,
-      "peak_price": 255.1999969482422,
-      "peak_date": "2026-07-28"
+      "peak_price": 257.0,
+      "peak_date": "2026-07-29"
     },
     "GROW": {
       "company": "Molten Ventures",
@@ -421,8 +421,8 @@
       "signal_date": "2026-06-12",
       "growth_pct": 22.1,
       "pre_event_vol": 2.6,
-      "peak_price": 64.5,
-      "peak_date": "2026-07-28"
+      "peak_price": 64.6500015258789,
+      "peak_date": "2026-07-29"
     },
     "HBR": {
       "company": "Harbour Energy",
@@ -517,8 +517,8 @@
       "signal_date": "2026-02-25",
       "growth_pct": 20.9,
       "pre_event_vol": 2.09,
-      "peak_price": 228.1999969482422,
-      "peak_date": "2026-07-28"
+      "peak_price": 238.0,
+      "peak_date": "2026-07-29"
     },
     "JD": {
       "company": "JD Sports",
@@ -541,8 +541,8 @@
       "signal_date": "2026-04-22",
       "growth_pct": 20.8,
       "pre_event_vol": 2.93,
-      "peak_price": 901.0,
-      "peak_date": "2026-07-28"
+      "peak_price": 929.5,
+      "peak_date": "2026-07-29"
     },
     "LIO": {
       "company": "Liontrust Asset Management",
@@ -557,8 +557,8 @@
       "signal_date": "2026-03-04",
       "growth_pct": 20.8,
       "pre_event_vol": 3.85,
-      "peak_price": 9150.0,
-      "peak_date": "2026-07-28"
+      "peak_price": 9198.0,
+      "peak_date": "2026-07-29"
     },
     "LUCE": {
       "company": "Luceco",
@@ -605,16 +605,16 @@
       "signal_date": "2026-07-06",
       "growth_pct": 20.3,
       "pre_event_vol": 1.61,
-      "peak_price": 274.20001220703125,
-      "peak_date": "2026-07-28"
+      "peak_price": 277.20001220703125,
+      "peak_date": "2026-07-29"
     },
     "MTLN": {
       "company": "Metlen Energy & Metals",
       "signal_date": "2026-05-26",
       "growth_pct": 20.7,
       "pre_event_vol": 3.9,
-      "peak_price": 44.65999984741211,
-      "peak_date": "2026-07-28"
+      "peak_price": 45.400001525878906,
+      "peak_date": "2026-07-29"
     },
     "MTRO": {
       "company": "Metro Bank",
@@ -661,8 +661,8 @@
       "signal_date": "2026-07-13",
       "growth_pct": 22.3,
       "pre_event_vol": 2.86,
-      "peak_price": 194.39999389648438,
-      "peak_date": "2026-07-28"
+      "peak_price": 196.6999969482422,
+      "peak_date": "2026-07-29"
     },
     "PCT": {
       "company": "Polar Capital Technology Trust",
@@ -709,8 +709,8 @@
       "signal_date": "2026-05-28",
       "growth_pct": 21.1,
       "pre_event_vol": 2.05,
-      "peak_price": 859.975830078125,
-      "peak_date": "2026-05-28"
+      "peak_price": 860.0,
+      "peak_date": "2026-07-29"
     },
     "PTEC": {
       "company": "Playtech",
@@ -725,8 +725,8 @@
       "signal_date": "2026-03-06",
       "growth_pct": 23.1,
       "pre_event_vol": 4.51,
-      "peak_price": 2832.0,
-      "peak_date": "2026-07-28"
+      "peak_price": 2874.0,
+      "peak_date": "2026-07-29"
     },
     "RHIM": {
       "company": "RHI Magnesita",
@@ -789,16 +789,16 @@
       "signal_date": "2026-05-22",
       "growth_pct": 22.3,
       "pre_event_vol": 2.25,
-      "peak_price": 1964.0,
-      "peak_date": "2026-07-28"
+      "peak_price": 1987.0,
+      "peak_date": "2026-07-29"
     },
     "SFR": {
       "company": "Severfield",
       "signal_date": "2026-06-29",
       "growth_pct": 23.5,
       "pre_event_vol": 3.59,
-      "peak_price": 36.70000076293945,
-      "peak_date": "2026-07-28"
+      "peak_price": 37.70000076293945,
+      "peak_date": "2026-07-29"
     },
     "SGRO": {
       "company": "Segro",
@@ -909,8 +909,8 @@
       "signal_date": "2026-05-07",
       "growth_pct": 23.1,
       "pre_event_vol": 5.49,
-      "peak_price": 277.0,
-      "peak_date": "2026-07-28"
+      "peak_price": 278.0,
+      "peak_date": "2026-07-29"
     },
     "VCT": {
       "company": "Victrex",
@@ -941,8 +941,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 20.6,
       "pre_event_vol": 2.34,
-      "peak_price": 713.0,
-      "peak_date": "2026-07-28"
+      "peak_price": 714.5,
+      "peak_date": "2026-07-29"
     },
     "XAR": {
       "company": "Xaar",
@@ -965,8 +965,16 @@
       "signal_date": "2026-06-16",
       "growth_pct": 20.2,
       "pre_event_vol": 2.25,
-      "peak_price": 460.0,
-      "peak_date": "2026-07-28"
+      "peak_price": 462.0,
+      "peak_date": "2026-07-29"
+    },
+    "SGE": {
+      "company": "Sage Group",
+      "signal_date": "2026-07-29",
+      "growth_pct": 20.7,
+      "pre_event_vol": 2.3,
+      "peak_price": 1022.0,
+      "peak_date": "2026-07-29"
     }
   },
   "holdings": {
