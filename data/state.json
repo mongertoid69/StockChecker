@@ -5,8 +5,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 23.2,
       "pre_event_vol": 3.03,
-      "peak_price": 3726.0,
-      "peak_date": "2026-07-30"
+      "peak_price": 3733.0,
+      "peak_date": "2026-07-31"
     },
     "AAS": {
       "company": "Aberdeen Asia Focus",
@@ -53,8 +53,8 @@
       "signal_date": "2026-04-28",
       "growth_pct": 20.0,
       "pre_event_vol": 1.66,
-      "peak_price": 666.0,
-      "peak_date": "2026-07-30"
+      "peak_price": 670.0,
+      "peak_date": "2026-07-31"
     },
     "BA": {
       "company": "BAE Systems",
@@ -77,8 +77,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 24.7,
       "pre_event_vol": 2.75,
-      "peak_price": 11609.158203125,
-      "peak_date": "2026-04-20"
+      "peak_price": 11610.0,
+      "peak_date": "2026-07-31"
     },
     "BME": {
       "company": "B&M",
@@ -341,8 +341,8 @@
       "signal_date": "2026-06-01",
       "growth_pct": 24.5,
       "pre_event_vol": 2.76,
-      "peak_price": 624.7999877929688,
-      "peak_date": "2026-07-30"
+      "peak_price": 630.0,
+      "peak_date": "2026-07-31"
     },
     "FCH": {
       "company": "Funding Circle",
@@ -381,8 +381,8 @@
       "signal_date": "2026-06-02",
       "growth_pct": 23.6,
       "pre_event_vol": 6.64,
-      "peak_price": 17160.0,
-      "peak_date": "2026-07-28"
+      "peak_price": 17320.0,
+      "peak_date": "2026-07-31"
     },
     "GFRD": {
       "company": "Galliford Try",
@@ -397,8 +397,8 @@
       "signal_date": "2026-07-22",
       "growth_pct": 21.6,
       "pre_event_vol": 2.02,
-      "peak_price": 259.79998779296875,
-      "peak_date": "2026-07-30"
+      "peak_price": 260.3999938964844,
+      "peak_date": "2026-07-31"
     },
     "GROW": {
       "company": "Molten Ventures",
@@ -517,8 +517,8 @@
       "signal_date": "2026-02-25",
       "growth_pct": 20.9,
       "pre_event_vol": 2.09,
-      "peak_price": 240.0,
-      "peak_date": "2026-07-30"
+      "peak_price": 242.1999969482422,
+      "peak_date": "2026-07-31"
     },
     "JD": {
       "company": "JD Sports",
@@ -613,8 +613,8 @@
       "signal_date": "2026-05-26",
       "growth_pct": 20.7,
       "pre_event_vol": 3.9,
-      "peak_price": 45.400001525878906,
-      "peak_date": "2026-07-29"
+      "peak_price": 46.220001220703125,
+      "peak_date": "2026-07-31"
     },
     "MTRO": {
       "company": "Metro Bank",
@@ -645,8 +645,8 @@
       "signal_date": "2026-06-12",
       "growth_pct": 20.1,
       "pre_event_vol": 3.52,
-      "peak_price": 187.0,
-      "peak_date": "2026-07-30"
+      "peak_price": 187.60000610351562,
+      "peak_date": "2026-07-31"
     },
     "OXIG": {
       "company": "Oxford Instruments",
@@ -669,8 +669,8 @@
       "signal_date": "2026-04-22",
       "growth_pct": 21.1,
       "pre_event_vol": 1.76,
-      "peak_price": 611.5,
-      "peak_date": "2026-07-30"
+      "peak_price": 626.5,
+      "peak_date": "2026-07-31"
     },
     "PHAR": {
       "company": "Pharos Energy",
@@ -757,8 +757,8 @@
       "signal_date": "2026-05-29",
       "growth_pct": 21.7,
       "pre_event_vol": 3.22,
-      "peak_price": 1463.0,
-      "peak_date": "2026-07-30"
+      "peak_price": 1467.800048828125,
+      "peak_date": "2026-07-31"
     },
     "RSW": {
       "company": "Renishaw",
