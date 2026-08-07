@@ -1,22 +1,6 @@
 {
-  "date": "2026-08-05",
-  "new_growth_signals": [
-    {
-      "ticker": "ELM",
-      "company": "Elementis",
-      "growth_pct": 20.6
-    },
-    {
-      "ticker": "FAN",
-      "company": "Volution Group",
-      "growth_pct": 20.5
-    },
-    {
-      "ticker": "OCDO",
-      "company": "Ocado Group",
-      "growth_pct": 22.1
-    }
-  ],
+  "date": "2026-08-07",
+  "new_growth_signals": [],
   "new_buys": [],
   "rejected_buys": [],
   "new_sells": [],
@@ -497,7 +481,7 @@
     {
       "ticker": "HTWS",
       "company": "Helios Towers",
-      "current_price": 195.2,
+      "current_price": 195.19,
       "peak_price": 242.4,
       "pct_below_peak": 19.5,
       "still_needs_to_fall_pct": 10.5
@@ -745,7 +729,7 @@
     {
       "ticker": "REL",
       "company": "RELX",
-      "current_price": 2715.0,
+      "current_price": 2714.79,
       "peak_price": 2874.0,
       "pct_below_peak": 5.5,
       "still_needs_to_fall_pct": 24.5
@@ -777,7 +761,7 @@
     {
       "ticker": "RR",
       "company": "Rolls-Royce Holdings",
-      "current_price": 1570.4,
+      "current_price": 1570.34,
       "peak_price": 1570.4,
       "pct_below_peak": 0.0,
       "still_needs_to_fall_pct": 30.0
@@ -825,7 +809,7 @@
     {
       "ticker": "SGRO",
       "company": "Segro",
-      "current_price": 971.8,
+      "current_price": 971.7,
       "peak_price": 997.4,
       "pct_below_peak": 2.6,
       "still_needs_to_fall_pct": 27.4
@@ -897,7 +881,7 @@
     {
       "ticker": "TEP",
       "company": "Telecom Plus",
-      "current_price": 859.0,
+      "current_price": 858.88,
       "peak_price": 870.0,
       "pct_below_peak": 1.3,
       "still_needs_to_fall_pct": 28.7
