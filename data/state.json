@@ -53,8 +53,8 @@
       "signal_date": "2026-04-28",
       "growth_pct": 20.0,
       "pre_event_vol": 1.66,
-      "peak_price": 732.0,
-      "peak_date": "2026-08-12"
+      "peak_price": 738.0,
+      "peak_date": "2026-08-13"
     },
     "BA": {
       "company": "BAE Systems",
@@ -77,8 +77,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 24.7,
       "pre_event_vol": 2.75,
-      "peak_price": 12720.0,
-      "peak_date": "2026-08-12"
+      "peak_price": 13380.0,
+      "peak_date": "2026-08-13"
     },
     "BME": {
       "company": "B&M",
@@ -157,8 +157,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 20.2,
       "pre_event_vol": 2.07,
-      "peak_price": 4852.0,
-      "peak_date": "2026-08-10"
+      "peak_price": 4938.0,
+      "peak_date": "2026-08-13"
     },
     "CCEP": {
       "company": "Coca-Cola Europacific Partners",
@@ -277,8 +277,8 @@
       "signal_date": "2026-05-29",
       "growth_pct": 21.3,
       "pre_event_vol": 2.14,
-      "peak_price": 88.19999694824219,
-      "peak_date": "2026-08-12"
+      "peak_price": 88.5,
+      "peak_date": "2026-08-13"
     },
     "DPLM": {
       "company": "Diploma",
@@ -317,8 +317,8 @@
       "signal_date": "2026-02-27",
       "growth_pct": 20.3,
       "pre_event_vol": 3.51,
-      "peak_price": 45.599998474121094,
-      "peak_date": "2026-08-12"
+      "peak_price": 46.0,
+      "peak_date": "2026-08-13"
     },
     "EWG": {
       "company": "Eurowag",
@@ -349,16 +349,16 @@
       "signal_date": "2026-04-21",
       "growth_pct": 22.8,
       "pre_event_vol": 2.17,
-      "peak_price": 236.5,
-      "peak_date": "2026-08-05"
+      "peak_price": 238.5,
+      "peak_date": "2026-08-13"
     },
     "FEML": {
       "company": "Fidelity Emerging Markets",
       "signal_date": "2026-04-23",
       "growth_pct": 21.2,
       "pre_event_vol": 1.71,
-      "peak_price": 1460.0,
-      "peak_date": "2026-08-12"
+      "peak_price": 1474.0,
+      "peak_date": "2026-08-13"
     },
     "FSJ": {
       "company": "James Fisher & Sons",
@@ -389,8 +389,8 @@
       "signal_date": "2026-07-22",
       "growth_pct": 20.7,
       "pre_event_vol": 1.88,
-      "peak_price": 620.0,
-      "peak_date": "2026-08-11"
+      "peak_price": 626.0,
+      "peak_date": "2026-08-13"
     },
     "GNC": {
       "company": "Greencore",
@@ -405,8 +405,8 @@
       "signal_date": "2026-04-23",
       "growth_pct": 20.5,
       "pre_event_vol": 2.29,
-      "peak_price": 677.5,
-      "peak_date": "2026-08-12"
+      "peak_price": 684.0,
+      "peak_date": "2026-08-13"
     },
     "GSK": {
       "company": "GSK plc",
@@ -445,8 +445,8 @@
       "signal_date": "2026-06-18",
       "growth_pct": 21.1,
       "pre_event_vol": 3.21,
-      "peak_price": 403.0,
-      "peak_date": "2026-08-12"
+      "peak_price": 408.0,
+      "peak_date": "2026-08-13"
     },
     "HILS": {
       "company": "Hill & Smith",
@@ -653,8 +653,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 20.4,
       "pre_event_vol": 2.23,
-      "peak_price": 2926.0,
-      "peak_date": "2026-08-12"
+      "peak_price": 2950.0,
+      "peak_date": "2026-08-13"
     },
     "PAGE": {
       "company": "PageGroup",
@@ -669,8 +669,8 @@
       "signal_date": "2026-04-22",
       "growth_pct": 21.1,
       "pre_event_vol": 1.76,
-      "peak_price": 680.0,
-      "peak_date": "2026-08-05"
+      "peak_price": 685.0,
+      "peak_date": "2026-08-13"
     },
     "PHAR": {
       "company": "Pharos Energy",
@@ -789,8 +789,8 @@
       "signal_date": "2026-05-22",
       "growth_pct": 22.3,
       "pre_event_vol": 2.25,
-      "peak_price": 1995.0,
-      "peak_date": "2026-08-10"
+      "peak_price": 2008.0,
+      "peak_date": "2026-08-13"
     },
     "SFR": {
       "company": "Severfield",
@@ -829,8 +829,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 21.2,
       "pre_event_vol": 1.85,
-      "peak_price": 1425.5,
-      "peak_date": "2026-08-12"
+      "peak_price": 1449.5,
+      "peak_date": "2026-08-13"
     },
     "SNR": {
       "company": "Senior",
@@ -893,8 +893,8 @@
       "signal_date": "2026-07-10",
       "growth_pct": 21.8,
       "pre_event_vol": 3.01,
-      "peak_price": 88.5999984741211,
-      "peak_date": "2026-08-12"
+      "peak_price": 92.5999984741211,
+      "peak_date": "2026-08-13"
     },
     "TRN": {
       "company": "Trainline",
@@ -1045,8 +1045,8 @@
       "signal_date": "2026-08-05",
       "growth_pct": 22.1,
       "pre_event_vol": 3.33,
-      "peak_price": 255.0,
-      "peak_date": "2026-08-12"
+      "peak_price": 257.3999938964844,
+      "peak_date": "2026-08-13"
     },
     "ATYM": {
       "company": "Atalaya Mining",
@@ -1061,8 +1061,8 @@
       "signal_date": "2026-08-07",
       "growth_pct": 21.0,
       "pre_event_vol": 2.19,
-      "peak_price": 353.20001220703125,
-      "peak_date": "2026-08-07"
+      "peak_price": 355.3999938964844,
+      "peak_date": "2026-08-13"
     },
     "GEN": {
       "company": "Genuit Group",
@@ -1103,6 +1103,14 @@
       "pre_event_vol": 1.59,
       "peak_price": 277.20001220703125,
       "peak_date": "2026-08-12"
+    },
+    "FOUR": {
+      "company": "4imprint",
+      "signal_date": "2026-08-13",
+      "growth_pct": 21.3,
+      "pre_event_vol": 2.22,
+      "peak_price": 4784.0,
+      "peak_date": "2026-08-13"
     }
   },
   "holdings": {
