@@ -418,5 +418,19 @@
     "proceeds": 1355.97,
     "profit": 355.97,
     "return_pct": 35.6
+  },
+  {
+    "ticker": "RWA",
+    "company": "Robert Walters",
+    "status": "Sold (hit target)",
+    "buy_date": "2026-03-05",
+    "sell_date": "2026-08-14",
+    "buy_price": 110.0,
+    "sell_price": 147.0,
+    "days_held": 112,
+    "invested": 1000,
+    "proceeds": 1336.36,
+    "profit": 336.36,
+    "return_pct": 33.64
   }
 ]
