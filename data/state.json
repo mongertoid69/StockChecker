@@ -189,8 +189,8 @@
       "signal_date": "2026-06-08",
       "growth_pct": 20.8,
       "pre_event_vol": 2.48,
-      "peak_price": 721.0,
-      "peak_date": "2026-07-28"
+      "peak_price": 733.0,
+      "peak_date": "2026-08-17"
     },
     "CNE": {
       "company": "Capricorn Energy",
@@ -357,8 +357,8 @@
       "signal_date": "2026-04-23",
       "growth_pct": 21.2,
       "pre_event_vol": 1.71,
-      "peak_price": 1478.0,
-      "peak_date": "2026-08-14"
+      "peak_price": 1496.0,
+      "peak_date": "2026-08-17"
     },
     "FSJ": {
       "company": "James Fisher & Sons",
@@ -413,8 +413,8 @@
       "signal_date": "2026-06-12",
       "growth_pct": 22.1,
       "pre_event_vol": 2.6,
-      "peak_price": 69.0999984741211,
-      "peak_date": "2026-08-14"
+      "peak_price": 69.19999694824219,
+      "peak_date": "2026-08-17"
     },
     "HBR": {
       "company": "Harbour Energy",
@@ -509,8 +509,8 @@
       "signal_date": "2026-02-25",
       "growth_pct": 20.9,
       "pre_event_vol": 2.09,
-      "peak_price": 243.60000610351562,
-      "peak_date": "2026-08-11"
+      "peak_price": 244.60000610351562,
+      "peak_date": "2026-08-17"
     },
     "JD": {
       "company": "JD Sports",
@@ -533,8 +533,8 @@
       "signal_date": "2026-04-22",
       "growth_pct": 20.8,
       "pre_event_vol": 2.93,
-      "peak_price": 970.0,
-      "peak_date": "2026-08-14"
+      "peak_price": 972.5,
+      "peak_date": "2026-08-17"
     },
     "LIO": {
       "company": "Liontrust Asset Management",
@@ -653,16 +653,16 @@
       "signal_date": "2026-07-13",
       "growth_pct": 22.3,
       "pre_event_vol": 2.86,
-      "peak_price": 205.39999389648438,
-      "peak_date": "2026-08-14"
+      "peak_price": 206.1999969482422,
+      "peak_date": "2026-08-17"
     },
     "PCT": {
       "company": "Polar Capital Technology Trust",
       "signal_date": "2026-04-22",
       "growth_pct": 21.1,
       "pre_event_vol": 1.76,
-      "peak_price": 685.0,
-      "peak_date": "2026-08-13"
+      "peak_price": 686.0,
+      "peak_date": "2026-08-17"
     },
     "PHAR": {
       "company": "Pharos Energy",
@@ -677,8 +677,8 @@
       "signal_date": "2026-05-06",
       "growth_pct": 24.4,
       "pre_event_vol": 1.82,
-      "peak_price": 1118.0,
-      "peak_date": "2026-08-05"
+      "peak_price": 1130.0,
+      "peak_date": "2026-08-17"
     },
     "POLN": {
       "company": "Pollen Street Group",
@@ -757,8 +757,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 22.6,
       "pre_event_vol": 2.46,
-      "peak_price": 5290.0,
-      "peak_date": "2026-08-12"
+      "peak_price": 5300.0,
+      "peak_date": "2026-08-17"
     },
     "SAGA": {
       "company": "Saga",
@@ -821,8 +821,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 21.2,
       "pre_event_vol": 1.85,
-      "peak_price": 1449.5,
-      "peak_date": "2026-08-13"
+      "peak_price": 1450.5,
+      "peak_date": "2026-08-17"
     },
     "SNR": {
       "company": "Senior",
@@ -869,8 +869,8 @@
       "signal_date": "2026-07-21",
       "growth_pct": 22.5,
       "pre_event_vol": 3.43,
-      "peak_price": 870.0,
-      "peak_date": "2026-07-21"
+      "peak_price": 906.0,
+      "peak_date": "2026-08-17"
     },
     "THG": {
       "company": "THG",
@@ -949,8 +949,8 @@
       "signal_date": "2026-04-27",
       "growth_pct": 21.8,
       "pre_event_vol": 2.32,
-      "peak_price": 1796.0,
-      "peak_date": "2026-08-11"
+      "peak_price": 1846.0,
+      "peak_date": "2026-08-17"
     },
     "ZTF": {
       "company": "Zotefoams",
@@ -1103,6 +1103,22 @@
       "pre_event_vol": 2.22,
       "peak_price": 4784.0,
       "peak_date": "2026-08-13"
+    },
+    "MNDI": {
+      "company": "Mondi",
+      "signal_date": "2026-08-17",
+      "growth_pct": 20.1,
+      "pre_event_vol": 2.24,
+      "peak_price": 869.5999755859375,
+      "peak_date": "2026-08-17"
+    },
+    "RWA": {
+      "company": "Robert Walters",
+      "signal_date": "2026-04-23",
+      "growth_pct": 24.8,
+      "pre_event_vol": 3.44,
+      "peak_price": 164.0,
+      "peak_date": "2026-08-17"
     }
   },
   "holdings": {
