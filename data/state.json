@@ -21,8 +21,8 @@
       "signal_date": "2026-04-07",
       "growth_pct": 20.1,
       "pre_event_vol": 1.68,
-      "peak_price": 190.9611053466797,
-      "peak_date": "2026-04-07"
+      "peak_price": 192.1999969482422,
+      "peak_date": "2026-08-19"
     },
     "AJB": {
       "company": "AJ Bell",
@@ -85,8 +85,8 @@
       "signal_date": "2026-06-09",
       "growth_pct": 21.1,
       "pre_event_vol": 2.92,
-      "peak_price": 237.1999969482422,
-      "peak_date": "2026-08-12"
+      "peak_price": 239.39999389648438,
+      "peak_date": "2026-08-19"
     },
     "BMY": {
       "company": "Bloomsbury Publishing",
@@ -133,16 +133,16 @@
       "signal_date": "2026-04-21",
       "growth_pct": 20.3,
       "pre_event_vol": 3.26,
-      "peak_price": 988.0,
-      "peak_date": "2026-08-12"
+      "peak_price": 995.0,
+      "peak_date": "2026-08-19"
     },
     "BYIT": {
       "company": "Bytes Technology Group",
       "signal_date": "2026-04-23",
       "growth_pct": 21.6,
       "pre_event_vol": 3.03,
-      "peak_price": 417.79998779296875,
-      "peak_date": "2026-08-07"
+      "peak_price": 420.20001220703125,
+      "peak_date": "2026-08-19"
     },
     "CBG": {
       "company": "Close Brothers Group",
@@ -309,8 +309,8 @@
       "signal_date": "2026-06-19",
       "growth_pct": 22.4,
       "pre_event_vol": 4.79,
-      "peak_price": 25.399999618530273,
-      "peak_date": "2026-08-18"
+      "peak_price": 26.100000381469727,
+      "peak_date": "2026-08-19"
     },
     "EVOK": {
       "company": "Evoke",
@@ -397,8 +397,8 @@
       "signal_date": "2026-04-23",
       "growth_pct": 20.5,
       "pre_event_vol": 2.29,
-      "peak_price": 687.5,
-      "peak_date": "2026-08-14"
+      "peak_price": 697.0,
+      "peak_date": "2026-08-19"
     },
     "GSK": {
       "company": "GSK plc",
@@ -413,8 +413,8 @@
       "signal_date": "2026-06-12",
       "growth_pct": 22.1,
       "pre_event_vol": 2.6,
-      "peak_price": 69.4000015258789,
-      "peak_date": "2026-08-18"
+      "peak_price": 71.44999694824219,
+      "peak_date": "2026-08-19"
     },
     "HBR": {
       "company": "Harbour Energy",
@@ -437,8 +437,8 @@
       "signal_date": "2026-06-18",
       "growth_pct": 21.1,
       "pre_event_vol": 3.21,
-      "peak_price": 427.0,
-      "peak_date": "2026-08-14"
+      "peak_price": 435.0,
+      "peak_date": "2026-08-19"
     },
     "HILS": {
       "company": "Hill & Smith",
@@ -509,8 +509,8 @@
       "signal_date": "2026-02-25",
       "growth_pct": 20.9,
       "pre_event_vol": 2.09,
-      "peak_price": 251.60000610351562,
-      "peak_date": "2026-08-18"
+      "peak_price": 257.6000061035156,
+      "peak_date": "2026-08-19"
     },
     "JD": {
       "company": "JD Sports",
@@ -533,8 +533,8 @@
       "signal_date": "2026-04-22",
       "growth_pct": 20.8,
       "pre_event_vol": 2.93,
-      "peak_price": 1186.0,
-      "peak_date": "2026-08-18"
+      "peak_price": 1213.0,
+      "peak_date": "2026-08-19"
     },
     "LIO": {
       "company": "Liontrust Asset Management",
@@ -629,8 +629,8 @@
       "signal_date": "2026-06-01",
       "growth_pct": 21.0,
       "pre_event_vol": 3.73,
-      "peak_price": 136.0,
-      "peak_date": "2026-06-01"
+      "peak_price": 139.6999969482422,
+      "peak_date": "2026-08-19"
     },
     "OTB": {
       "company": "On The Beach Group",
@@ -653,8 +653,8 @@
       "signal_date": "2026-07-13",
       "growth_pct": 22.3,
       "pre_event_vol": 2.86,
-      "peak_price": 209.0,
-      "peak_date": "2026-08-18"
+      "peak_price": 211.8000030517578,
+      "peak_date": "2026-08-19"
     },
     "PCT": {
       "company": "Polar Capital Technology Trust",
@@ -821,8 +821,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 21.2,
       "pre_event_vol": 1.85,
-      "peak_price": 1450.5,
-      "peak_date": "2026-08-17"
+      "peak_price": 1460.5,
+      "peak_date": "2026-08-19"
     },
     "SNR": {
       "company": "Senior",
@@ -909,8 +909,8 @@
       "signal_date": "2026-07-23",
       "growth_pct": 20.0,
       "pre_event_vol": 2.62,
-      "peak_price": 822.0,
-      "peak_date": "2026-08-07"
+      "peak_price": 834.0,
+      "peak_date": "2026-08-19"
     },
     "VOD": {
       "company": "Vodafone Group",
@@ -965,8 +965,8 @@
       "signal_date": "2026-07-29",
       "growth_pct": 20.7,
       "pre_event_vol": 2.3,
-      "peak_price": 1063.0,
-      "peak_date": "2026-08-18"
+      "peak_price": 1073.0,
+      "peak_date": "2026-08-19"
     },
     "WPP": {
       "company": "WPP",
