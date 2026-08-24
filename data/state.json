@@ -5,8 +5,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 23.2,
       "pre_event_vol": 3.03,
-      "peak_price": 4067.0,
-      "peak_date": "2026-08-21"
+      "peak_price": 4118.0,
+      "peak_date": "2026-08-24"
     },
     "AAS": {
       "company": "Aberdeen Asia Focus",
@@ -21,8 +21,8 @@
       "signal_date": "2026-04-07",
       "growth_pct": 20.1,
       "pre_event_vol": 1.68,
-      "peak_price": 192.39999389648438,
-      "peak_date": "2026-08-21"
+      "peak_price": 195.0,
+      "peak_date": "2026-08-24"
     },
     "AJB": {
       "company": "AJ Bell",
@@ -85,8 +85,8 @@
       "signal_date": "2026-06-09",
       "growth_pct": 21.1,
       "pre_event_vol": 2.92,
-      "peak_price": 239.39999389648438,
-      "peak_date": "2026-08-19"
+      "peak_price": 243.60000610351562,
+      "peak_date": "2026-08-24"
     },
     "BMY": {
       "company": "Bloomsbury Publishing",
@@ -133,8 +133,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 20.3,
       "pre_event_vol": 3.26,
-      "peak_price": 1018.0,
-      "peak_date": "2026-08-21"
+      "peak_price": 1032.0,
+      "peak_date": "2026-08-24"
     },
     "BYIT": {
       "company": "Bytes Technology Group",
@@ -157,8 +157,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 20.2,
       "pre_event_vol": 2.07,
-      "peak_price": 5085.0,
-      "peak_date": "2026-08-21"
+      "peak_price": 5100.0,
+      "peak_date": "2026-08-24"
     },
     "CCEP": {
       "company": "Coca-Cola Europacific Partners",
@@ -221,8 +221,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 20.6,
       "pre_event_vol": 2.69,
-      "peak_price": 3433.0,
-      "peak_date": "2026-08-21"
+      "peak_price": 3468.0,
+      "peak_date": "2026-08-24"
     },
     "CURY": {
       "company": "Currys",
@@ -389,8 +389,8 @@
       "signal_date": "2026-07-22",
       "growth_pct": 21.6,
       "pre_event_vol": 2.02,
-      "peak_price": 266.20001220703125,
-      "peak_date": "2026-08-21"
+      "peak_price": 267.6000061035156,
+      "peak_date": "2026-08-24"
     },
     "GROW": {
       "company": "Molten Ventures",
@@ -413,8 +413,8 @@
       "signal_date": "2026-06-12",
       "growth_pct": 22.1,
       "pre_event_vol": 2.6,
-      "peak_price": 72.1500015258789,
-      "peak_date": "2026-08-21"
+      "peak_price": 72.5,
+      "peak_date": "2026-08-24"
     },
     "HBR": {
       "company": "Harbour Energy",
@@ -493,8 +493,8 @@
       "signal_date": "2026-07-06",
       "growth_pct": 20.0,
       "pre_event_vol": 3.48,
-      "peak_price": 2922.0,
-      "peak_date": "2026-08-05"
+      "peak_price": 2934.0,
+      "peak_date": "2026-08-24"
     },
     "IPO": {
       "company": "IP Group",
@@ -685,8 +685,8 @@
       "signal_date": "2026-04-15",
       "growth_pct": 20.2,
       "pre_event_vol": 2.08,
-      "peak_price": 877.0,
-      "peak_date": "2026-04-15"
+      "peak_price": 878.0,
+      "peak_date": "2026-08-24"
     },
     "PPH": {
       "company": "PPHE Hotel Group",
@@ -709,8 +709,8 @@
       "signal_date": "2026-02-26",
       "growth_pct": 23.3,
       "pre_event_vol": 3.59,
-      "peak_price": 396.20001220703125,
-      "peak_date": "2026-07-28"
+      "peak_price": 412.20001220703125,
+      "peak_date": "2026-08-24"
     },
     "REL": {
       "company": "RELX",
@@ -781,8 +781,8 @@
       "signal_date": "2026-05-22",
       "growth_pct": 22.3,
       "pre_event_vol": 2.25,
-      "peak_price": 2052.0,
-      "peak_date": "2026-08-14"
+      "peak_price": 2054.0,
+      "peak_date": "2026-08-24"
     },
     "SFR": {
       "company": "Severfield",
@@ -965,8 +965,8 @@
       "signal_date": "2026-07-29",
       "growth_pct": 20.7,
       "pre_event_vol": 2.3,
-      "peak_price": 1098.0,
-      "peak_date": "2026-08-21"
+      "peak_price": 1105.0,
+      "peak_date": "2026-08-24"
     },
     "WPP": {
       "company": "WPP",
@@ -989,8 +989,8 @@
       "signal_date": "2026-08-04",
       "growth_pct": 20.3,
       "pre_event_vol": 889.18,
-      "peak_price": 124.19999694824219,
-      "peak_date": "2026-08-04"
+      "peak_price": 124.80000305175781,
+      "peak_date": "2026-08-24"
     },
     "RS1": {
       "company": "RS Group",
@@ -1045,8 +1045,8 @@
       "signal_date": "2026-08-06",
       "growth_pct": 23.4,
       "pre_event_vol": 3.4,
-      "peak_price": 1000.0,
-      "peak_date": "2026-08-21"
+      "peak_price": 1010.0,
+      "peak_date": "2026-08-24"
     },
     "BREE": {
       "company": "Breedon Group",
