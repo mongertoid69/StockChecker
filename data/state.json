@@ -5,8 +5,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 23.2,
       "pre_event_vol": 3.03,
-      "peak_price": 4118.0,
-      "peak_date": "2026-08-24"
+      "peak_price": 4203.0,
+      "peak_date": "2026-08-25"
     },
     "AAS": {
       "company": "Aberdeen Asia Focus",
@@ -85,8 +85,8 @@
       "signal_date": "2026-06-09",
       "growth_pct": 21.1,
       "pre_event_vol": 2.92,
-      "peak_price": 243.60000610351562,
-      "peak_date": "2026-08-24"
+      "peak_price": 246.8000030517578,
+      "peak_date": "2026-08-25"
     },
     "BMY": {
       "company": "Bloomsbury Publishing",
@@ -133,8 +133,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 20.3,
       "pre_event_vol": 3.26,
-      "peak_price": 1032.0,
-      "peak_date": "2026-08-24"
+      "peak_price": 1040.0,
+      "peak_date": "2026-08-25"
     },
     "BYIT": {
       "company": "Bytes Technology Group",
@@ -157,8 +157,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 20.2,
       "pre_event_vol": 2.07,
-      "peak_price": 5100.0,
-      "peak_date": "2026-08-24"
+      "peak_price": 5190.0,
+      "peak_date": "2026-08-25"
     },
     "CCEP": {
       "company": "Coca-Cola Europacific Partners",
@@ -341,8 +341,8 @@
       "signal_date": "2026-06-01",
       "growth_pct": 24.5,
       "pre_event_vol": 2.76,
-      "peak_price": 675.0,
-      "peak_date": "2026-08-10"
+      "peak_price": 676.0,
+      "peak_date": "2026-08-25"
     },
     "FCH": {
       "company": "Funding Circle",
@@ -381,8 +381,8 @@
       "signal_date": "2026-07-22",
       "growth_pct": 20.7,
       "pre_event_vol": 1.88,
-      "peak_price": 626.0,
-      "peak_date": "2026-08-13"
+      "peak_price": 628.0,
+      "peak_date": "2026-08-25"
     },
     "GNC": {
       "company": "Greencore",
@@ -413,8 +413,8 @@
       "signal_date": "2026-06-12",
       "growth_pct": 22.1,
       "pre_event_vol": 2.6,
-      "peak_price": 72.5,
-      "peak_date": "2026-08-24"
+      "peak_price": 76.19999694824219,
+      "peak_date": "2026-08-25"
     },
     "HBR": {
       "company": "Harbour Energy",
@@ -501,8 +501,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 23.5,
       "pre_event_vol": 2.73,
-      "peak_price": 71.80000305175781,
-      "peak_date": "2026-08-12"
+      "peak_price": 72.0,
+      "peak_date": "2026-08-25"
     },
     "ITH": {
       "company": "Ithaca Energy",
@@ -629,8 +629,8 @@
       "signal_date": "2026-06-01",
       "growth_pct": 21.0,
       "pre_event_vol": 3.73,
-      "peak_price": 170.0,
-      "peak_date": "2026-08-21"
+      "peak_price": 183.0,
+      "peak_date": "2026-08-25"
     },
     "OTB": {
       "company": "On The Beach Group",
@@ -781,8 +781,8 @@
       "signal_date": "2026-05-22",
       "growth_pct": 22.3,
       "pre_event_vol": 2.25,
-      "peak_price": 2054.0,
-      "peak_date": "2026-08-24"
+      "peak_price": 2082.0,
+      "peak_date": "2026-08-25"
     },
     "SFR": {
       "company": "Severfield",
@@ -821,8 +821,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 21.2,
       "pre_event_vol": 1.85,
-      "peak_price": 1464.0,
-      "peak_date": "2026-08-21"
+      "peak_price": 1477.5,
+      "peak_date": "2026-08-25"
     },
     "SNR": {
       "company": "Senior",
@@ -989,8 +989,8 @@
       "signal_date": "2026-08-04",
       "growth_pct": 20.3,
       "pre_event_vol": 889.18,
-      "peak_price": 124.80000305175781,
-      "peak_date": "2026-08-24"
+      "peak_price": 125.80000305175781,
+      "peak_date": "2026-08-25"
     },
     "RS1": {
       "company": "RS Group",
@@ -1045,8 +1045,8 @@
       "signal_date": "2026-08-06",
       "growth_pct": 23.4,
       "pre_event_vol": 3.4,
-      "peak_price": 1010.0,
-      "peak_date": "2026-08-24"
+      "peak_price": 1030.0,
+      "peak_date": "2026-08-25"
     },
     "BREE": {
       "company": "Breedon Group",
@@ -1119,6 +1119,14 @@
       "pre_event_vol": 3.44,
       "peak_price": 164.0,
       "peak_date": "2026-08-17"
+    },
+    "FRES": {
+      "company": "Fresnillo plc",
+      "signal_date": "2026-08-25",
+      "growth_pct": 23.9,
+      "pre_event_vol": 3.67,
+      "peak_price": 3176.0,
+      "peak_date": "2026-08-25"
     }
   },
   "holdings": {
