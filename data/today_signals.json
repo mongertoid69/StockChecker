@@ -1,12 +1,6 @@
 {
-  "date": "2026-08-25",
-  "new_growth_signals": [
-    {
-      "ticker": "FRES",
-      "company": "Fresnillo plc",
-      "growth_pct": 23.9
-    }
-  ],
+  "date": "2026-08-28",
+  "new_growth_signals": [],
   "new_buys": [],
   "rejected_buys": [],
   "new_sells": [],
@@ -15,8 +9,8 @@
     {
       "ticker": "AAL",
       "company": "Anglo American plc",
-      "current_price": 4203.0,
-      "peak_price": 4203.0,
+      "current_price": 4220.0,
+      "peak_price": 4220.0,
       "pct_below_peak": 0.0,
       "still_needs_to_fall_pct": 30.0
     },
@@ -31,178 +25,178 @@
     {
       "ticker": "AEP",
       "company": "AEP Plantations",
-      "current_price": 193.4,
-      "peak_price": 195.0,
-      "pct_below_peak": 0.8,
-      "still_needs_to_fall_pct": 29.2
-    },
-    {
-      "ticker": "AJB",
-      "company": "AJ Bell",
-      "current_price": 616.5,
-      "peak_price": 618.0,
-      "pct_below_peak": 0.2,
-      "still_needs_to_fall_pct": 29.8
-    },
-    {
-      "ticker": "ANTO",
-      "company": "Antofagasta plc",
-      "current_price": 4009.0,
-      "peak_price": 4454.59,
-      "pct_below_peak": 10.0,
-      "still_needs_to_fall_pct": 20.0
-    },
-    {
-      "ticker": "APN",
-      "company": "Applied Nutrition",
-      "current_price": 321.5,
-      "peak_price": 350.5,
-      "pct_below_peak": 8.3,
-      "still_needs_to_fall_pct": 21.7
-    },
-    {
-      "ticker": "ATT",
-      "company": "Allianz Technology Trust",
-      "current_price": 688.0,
-      "peak_price": 738.0,
-      "pct_below_peak": 6.8,
-      "still_needs_to_fall_pct": 23.2
-    },
-    {
-      "ticker": "BA",
-      "company": "BAE Systems",
-      "current_price": 2098.0,
-      "peak_price": 2270.0,
-      "pct_below_peak": 7.6,
-      "still_needs_to_fall_pct": 22.4
-    },
-    {
-      "ticker": "BAB",
-      "company": "Babcock International",
-      "current_price": 1092.5,
-      "peak_price": 1205.0,
-      "pct_below_peak": 9.3,
-      "still_needs_to_fall_pct": 20.7
-    },
-    {
-      "ticker": "BGEO",
-      "company": "Lion Finance Group",
-      "current_price": 13330.0,
-      "peak_price": 13510.0,
-      "pct_below_peak": 1.3,
-      "still_needs_to_fall_pct": 28.7
-    },
-    {
-      "ticker": "BME",
-      "company": "B&M",
-      "current_price": 246.8,
-      "peak_price": 246.8,
+      "current_price": 195.6,
+      "peak_price": 195.6,
       "pct_below_peak": 0.0,
       "still_needs_to_fall_pct": 30.0
     },
     {
-      "ticker": "BMY",
-      "company": "Bloomsbury Publishing",
-      "current_price": 656.0,
-      "peak_price": 664.0,
+      "ticker": "AJB",
+      "company": "AJ Bell",
+      "current_price": 611.5,
+      "peak_price": 618.0,
+      "pct_below_peak": 1.1,
+      "still_needs_to_fall_pct": 28.9
+    },
+    {
+      "ticker": "ANTO",
+      "company": "Antofagasta plc",
+      "current_price": 4024.0,
+      "peak_price": 4454.59,
+      "pct_below_peak": 9.7,
+      "still_needs_to_fall_pct": 20.3
+    },
+    {
+      "ticker": "APN",
+      "company": "Applied Nutrition",
+      "current_price": 316.5,
+      "peak_price": 350.5,
+      "pct_below_peak": 9.7,
+      "still_needs_to_fall_pct": 20.3
+    },
+    {
+      "ticker": "ATT",
+      "company": "Allianz Technology Trust",
+      "current_price": 686.0,
+      "peak_price": 738.0,
+      "pct_below_peak": 7.0,
+      "still_needs_to_fall_pct": 23.0
+    },
+    {
+      "ticker": "BA",
+      "company": "BAE Systems",
+      "current_price": 2088.0,
+      "peak_price": 2270.0,
+      "pct_below_peak": 8.0,
+      "still_needs_to_fall_pct": 22.0
+    },
+    {
+      "ticker": "BAB",
+      "company": "Babcock International",
+      "current_price": 1085.5,
+      "peak_price": 1205.0,
+      "pct_below_peak": 9.9,
+      "still_needs_to_fall_pct": 20.1
+    },
+    {
+      "ticker": "BGEO",
+      "company": "Lion Finance Group",
+      "current_price": 13350.0,
+      "peak_price": 13510.0,
       "pct_below_peak": 1.2,
       "still_needs_to_fall_pct": 28.8
     },
     {
+      "ticker": "BME",
+      "company": "B&M",
+      "current_price": 245.8,
+      "peak_price": 246.8,
+      "pct_below_peak": 0.4,
+      "still_needs_to_fall_pct": 29.6
+    },
+    {
+      "ticker": "BMY",
+      "company": "Bloomsbury Publishing",
+      "current_price": 647.0,
+      "peak_price": 664.0,
+      "pct_below_peak": 2.6,
+      "still_needs_to_fall_pct": 27.4
+    },
+    {
       "ticker": "BOWL",
       "company": "Hollywood Bowl Group",
-      "current_price": 279.0,
+      "current_price": 279.5,
       "peak_price": 307.45,
-      "pct_below_peak": 9.3,
-      "still_needs_to_fall_pct": 20.7
+      "pct_below_peak": 9.1,
+      "still_needs_to_fall_pct": 20.9
     },
     {
       "ticker": "BOY",
       "company": "Bodycote",
-      "current_price": 905.0,
+      "current_price": 910.0,
       "peak_price": 923.0,
-      "pct_below_peak": 2.0,
-      "still_needs_to_fall_pct": 28.0
+      "pct_below_peak": 1.4,
+      "still_needs_to_fall_pct": 28.6
     },
     {
       "ticker": "BP",
       "company": "BP",
-      "current_price": 528.6,
+      "current_price": 522.7,
       "peak_price": 583.13,
-      "pct_below_peak": 9.4,
-      "still_needs_to_fall_pct": 20.6
+      "pct_below_peak": 10.4,
+      "still_needs_to_fall_pct": 19.6
     },
     {
       "ticker": "BPT",
       "company": "Bridgepoint Group",
-      "current_price": 316.6,
+      "current_price": 314.8,
       "peak_price": 345.0,
-      "pct_below_peak": 8.2,
-      "still_needs_to_fall_pct": 21.8
+      "pct_below_peak": 8.8,
+      "still_needs_to_fall_pct": 21.2
     },
     {
       "ticker": "BRWM",
       "company": "BlackRock World Mining Trust",
-      "current_price": 1040.0,
-      "peak_price": 1040.0,
+      "current_price": 1042.0,
+      "peak_price": 1042.0,
       "pct_below_peak": 0.0,
       "still_needs_to_fall_pct": 30.0
     },
     {
       "ticker": "BYIT",
       "company": "Bytes Technology Group",
-      "current_price": 413.8,
-      "peak_price": 420.2,
-      "pct_below_peak": 1.5,
-      "still_needs_to_fall_pct": 28.5
+      "current_price": 425.6,
+      "peak_price": 425.6,
+      "pct_below_peak": 0.0,
+      "still_needs_to_fall_pct": 30.0
     },
     {
       "ticker": "CBG",
       "company": "Close Brothers Group",
-      "current_price": 428.0,
+      "current_price": 420.0,
       "peak_price": 482.6,
-      "pct_below_peak": 11.3,
-      "still_needs_to_fall_pct": 18.7
+      "pct_below_peak": 13.0,
+      "still_needs_to_fall_pct": 17.0
     },
     {
       "ticker": "CCC",
       "company": "Computacenter",
-      "current_price": 5190.0,
-      "peak_price": 5190.0,
+      "current_price": 5215.0,
+      "peak_price": 5215.0,
       "pct_below_peak": 0.0,
       "still_needs_to_fall_pct": 30.0
     },
     {
       "ticker": "CCEP",
       "company": "Coca-Cola Europacific Partners",
-      "current_price": 8070.0,
+      "current_price": 8085.0,
       "peak_price": 8440.0,
-      "pct_below_peak": 4.4,
-      "still_needs_to_fall_pct": 25.6
+      "pct_below_peak": 4.2,
+      "still_needs_to_fall_pct": 25.8
     },
     {
       "ticker": "CCH",
       "company": "Coca-Cola HBC",
-      "current_price": 4602.0,
+      "current_price": 4666.0,
       "peak_price": 5085.0,
-      "pct_below_peak": 9.5,
-      "still_needs_to_fall_pct": 20.5
+      "pct_below_peak": 8.2,
+      "still_needs_to_fall_pct": 21.8
     },
     {
       "ticker": "CHG",
       "company": "Chemring Group",
-      "current_price": 554.0,
+      "current_price": 557.0,
       "peak_price": 638.0,
-      "pct_below_peak": 13.2,
-      "still_needs_to_fall_pct": 16.8
+      "pct_below_peak": 12.7,
+      "still_needs_to_fall_pct": 17.3
     },
     {
       "ticker": "CMCX",
       "company": "CMC Markets",
-      "current_price": 720.0,
+      "current_price": 713.0,
       "peak_price": 743.0,
-      "pct_below_peak": 3.1,
-      "still_needs_to_fall_pct": 26.9
+      "pct_below_peak": 4.0,
+      "still_needs_to_fall_pct": 26.0
     },
     {
       "ticker": "CNE",
@@ -215,66 +209,66 @@
     {
       "ticker": "CPG",
       "company": "Compass Group",
-      "current_price": 30.8,
+      "current_price": 30.08,
       "peak_price": 33.1,
-      "pct_below_peak": 6.9,
-      "still_needs_to_fall_pct": 23.1
+      "pct_below_peak": 9.1,
+      "still_needs_to_fall_pct": 20.9
     },
     {
       "ticker": "CPI",
       "company": "Capita",
-      "current_price": 288.5,
+      "current_price": 282.0,
       "peak_price": 293.0,
-      "pct_below_peak": 1.5,
-      "still_needs_to_fall_pct": 28.5
+      "pct_below_peak": 3.8,
+      "still_needs_to_fall_pct": 26.2
     },
     {
       "ticker": "CRDA",
       "company": "Croda International",
-      "current_price": 3457.0,
+      "current_price": 3464.52,
       "peak_price": 3468.0,
-      "pct_below_peak": 0.3,
-      "still_needs_to_fall_pct": 29.7
+      "pct_below_peak": 0.1,
+      "still_needs_to_fall_pct": 29.9
     },
     {
       "ticker": "CURY",
       "company": "Currys",
-      "current_price": 147.8,
+      "current_price": 148.78,
       "peak_price": 168.2,
-      "pct_below_peak": 12.1,
-      "still_needs_to_fall_pct": 17.9
+      "pct_below_peak": 11.5,
+      "still_needs_to_fall_pct": 18.5
     },
     {
       "ticker": "CWR",
       "company": "Ceres Power",
-      "current_price": 411.0,
+      "current_price": 403.2,
       "peak_price": 485.0,
-      "pct_below_peak": 15.3,
-      "still_needs_to_fall_pct": 14.7
+      "pct_below_peak": 16.9,
+      "still_needs_to_fall_pct": 13.1
     },
     {
       "ticker": "CYN",
       "company": "CQS Natural Resources",
-      "current_price": 428.0,
+      "current_price": 425.0,
       "peak_price": 439.83,
-      "pct_below_peak": 2.7,
-      "still_needs_to_fall_pct": 27.3
+      "pct_below_peak": 3.4,
+      "still_needs_to_fall_pct": 26.6
     },
     {
       "ticker": "DATA",
       "company": "GlobalData",
-      "current_price": 82.9,
+      "current_price": 84.0,
       "peak_price": 86.9,
-      "pct_below_peak": 4.6,
-      "still_needs_to_fall_pct": 25.4
+      "pct_below_peak": 3.3,
+      "still_needs_to_fall_pct": 26.7
     },
     {
       "ticker": "DCC",
       "company": "DCC Energy",
-      "current_price": 6360.0,
+      "current_price": 6370.0,
       "peak_price": 6385.0,
-      "pct_below_peak": 0.4,
-      "still_needs_to_fall_pct": 29.6
+      "pct_below_peak": 0.2,
+      "still_needs_to_fall_pct": 29.8
     },
     {
       "ticker": "DGI9",
@@ -287,162 +281,162 @@
     {
       "ticker": "DOCS",
       "company": "Dr. Martens",
-      "current_price": 78.8,
+      "current_price": 80.38,
       "peak_price": 88.5,
-      "pct_below_peak": 11.0,
-      "still_needs_to_fall_pct": 19.0
+      "pct_below_peak": 9.2,
+      "still_needs_to_fall_pct": 20.8
     },
     {
       "ticker": "DPLM",
       "company": "Diploma",
-      "current_price": 7230.0,
+      "current_price": 7355.0,
       "peak_price": 7700.0,
-      "pct_below_peak": 6.1,
-      "still_needs_to_fall_pct": 23.9
+      "pct_below_peak": 4.5,
+      "still_needs_to_fall_pct": 25.5
     },
     {
       "ticker": "DSCV",
       "company": "discoverIE",
-      "current_price": 781.0,
+      "current_price": 801.0,
       "peak_price": 833.0,
-      "pct_below_peak": 6.2,
-      "still_needs_to_fall_pct": 23.8
+      "pct_below_peak": 3.8,
+      "still_needs_to_fall_pct": 26.2
     },
     {
       "ticker": "EDV",
       "company": "Endeavour Mining",
-      "current_price": 4793.0,
+      "current_price": 4746.0,
       "peak_price": 4940.0,
-      "pct_below_peak": 3.0,
-      "still_needs_to_fall_pct": 27.0
+      "pct_below_peak": 3.9,
+      "still_needs_to_fall_pct": 26.1
     },
     {
       "ticker": "ENQ",
       "company": "EnQuest",
-      "current_price": 25.4,
+      "current_price": 24.6,
       "peak_price": 27.45,
-      "pct_below_peak": 7.5,
-      "still_needs_to_fall_pct": 22.5
+      "pct_below_peak": 10.4,
+      "still_needs_to_fall_pct": 19.6
     },
     {
       "ticker": "EVOK",
       "company": "Evoke",
-      "current_price": 44.9,
+      "current_price": 45.15,
       "peak_price": 46.25,
-      "pct_below_peak": 2.9,
-      "still_needs_to_fall_pct": 27.1
+      "pct_below_peak": 2.4,
+      "still_needs_to_fall_pct": 27.6
     },
     {
       "ticker": "EWG",
       "company": "Eurowag",
-      "current_price": 104.0,
+      "current_price": 103.4,
       "peak_price": 118.58,
-      "pct_below_peak": 12.3,
-      "still_needs_to_fall_pct": 17.7
+      "pct_below_peak": 12.8,
+      "still_needs_to_fall_pct": 17.2
     },
     {
       "ticker": "EWI",
       "company": "Edinburgh Worldwide Investment Trust",
-      "current_price": 263.5,
+      "current_price": 262.5,
       "peak_price": 279.5,
-      "pct_below_peak": 5.7,
-      "still_needs_to_fall_pct": 24.3
+      "pct_below_peak": 6.1,
+      "still_needs_to_fall_pct": 23.9
     },
     {
       "ticker": "EZJ",
       "company": "EasyJet",
-      "current_price": 676.0,
+      "current_price": 673.2,
       "peak_price": 676.0,
-      "pct_below_peak": 0.0,
-      "still_needs_to_fall_pct": 30.0
+      "pct_below_peak": 0.4,
+      "still_needs_to_fall_pct": 29.6
     },
     {
       "ticker": "FCH",
       "company": "Funding Circle",
-      "current_price": 244.5,
+      "current_price": 237.5,
       "peak_price": 245.5,
-      "pct_below_peak": 0.4,
-      "still_needs_to_fall_pct": 29.6
+      "pct_below_peak": 3.3,
+      "still_needs_to_fall_pct": 26.7
     },
     {
       "ticker": "FEML",
       "company": "Fidelity Emerging Markets",
-      "current_price": 1490.0,
-      "peak_price": 1496.0,
-      "pct_below_peak": 0.4,
-      "still_needs_to_fall_pct": 29.6
+      "current_price": 1500.0,
+      "peak_price": 1500.0,
+      "pct_below_peak": 0.0,
+      "still_needs_to_fall_pct": 30.0
     },
     {
       "ticker": "FSJ",
       "company": "James Fisher & Sons",
-      "current_price": 453.0,
+      "current_price": 441.0,
       "peak_price": 550.0,
-      "pct_below_peak": 17.6,
-      "still_needs_to_fall_pct": 12.4
+      "pct_below_peak": 19.8,
+      "still_needs_to_fall_pct": 10.2
     },
     {
       "ticker": "GDWN",
       "company": "Goodwin",
-      "current_price": 17840.0,
+      "current_price": 18240.0,
       "peak_price": 20650.0,
-      "pct_below_peak": 13.6,
-      "still_needs_to_fall_pct": 16.4
+      "pct_below_peak": 11.7,
+      "still_needs_to_fall_pct": 18.3
     },
     {
       "ticker": "GFRD",
       "company": "Galliford Try",
-      "current_price": 628.0,
+      "current_price": 617.0,
       "peak_price": 628.0,
-      "pct_below_peak": 0.0,
-      "still_needs_to_fall_pct": 30.0
+      "pct_below_peak": 1.8,
+      "still_needs_to_fall_pct": 28.2
     },
     {
       "ticker": "GNC",
       "company": "Greencore",
-      "current_price": 267.2,
+      "current_price": 265.4,
       "peak_price": 267.6,
-      "pct_below_peak": 0.1,
-      "still_needs_to_fall_pct": 29.9
+      "pct_below_peak": 0.8,
+      "still_needs_to_fall_pct": 29.2
     },
     {
       "ticker": "GROW",
       "company": "Molten Ventures",
-      "current_price": 689.0,
+      "current_price": 692.0,
       "peak_price": 697.0,
-      "pct_below_peak": 1.1,
-      "still_needs_to_fall_pct": 28.9
+      "pct_below_peak": 0.7,
+      "still_needs_to_fall_pct": 29.3
     },
     {
       "ticker": "GSK",
       "company": "GSK plc",
-      "current_price": 1905.5,
+      "current_price": 1899.5,
       "peak_price": 2213.8,
-      "pct_below_peak": 13.9,
-      "still_needs_to_fall_pct": 16.1
+      "pct_below_peak": 14.2,
+      "still_needs_to_fall_pct": 15.8
     },
     {
       "ticker": "HAS",
       "company": "Hays",
-      "current_price": 76.2,
+      "current_price": 74.9,
       "peak_price": 76.2,
-      "pct_below_peak": 0.0,
-      "still_needs_to_fall_pct": 30.0
+      "pct_below_peak": 1.7,
+      "still_needs_to_fall_pct": 28.3
     },
     {
       "ticker": "HBR",
       "company": "Harbour Energy",
-      "current_price": 252.6,
+      "current_price": 249.8,
       "peak_price": 270.14,
-      "pct_below_peak": 6.5,
-      "still_needs_to_fall_pct": 23.5
+      "pct_below_peak": 7.5,
+      "still_needs_to_fall_pct": 22.5
     },
     {
       "ticker": "HFD",
       "company": "Halfords",
-      "current_price": 238.5,
+      "current_price": 241.0,
       "peak_price": 246.0,
-      "pct_below_peak": 3.0,
-      "still_needs_to_fall_pct": 27.0
+      "pct_below_peak": 2.0,
+      "still_needs_to_fall_pct": 28.0
     },
     {
       "ticker": "HGT",
@@ -455,114 +449,114 @@
     {
       "ticker": "HILS",
       "company": "Hill & Smith",
-      "current_price": 2915.0,
+      "current_price": 2935.0,
       "peak_price": 3095.0,
-      "pct_below_peak": 5.8,
-      "still_needs_to_fall_pct": 24.2
+      "pct_below_peak": 5.2,
+      "still_needs_to_fall_pct": 24.8
     },
     {
       "ticker": "HLMA",
       "company": "Halma plc",
-      "current_price": 3576.0,
+      "current_price": 3616.0,
       "peak_price": 4479.81,
-      "pct_below_peak": 20.2,
-      "still_needs_to_fall_pct": 9.8
+      "pct_below_peak": 19.3,
+      "still_needs_to_fall_pct": 10.7
     },
     {
       "ticker": "HTG",
       "company": "Hunting",
-      "current_price": 394.0,
+      "current_price": 400.0,
       "peak_price": 530.93,
-      "pct_below_peak": 25.8,
-      "still_needs_to_fall_pct": 4.2
+      "pct_below_peak": 24.7,
+      "still_needs_to_fall_pct": 5.3
     },
     {
       "ticker": "HTWS",
       "company": "Helios Towers",
-      "current_price": 204.2,
+      "current_price": 203.0,
       "peak_price": 242.4,
-      "pct_below_peak": 15.8,
-      "still_needs_to_fall_pct": 14.2
+      "pct_below_peak": 16.3,
+      "still_needs_to_fall_pct": 13.7
     },
     {
       "ticker": "ICG",
       "company": "ICG",
-      "current_price": 2018.0,
+      "current_price": 2012.0,
       "peak_price": 2060.0,
-      "pct_below_peak": 2.0,
-      "still_needs_to_fall_pct": 28.0
+      "pct_below_peak": 2.3,
+      "still_needs_to_fall_pct": 27.7
     },
     {
       "ticker": "IGG",
       "company": "IG Group",
-      "current_price": 1356.0,
+      "current_price": 1393.0,
       "peak_price": 1850.0,
-      "pct_below_peak": 26.7,
-      "still_needs_to_fall_pct": 3.3
+      "pct_below_peak": 24.7,
+      "still_needs_to_fall_pct": 5.3
     },
     {
       "ticker": "III",
       "company": "3i",
-      "current_price": 2904.0,
+      "current_price": 2844.0,
       "peak_price": 2934.0,
-      "pct_below_peak": 1.0,
-      "still_needs_to_fall_pct": 29.0
+      "pct_below_peak": 3.1,
+      "still_needs_to_fall_pct": 26.9
     },
     {
       "ticker": "IPO",
       "company": "IP Group",
-      "current_price": 72.0,
-      "peak_price": 72.0,
+      "current_price": 72.3,
+      "peak_price": 72.3,
       "pct_below_peak": 0.0,
       "still_needs_to_fall_pct": 30.0
     },
     {
       "ticker": "ITH",
       "company": "Ithaca Energy",
-      "current_price": 270.0,
+      "current_price": 267.2,
       "peak_price": 273.0,
-      "pct_below_peak": 1.1,
-      "still_needs_to_fall_pct": 28.9
+      "pct_below_peak": 2.1,
+      "still_needs_to_fall_pct": 27.9
     },
     {
       "ticker": "JD",
       "company": "JD Sports",
-      "current_price": 85.3,
+      "current_price": 87.86,
       "peak_price": 94.98,
-      "pct_below_peak": 10.2,
-      "still_needs_to_fall_pct": 19.8
+      "pct_below_peak": 7.5,
+      "still_needs_to_fall_pct": 22.5
     },
     {
       "ticker": "KLR",
       "company": "Keller Group",
-      "current_price": 2972.0,
+      "current_price": 2980.0,
       "peak_price": 3122.0,
-      "pct_below_peak": 4.8,
-      "still_needs_to_fall_pct": 25.2
+      "pct_below_peak": 4.5,
+      "still_needs_to_fall_pct": 25.5
     },
     {
       "ticker": "KNOS",
       "company": "Kainos",
-      "current_price": 1230.0,
+      "current_price": 1216.0,
       "peak_price": 1294.0,
-      "pct_below_peak": 4.9,
-      "still_needs_to_fall_pct": 25.1
+      "pct_below_peak": 6.0,
+      "still_needs_to_fall_pct": 24.0
     },
     {
       "ticker": "LIO",
       "company": "Liontrust Asset Management",
-      "current_price": 314.5,
+      "current_price": 316.5,
       "peak_price": 318.0,
-      "pct_below_peak": 1.1,
-      "still_needs_to_fall_pct": 28.9
+      "pct_below_peak": 0.5,
+      "still_needs_to_fall_pct": 29.5
     },
     {
       "ticker": "LSEG",
       "company": "London Stock Exchange Group",
-      "current_price": 8798.0,
+      "current_price": 8688.0,
       "peak_price": 9198.0,
-      "pct_below_peak": 4.3,
-      "still_needs_to_fall_pct": 25.7
+      "pct_below_peak": 5.5,
+      "still_needs_to_fall_pct": 24.5
     },
     {
       "ticker": "LUCE",
@@ -575,114 +569,114 @@
     {
       "ticker": "MAJE",
       "company": "Majedie Investments",
-      "current_price": 328.0,
+      "current_price": 327.0,
       "peak_price": 333.5,
-      "pct_below_peak": 1.6,
-      "still_needs_to_fall_pct": 28.4
+      "pct_below_peak": 1.9,
+      "still_needs_to_fall_pct": 28.1
     },
     {
       "ticker": "MARS",
       "company": "Marston's",
-      "current_price": 51.6,
+      "current_price": 51.4,
       "peak_price": 55.0,
-      "pct_below_peak": 6.2,
-      "still_needs_to_fall_pct": 23.8
+      "pct_below_peak": 6.5,
+      "still_needs_to_fall_pct": 23.5
     },
     {
       "ticker": "MER",
       "company": "Mears Group",
-      "current_price": 425.0,
+      "current_price": 430.5,
       "peak_price": 455.0,
-      "pct_below_peak": 6.6,
-      "still_needs_to_fall_pct": 23.4
+      "pct_below_peak": 5.4,
+      "still_needs_to_fall_pct": 24.6
     },
     {
       "ticker": "MMIT",
       "company": "Mobius Investment Trust",
-      "current_price": 172.0,
+      "current_price": 172.5,
       "peak_price": 176.5,
-      "pct_below_peak": 2.5,
-      "still_needs_to_fall_pct": 27.5
+      "pct_below_peak": 2.3,
+      "still_needs_to_fall_pct": 27.7
     },
     {
       "ticker": "MOON",
       "company": "Moonpig",
-      "current_price": 285.8,
+      "current_price": 286.0,
       "peak_price": 286.0,
-      "pct_below_peak": 0.1,
-      "still_needs_to_fall_pct": 29.9
-    },
-    {
-      "ticker": "MTLN",
-      "company": "Metlen Energy & Metals",
-      "current_price": 49.1,
-      "peak_price": 50.85,
-      "pct_below_peak": 3.4,
-      "still_needs_to_fall_pct": 26.6
-    },
-    {
-      "ticker": "MTRO",
-      "company": "Metro Bank",
-      "current_price": 169.2,
-      "peak_price": 180.2,
-      "pct_below_peak": 6.1,
-      "still_needs_to_fall_pct": 23.9
-    },
-    {
-      "ticker": "NCC",
-      "company": "NCC Group",
-      "current_price": 142.4,
-      "peak_price": 144.6,
-      "pct_below_peak": 1.5,
-      "still_needs_to_fall_pct": 28.5
-    },
-    {
-      "ticker": "ONT",
-      "company": "Oxford Nanopore Technologies",
-      "current_price": 183.0,
-      "peak_price": 183.0,
       "pct_below_peak": 0.0,
       "still_needs_to_fall_pct": 30.0
     },
     {
+      "ticker": "MTLN",
+      "company": "Metlen Energy & Metals",
+      "current_price": 48.84,
+      "peak_price": 50.85,
+      "pct_below_peak": 4.0,
+      "still_needs_to_fall_pct": 26.0
+    },
+    {
+      "ticker": "MTRO",
+      "company": "Metro Bank",
+      "current_price": 167.4,
+      "peak_price": 180.2,
+      "pct_below_peak": 7.1,
+      "still_needs_to_fall_pct": 22.9
+    },
+    {
+      "ticker": "NCC",
+      "company": "NCC Group",
+      "current_price": 141.6,
+      "peak_price": 144.6,
+      "pct_below_peak": 2.1,
+      "still_needs_to_fall_pct": 27.9
+    },
+    {
+      "ticker": "ONT",
+      "company": "Oxford Nanopore Technologies",
+      "current_price": 181.8,
+      "peak_price": 183.0,
+      "pct_below_peak": 0.7,
+      "still_needs_to_fall_pct": 29.3
+    },
+    {
       "ticker": "OTB",
       "company": "On The Beach Group",
-      "current_price": 191.6,
+      "current_price": 193.4,
       "peak_price": 197.4,
-      "pct_below_peak": 2.9,
-      "still_needs_to_fall_pct": 27.1
+      "pct_below_peak": 2.0,
+      "still_needs_to_fall_pct": 28.0
     },
     {
       "ticker": "OXIG",
       "company": "Oxford Instruments",
-      "current_price": 2806.0,
+      "current_price": 2820.0,
       "peak_price": 2950.0,
-      "pct_below_peak": 4.9,
-      "still_needs_to_fall_pct": 25.1
+      "pct_below_peak": 4.4,
+      "still_needs_to_fall_pct": 25.6
     },
     {
       "ticker": "PAGE",
       "company": "PageGroup",
-      "current_price": 223.0,
+      "current_price": 222.39,
       "peak_price": 224.0,
-      "pct_below_peak": 0.4,
-      "still_needs_to_fall_pct": 29.6
+      "pct_below_peak": 0.7,
+      "still_needs_to_fall_pct": 29.3
     },
     {
       "ticker": "PCT",
       "company": "Polar Capital Technology Trust",
-      "current_price": 638.0,
+      "current_price": 643.0,
       "peak_price": 686.0,
-      "pct_below_peak": 7.0,
-      "still_needs_to_fall_pct": 23.0
+      "pct_below_peak": 6.3,
+      "still_needs_to_fall_pct": 23.7
     },
     {
       "ticker": "PHAR",
       "company": "Pharos Energy",
-      "current_price": 30.0,
+      "current_price": 30.1,
       "peak_price": 33.5,
-      "pct_below_peak": 10.4,
-      "still_needs_to_fall_pct": 19.6
+      "pct_below_peak": 10.1,
+      "still_needs_to_fall_pct": 19.9
     },
     {
       "ticker": "PHI",
@@ -695,10 +689,10 @@
     {
       "ticker": "POLN",
       "company": "Pollen Street Group",
-      "current_price": 873.0,
-      "peak_price": 878.0,
-      "pct_below_peak": 0.6,
-      "still_needs_to_fall_pct": 29.4
+      "current_price": 899.0,
+      "peak_price": 899.0,
+      "pct_below_peak": 0.0,
+      "still_needs_to_fall_pct": 30.0
     },
     {
       "ticker": "PPH",
@@ -711,130 +705,130 @@
     {
       "ticker": "PRV",
       "company": "Porvair",
-      "current_price": 860.0,
+      "current_price": 868.0,
       "peak_price": 900.0,
-      "pct_below_peak": 4.4,
-      "still_needs_to_fall_pct": 25.6
+      "pct_below_peak": 3.6,
+      "still_needs_to_fall_pct": 26.4
     },
     {
       "ticker": "PTEC",
       "company": "Playtech",
-      "current_price": 404.6,
+      "current_price": 399.8,
       "peak_price": 412.2,
-      "pct_below_peak": 1.8,
-      "still_needs_to_fall_pct": 28.2
-    },
-    {
-      "ticker": "REL",
-      "company": "RELX",
-      "current_price": 2618.0,
-      "peak_price": 2874.0,
-      "pct_below_peak": 8.9,
-      "still_needs_to_fall_pct": 21.1
-    },
-    {
-      "ticker": "RHIM",
-      "company": "RHI Magnesita",
-      "current_price": 2805.0,
-      "peak_price": 3343.63,
-      "pct_below_peak": 16.1,
-      "still_needs_to_fall_pct": 13.9
-    },
-    {
-      "ticker": "ROSE",
-      "company": "Rosebank Industries",
-      "current_price": 345.0,
-      "peak_price": 384.0,
-      "pct_below_peak": 10.2,
-      "still_needs_to_fall_pct": 19.8
-    },
-    {
-      "ticker": "RPI",
-      "company": "Raspberry Pi Holdings",
-      "current_price": 587.5,
-      "peak_price": 706.0,
-      "pct_below_peak": 16.8,
-      "still_needs_to_fall_pct": 13.2
-    },
-    {
-      "ticker": "RR",
-      "company": "Rolls-Royce Holdings",
-      "current_price": 1530.0,
-      "peak_price": 1570.4,
-      "pct_below_peak": 2.6,
-      "still_needs_to_fall_pct": 27.4
-    },
-    {
-      "ticker": "RSW",
-      "company": "Renishaw",
-      "current_price": 5060.0,
-      "peak_price": 5300.0,
-      "pct_below_peak": 4.5,
-      "still_needs_to_fall_pct": 25.5
-    },
-    {
-      "ticker": "SAGA",
-      "company": "Saga",
-      "current_price": 679.0,
-      "peak_price": 738.0,
-      "pct_below_peak": 8.0,
-      "still_needs_to_fall_pct": 22.0
-    },
-    {
-      "ticker": "SBRE",
-      "company": "Sabre Insurance",
-      "current_price": 172.8,
-      "peak_price": 186.2,
-      "pct_below_peak": 7.2,
-      "still_needs_to_fall_pct": 22.8
-    },
-    {
-      "ticker": "SCT",
-      "company": "Softcat",
-      "current_price": 2082.0,
-      "peak_price": 2082.0,
-      "pct_below_peak": 0.0,
-      "still_needs_to_fall_pct": 30.0
-    },
-    {
-      "ticker": "SFR",
-      "company": "Severfield",
-      "current_price": 38.0,
-      "peak_price": 38.8,
-      "pct_below_peak": 2.1,
-      "still_needs_to_fall_pct": 27.9
-    },
-    {
-      "ticker": "SGRO",
-      "company": "Segro",
-      "current_price": 968.0,
-      "peak_price": 997.4,
-      "pct_below_peak": 2.9,
-      "still_needs_to_fall_pct": 27.1
-    },
-    {
-      "ticker": "SHEL",
-      "company": "Shell plc",
-      "current_price": 3386.5,
-      "peak_price": 3473.69,
-      "pct_below_peak": 2.5,
-      "still_needs_to_fall_pct": 27.5
-    },
-    {
-      "ticker": "SMIN",
-      "company": "Smiths Group",
-      "current_price": 2617.0,
-      "peak_price": 2699.0,
       "pct_below_peak": 3.0,
       "still_needs_to_fall_pct": 27.0
     },
     {
-      "ticker": "SMT",
-      "company": "Scottish Mortgage Investment Trust",
-      "current_price": 1477.5,
-      "peak_price": 1477.5,
+      "ticker": "REL",
+      "company": "RELX",
+      "current_price": 2586.0,
+      "peak_price": 2874.0,
+      "pct_below_peak": 10.0,
+      "still_needs_to_fall_pct": 20.0
+    },
+    {
+      "ticker": "RHIM",
+      "company": "RHI Magnesita",
+      "current_price": 2849.4,
+      "peak_price": 3343.63,
+      "pct_below_peak": 14.8,
+      "still_needs_to_fall_pct": 15.2
+    },
+    {
+      "ticker": "ROSE",
+      "company": "Rosebank Industries",
+      "current_price": 348.0,
+      "peak_price": 384.0,
+      "pct_below_peak": 9.4,
+      "still_needs_to_fall_pct": 20.6
+    },
+    {
+      "ticker": "RPI",
+      "company": "Raspberry Pi Holdings",
+      "current_price": 575.5,
+      "peak_price": 706.0,
+      "pct_below_peak": 18.5,
+      "still_needs_to_fall_pct": 11.5
+    },
+    {
+      "ticker": "RR",
+      "company": "Rolls-Royce Holdings",
+      "current_price": 1543.0,
+      "peak_price": 1570.4,
+      "pct_below_peak": 1.7,
+      "still_needs_to_fall_pct": 28.3
+    },
+    {
+      "ticker": "RSW",
+      "company": "Renishaw",
+      "current_price": 5110.0,
+      "peak_price": 5300.0,
+      "pct_below_peak": 3.6,
+      "still_needs_to_fall_pct": 26.4
+    },
+    {
+      "ticker": "SAGA",
+      "company": "Saga",
+      "current_price": 688.0,
+      "peak_price": 738.0,
+      "pct_below_peak": 6.8,
+      "still_needs_to_fall_pct": 23.2
+    },
+    {
+      "ticker": "SBRE",
+      "company": "Sabre Insurance",
+      "current_price": 171.8,
+      "peak_price": 186.2,
+      "pct_below_peak": 7.7,
+      "still_needs_to_fall_pct": 22.3
+    },
+    {
+      "ticker": "SCT",
+      "company": "Softcat",
+      "current_price": 2044.0,
+      "peak_price": 2082.0,
+      "pct_below_peak": 1.8,
+      "still_needs_to_fall_pct": 28.2
+    },
+    {
+      "ticker": "SFR",
+      "company": "Severfield",
+      "current_price": 39.5,
+      "peak_price": 39.5,
       "pct_below_peak": 0.0,
       "still_needs_to_fall_pct": 30.0
+    },
+    {
+      "ticker": "SGRO",
+      "company": "Segro",
+      "current_price": 971.0,
+      "peak_price": 997.4,
+      "pct_below_peak": 2.6,
+      "still_needs_to_fall_pct": 27.4
+    },
+    {
+      "ticker": "SHEL",
+      "company": "Shell plc",
+      "current_price": 3371.0,
+      "peak_price": 3473.69,
+      "pct_below_peak": 3.0,
+      "still_needs_to_fall_pct": 27.0
+    },
+    {
+      "ticker": "SMIN",
+      "company": "Smiths Group",
+      "current_price": 2627.0,
+      "peak_price": 2699.0,
+      "pct_below_peak": 2.7,
+      "still_needs_to_fall_pct": 27.3
+    },
+    {
+      "ticker": "SMT",
+      "company": "Scottish Mortgage Investment Trust",
+      "current_price": 1467.0,
+      "peak_price": 1477.5,
+      "pct_below_peak": 0.7,
+      "still_needs_to_fall_pct": 29.3
     },
     {
       "ticker": "SNR",
@@ -847,34 +841,34 @@
     {
       "ticker": "SSIT",
       "company": "Seraphim Space Investment Trust",
-      "current_price": 187.0,
+      "current_price": 184.0,
       "peak_price": 193.8,
-      "pct_below_peak": 3.5,
-      "still_needs_to_fall_pct": 26.5
+      "pct_below_peak": 5.1,
+      "still_needs_to_fall_pct": 24.9
     },
     {
       "ticker": "STB",
       "company": "Secure Trust Bank",
-      "current_price": 1532.0,
+      "current_price": 1513.88,
       "peak_price": 1606.0,
-      "pct_below_peak": 4.6,
-      "still_needs_to_fall_pct": 25.4
+      "pct_below_peak": 5.7,
+      "still_needs_to_fall_pct": 24.3
     },
     {
       "ticker": "TBCG",
       "company": "TBC Bank",
-      "current_price": 4966.0,
+      "current_price": 5105.0,
       "peak_price": 5178.76,
-      "pct_below_peak": 4.1,
-      "still_needs_to_fall_pct": 25.9
+      "pct_below_peak": 1.4,
+      "still_needs_to_fall_pct": 28.6
     },
     {
       "ticker": "TEM",
       "company": "Templeton Emerging Markets Investment Trust",
-      "current_price": 319.0,
+      "current_price": 319.5,
       "peak_price": 342.47,
-      "pct_below_peak": 6.9,
-      "still_needs_to_fall_pct": 23.1
+      "pct_below_peak": 6.7,
+      "still_needs_to_fall_pct": 23.3
     },
     {
       "ticker": "TEP",
@@ -887,191 +881,191 @@
     {
       "ticker": "THG",
       "company": "THG",
-      "current_price": 34.86,
+      "current_price": 35.06,
       "peak_price": 36.58,
-      "pct_below_peak": 4.7,
-      "still_needs_to_fall_pct": 25.3
+      "pct_below_peak": 4.2,
+      "still_needs_to_fall_pct": 25.8
     },
     {
       "ticker": "TRI",
       "company": "Trifast",
-      "current_price": 85.5,
+      "current_price": 87.0,
       "peak_price": 92.6,
-      "pct_below_peak": 7.7,
-      "still_needs_to_fall_pct": 22.3
+      "pct_below_peak": 6.0,
+      "still_needs_to_fall_pct": 24.0
     },
     {
       "ticker": "TRN",
       "company": "Trainline",
-      "current_price": 196.7,
+      "current_price": 199.9,
       "peak_price": 254.4,
-      "pct_below_peak": 22.7,
-      "still_needs_to_fall_pct": 7.3
+      "pct_below_peak": 21.4,
+      "still_needs_to_fall_pct": 8.6
     },
     {
       "ticker": "TRST",
       "company": "Trustpilot",
-      "current_price": 288.8,
+      "current_price": 289.6,
       "peak_price": 298.2,
-      "pct_below_peak": 3.2,
-      "still_needs_to_fall_pct": 26.8
+      "pct_below_peak": 2.9,
+      "still_needs_to_fall_pct": 27.1
     },
     {
       "ticker": "VCT",
       "company": "Victrex",
-      "current_price": 829.0,
+      "current_price": 830.0,
       "peak_price": 834.0,
-      "pct_below_peak": 0.6,
-      "still_needs_to_fall_pct": 29.4
+      "pct_below_peak": 0.5,
+      "still_needs_to_fall_pct": 29.5
     },
     {
       "ticker": "VOD",
       "company": "Vodafone Group",
-      "current_price": 118.25,
+      "current_price": 117.9,
       "peak_price": 123.25,
-      "pct_below_peak": 4.1,
-      "still_needs_to_fall_pct": 25.9
+      "pct_below_peak": 4.3,
+      "still_needs_to_fall_pct": 25.7
     },
     {
       "ticker": "WIZZ",
       "company": "Wizz Air",
-      "current_price": 1085.0,
+      "current_price": 1122.0,
       "peak_price": 1157.0,
-      "pct_below_peak": 6.2,
-      "still_needs_to_fall_pct": 23.8
+      "pct_below_peak": 3.0,
+      "still_needs_to_fall_pct": 27.0
     },
     {
       "ticker": "WOSG",
       "company": "Watches of Switzerland",
-      "current_price": 685.0,
+      "current_price": 711.0,
       "peak_price": 762.0,
-      "pct_below_peak": 10.1,
-      "still_needs_to_fall_pct": 19.9
+      "pct_below_peak": 6.7,
+      "still_needs_to_fall_pct": 23.3
     },
     {
       "ticker": "XAR",
       "company": "Xaar",
-      "current_price": 113.0,
+      "current_price": 116.0,
       "peak_price": 131.0,
-      "pct_below_peak": 13.7,
-      "still_needs_to_fall_pct": 16.3
+      "pct_below_peak": 11.5,
+      "still_needs_to_fall_pct": 18.5
     },
     {
       "ticker": "XPP",
       "company": "XP Power",
-      "current_price": 1812.0,
+      "current_price": 1802.0,
       "peak_price": 1846.0,
-      "pct_below_peak": 1.8,
-      "still_needs_to_fall_pct": 28.2
+      "pct_below_peak": 2.4,
+      "still_needs_to_fall_pct": 27.6
     },
     {
       "ticker": "ZTF",
       "company": "Zotefoams",
-      "current_price": 435.0,
+      "current_price": 438.0,
       "peak_price": 467.0,
-      "pct_below_peak": 6.9,
-      "still_needs_to_fall_pct": 23.1
+      "pct_below_peak": 6.2,
+      "still_needs_to_fall_pct": 23.8
     },
     {
       "ticker": "SGE",
       "company": "Sage Group",
-      "current_price": 1104.5,
+      "current_price": 1063.0,
       "peak_price": 1105.0,
-      "pct_below_peak": 0.0,
-      "still_needs_to_fall_pct": 30.0
+      "pct_below_peak": 3.8,
+      "still_needs_to_fall_pct": 26.2
     },
     {
       "ticker": "WPP",
       "company": "WPP",
-      "current_price": 392.2,
+      "current_price": 381.3,
       "peak_price": 411.4,
-      "pct_below_peak": 4.7,
-      "still_needs_to_fall_pct": 25.3
+      "pct_below_peak": 7.3,
+      "still_needs_to_fall_pct": 22.7
     },
     {
       "ticker": "VTY",
       "company": "Vistry Group",
-      "current_price": 312.4,
+      "current_price": 313.8,
       "peak_price": 315.0,
-      "pct_below_peak": 0.8,
-      "still_needs_to_fall_pct": 29.2
+      "pct_below_peak": 0.4,
+      "still_needs_to_fall_pct": 29.6
     },
     {
       "ticker": "MEGP",
       "company": "ME Group International",
-      "current_price": 125.8,
-      "peak_price": 125.8,
+      "current_price": 126.0,
+      "peak_price": 126.0,
       "pct_below_peak": 0.0,
       "still_needs_to_fall_pct": 30.0
     },
     {
       "ticker": "RS1",
       "company": "RS Group",
-      "current_price": 743.5,
-      "peak_price": 743.5,
+      "current_price": 754.0,
+      "peak_price": 754.0,
       "pct_below_peak": 0.0,
       "still_needs_to_fall_pct": 30.0
     },
     {
       "ticker": "SYNT",
       "company": "Synthomer",
-      "current_price": 99.0,
+      "current_price": 98.6,
       "peak_price": 122.0,
-      "pct_below_peak": 18.9,
-      "still_needs_to_fall_pct": 11.1
+      "pct_below_peak": 19.2,
+      "still_needs_to_fall_pct": 10.8
     },
     {
       "ticker": "TPK",
       "company": "Travis Perkins",
-      "current_price": 652.5,
+      "current_price": 659.0,
       "peak_price": 678.5,
-      "pct_below_peak": 3.8,
-      "still_needs_to_fall_pct": 26.2
+      "pct_below_peak": 2.9,
+      "still_needs_to_fall_pct": 27.1
     },
     {
       "ticker": "ELM",
       "company": "Elementis",
-      "current_price": 178.4,
+      "current_price": 179.6,
       "peak_price": 187.2,
-      "pct_below_peak": 4.7,
-      "still_needs_to_fall_pct": 25.3
-    },
-    {
-      "ticker": "FAN",
-      "company": "Volution Group",
-      "current_price": 671.0,
-      "peak_price": 693.0,
-      "pct_below_peak": 3.2,
-      "still_needs_to_fall_pct": 26.8
-    },
-    {
-      "ticker": "OCDO",
-      "company": "Ocado Group",
-      "current_price": 246.8,
-      "peak_price": 257.4,
       "pct_below_peak": 4.1,
       "still_needs_to_fall_pct": 25.9
     },
     {
+      "ticker": "FAN",
+      "company": "Volution Group",
+      "current_price": 682.0,
+      "peak_price": 693.0,
+      "pct_below_peak": 1.6,
+      "still_needs_to_fall_pct": 28.4
+    },
+    {
+      "ticker": "OCDO",
+      "company": "Ocado Group",
+      "current_price": 249.8,
+      "peak_price": 257.4,
+      "pct_below_peak": 3.0,
+      "still_needs_to_fall_pct": 27.0
+    },
+    {
       "ticker": "ATYM",
       "company": "Atalaya Mining",
-      "current_price": 1030.0,
-      "peak_price": 1030.0,
+      "current_price": 1057.0,
+      "peak_price": 1057.0,
       "pct_below_peak": 0.0,
       "still_needs_to_fall_pct": 30.0
     },
     {
       "ticker": "BREE",
       "company": "Breedon Group",
-      "current_price": 357.0,
+      "current_price": 359.0,
       "peak_price": 360.2,
-      "pct_below_peak": 0.9,
-      "still_needs_to_fall_pct": 29.1
+      "pct_below_peak": 0.3,
+      "still_needs_to_fall_pct": 29.7
     },
     {
       "ticker": "GEN",
       "company": "Genuit Group",
-      "current_price": 291.6,
+      "current_price": 291.56,
       "peak_price": 313.6,
       "pct_below_peak": 7.0,
       "still_needs_to_fall_pct": 23.0
@@ -1079,66 +1073,66 @@
     {
       "ticker": "GRG",
       "company": "Greggs",
-      "current_price": 1882.0,
+      "current_price": 1872.0,
       "peak_price": 1925.0,
-      "pct_below_peak": 2.2,
-      "still_needs_to_fall_pct": 27.8
+      "pct_below_peak": 2.8,
+      "still_needs_to_fall_pct": 27.2
     },
     {
       "ticker": "QQ",
       "company": "Qinetiq",
-      "current_price": 526.0,
+      "current_price": 518.0,
       "peak_price": 571.5,
-      "pct_below_peak": 8.0,
-      "still_needs_to_fall_pct": 22.0
+      "pct_below_peak": 9.4,
+      "still_needs_to_fall_pct": 20.6
     },
     {
       "ticker": "BCG",
       "company": "Baltic Classifieds",
-      "current_price": 207.8,
-      "peak_price": 210.2,
-      "pct_below_peak": 1.1,
-      "still_needs_to_fall_pct": 28.9
+      "current_price": 212.6,
+      "peak_price": 212.6,
+      "pct_below_peak": 0.0,
+      "still_needs_to_fall_pct": 30.0
     },
     {
       "ticker": "SRP",
       "company": "Serco",
-      "current_price": 260.0,
+      "current_price": 260.78,
       "peak_price": 277.2,
-      "pct_below_peak": 6.2,
-      "still_needs_to_fall_pct": 23.8
-    },
-    {
-      "ticker": "FOUR",
-      "company": "4imprint",
-      "current_price": 4502.0,
-      "peak_price": 4784.0,
       "pct_below_peak": 5.9,
       "still_needs_to_fall_pct": 24.1
     },
     {
+      "ticker": "FOUR",
+      "company": "4imprint",
+      "current_price": 4594.0,
+      "peak_price": 4784.0,
+      "pct_below_peak": 4.0,
+      "still_needs_to_fall_pct": 26.0
+    },
+    {
       "ticker": "MNDI",
       "company": "Mondi",
-      "current_price": 854.0,
+      "current_price": 864.8,
       "peak_price": 869.6,
-      "pct_below_peak": 1.8,
-      "still_needs_to_fall_pct": 28.2
+      "pct_below_peak": 0.6,
+      "still_needs_to_fall_pct": 29.4
     },
     {
       "ticker": "RWA",
       "company": "Robert Walters",
-      "current_price": 147.0,
+      "current_price": 149.5,
       "peak_price": 164.0,
-      "pct_below_peak": 10.4,
-      "still_needs_to_fall_pct": 19.6
+      "pct_below_peak": 8.8,
+      "still_needs_to_fall_pct": 21.2
     },
     {
       "ticker": "FRES",
       "company": "Fresnillo plc",
-      "current_price": 3176.0,
+      "current_price": 3126.0,
       "peak_price": 3176.0,
-      "pct_below_peak": 0.0,
-      "still_needs_to_fall_pct": 30.0
+      "pct_below_peak": 1.6,
+      "still_needs_to_fall_pct": 28.4
     }
   ]
 }

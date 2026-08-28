@@ -5,8 +5,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 23.2,
       "pre_event_vol": 3.03,
-      "peak_price": 4203.0,
-      "peak_date": "2026-08-25"
+      "peak_price": 4220.0,
+      "peak_date": "2026-08-26"
     },
     "AAS": {
       "company": "Aberdeen Asia Focus",
@@ -21,8 +21,8 @@
       "signal_date": "2026-04-07",
       "growth_pct": 20.1,
       "pre_event_vol": 1.68,
-      "peak_price": 195.0,
-      "peak_date": "2026-08-24"
+      "peak_price": 195.60000610351562,
+      "peak_date": "2026-08-26"
     },
     "AJB": {
       "company": "AJ Bell",
@@ -133,16 +133,16 @@
       "signal_date": "2026-04-21",
       "growth_pct": 20.3,
       "pre_event_vol": 3.26,
-      "peak_price": 1040.0,
-      "peak_date": "2026-08-25"
+      "peak_price": 1042.0,
+      "peak_date": "2026-08-26"
     },
     "BYIT": {
       "company": "Bytes Technology Group",
       "signal_date": "2026-04-23",
       "growth_pct": 21.6,
       "pre_event_vol": 3.03,
-      "peak_price": 420.20001220703125,
-      "peak_date": "2026-08-19"
+      "peak_price": 425.6000061035156,
+      "peak_date": "2026-08-26"
     },
     "CBG": {
       "company": "Close Brothers Group",
@@ -157,8 +157,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 20.2,
       "pre_event_vol": 2.07,
-      "peak_price": 5190.0,
-      "peak_date": "2026-08-25"
+      "peak_price": 5215.0,
+      "peak_date": "2026-08-26"
     },
     "CCEP": {
       "company": "Coca-Cola Europacific Partners",
@@ -357,8 +357,8 @@
       "signal_date": "2026-04-23",
       "growth_pct": 21.2,
       "pre_event_vol": 1.71,
-      "peak_price": 1496.0,
-      "peak_date": "2026-08-17"
+      "peak_price": 1500.0,
+      "peak_date": "2026-08-26"
     },
     "FSJ": {
       "company": "James Fisher & Sons",
@@ -501,8 +501,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 23.5,
       "pre_event_vol": 2.73,
-      "peak_price": 72.0,
-      "peak_date": "2026-08-25"
+      "peak_price": 72.30000305175781,
+      "peak_date": "2026-08-26"
     },
     "ITH": {
       "company": "Ithaca Energy",
@@ -685,8 +685,8 @@
       "signal_date": "2026-04-15",
       "growth_pct": 20.2,
       "pre_event_vol": 2.08,
-      "peak_price": 878.0,
-      "peak_date": "2026-08-24"
+      "peak_price": 899.0,
+      "peak_date": "2026-08-26"
     },
     "PPH": {
       "company": "PPHE Hotel Group",
@@ -789,8 +789,8 @@
       "signal_date": "2026-06-29",
       "growth_pct": 23.5,
       "pre_event_vol": 3.59,
-      "peak_price": 38.79999923706055,
-      "peak_date": "2026-08-07"
+      "peak_price": 39.5,
+      "peak_date": "2026-08-26"
     },
     "SGRO": {
       "company": "Segro",
@@ -989,16 +989,16 @@
       "signal_date": "2026-08-04",
       "growth_pct": 20.3,
       "pre_event_vol": 889.18,
-      "peak_price": 125.80000305175781,
-      "peak_date": "2026-08-25"
+      "peak_price": 126.0,
+      "peak_date": "2026-08-26"
     },
     "RS1": {
       "company": "RS Group",
       "signal_date": "2026-08-04",
       "growth_pct": 20.1,
       "pre_event_vol": 2.19,
-      "peak_price": 743.5,
-      "peak_date": "2026-08-07"
+      "peak_price": 754.0,
+      "peak_date": "2026-08-26"
     },
     "SYNT": {
       "company": "Synthomer",
@@ -1045,8 +1045,8 @@
       "signal_date": "2026-08-06",
       "growth_pct": 23.4,
       "pre_event_vol": 3.4,
-      "peak_price": 1030.0,
-      "peak_date": "2026-08-25"
+      "peak_price": 1057.0,
+      "peak_date": "2026-08-26"
     },
     "BREE": {
       "company": "Breedon Group",
@@ -1085,8 +1085,8 @@
       "signal_date": "2026-08-11",
       "growth_pct": 20.1,
       "pre_event_vol": 2.45,
-      "peak_price": 210.1999969482422,
-      "peak_date": "2026-08-11"
+      "peak_price": 212.60000610351562,
+      "peak_date": "2026-08-26"
     },
     "SRP": {
       "company": "Serco",
