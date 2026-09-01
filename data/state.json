@@ -109,8 +109,8 @@
       "signal_date": "2026-05-26",
       "growth_pct": 20.4,
       "pre_event_vol": 3.31,
-      "peak_price": 923.0,
-      "peak_date": "2026-08-05"
+      "peak_price": 955.0,
+      "peak_date": "2026-09-01"
     },
     "BP": {
       "company": "BP",
@@ -197,8 +197,8 @@
       "signal_date": "2026-04-07",
       "growth_pct": 23.5,
       "pre_event_vol": 2.75,
-      "peak_price": 374.0,
-      "peak_date": "2026-08-07"
+      "peak_price": 378.0,
+      "peak_date": "2026-09-01"
     },
     "CPG": {
       "company": "Compass Group",
@@ -509,8 +509,8 @@
       "signal_date": "2026-02-25",
       "growth_pct": 20.9,
       "pre_event_vol": 2.09,
-      "peak_price": 275.3999938964844,
-      "peak_date": "2026-08-28"
+      "peak_price": 279.6000061035156,
+      "peak_date": "2026-09-01"
     },
     "JD": {
       "company": "JD Sports",
