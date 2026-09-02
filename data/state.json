@@ -109,8 +109,8 @@
       "signal_date": "2026-05-26",
       "growth_pct": 20.4,
       "pre_event_vol": 3.31,
-      "peak_price": 955.0,
-      "peak_date": "2026-09-01"
+      "peak_price": 956.0,
+      "peak_date": "2026-09-02"
     },
     "BP": {
       "company": "BP",
@@ -509,8 +509,8 @@
       "signal_date": "2026-02-25",
       "growth_pct": 20.9,
       "pre_event_vol": 2.09,
-      "peak_price": 279.6000061035156,
-      "peak_date": "2026-09-01"
+      "peak_price": 286.0,
+      "peak_date": "2026-09-02"
     },
     "JD": {
       "company": "JD Sports",
@@ -909,8 +909,8 @@
       "signal_date": "2026-07-23",
       "growth_pct": 20.0,
       "pre_event_vol": 2.62,
-      "peak_price": 841.0,
-      "peak_date": "2026-08-28"
+      "peak_price": 849.0,
+      "peak_date": "2026-09-02"
     },
     "VOD": {
       "company": "Vodafone Group",
@@ -1080,14 +1080,6 @@
       "peak_price": 571.5,
       "peak_date": "2026-08-11"
     },
-    "BCG": {
-      "company": "Baltic Classifieds",
-      "signal_date": "2026-08-11",
-      "growth_pct": 20.1,
-      "pre_event_vol": 2.45,
-      "peak_price": 217.1999969482422,
-      "peak_date": "2026-08-27"
-    },
     "SRP": {
       "company": "Serco",
       "signal_date": "2026-08-12",
@@ -1133,8 +1125,8 @@
       "signal_date": "2026-08-27",
       "growth_pct": 22.2,
       "pre_event_vol": 2.89,
-      "peak_price": 1156.0,
-      "peak_date": "2026-08-27"
+      "peak_price": 1159.0,
+      "peak_date": "2026-09-02"
     }
   },
   "holdings": {
@@ -1186,6 +1178,13 @@
       "buy_price": 160.60000610351562,
       "peak_at_buy": 237.5,
       "cycle_days": 29
+    },
+    "BCG": {
+      "company": "Baltic Classifieds",
+      "buy_date": "2026-09-02",
+      "buy_price": 2.700000047683716,
+      "peak_at_buy": 217.1999969482422,
+      "cycle_days": 22
     }
   }
 }
