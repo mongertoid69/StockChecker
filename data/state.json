@@ -77,8 +77,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 24.7,
       "pre_event_vol": 2.75,
-      "peak_price": 13510.0,
-      "peak_date": "2026-08-14"
+      "peak_price": 13540.0,
+      "peak_date": "2026-09-03"
     },
     "BME": {
       "company": "B&M",
@@ -189,16 +189,16 @@
       "signal_date": "2026-06-08",
       "growth_pct": 20.8,
       "pre_event_vol": 2.48,
-      "peak_price": 743.0,
-      "peak_date": "2026-08-21"
+      "peak_price": 763.0,
+      "peak_date": "2026-09-03"
     },
     "CNE": {
       "company": "Capricorn Energy",
       "signal_date": "2026-04-07",
       "growth_pct": 23.5,
       "pre_event_vol": 2.75,
-      "peak_price": 378.0,
-      "peak_date": "2026-09-01"
+      "peak_price": 383.0,
+      "peak_date": "2026-09-03"
     },
     "CPG": {
       "company": "Compass Group",
@@ -565,8 +565,8 @@
       "signal_date": "2026-06-15",
       "growth_pct": 20.0,
       "pre_event_vol": 1.57,
-      "peak_price": 333.5,
-      "peak_date": "2026-08-18"
+      "peak_price": 335.0,
+      "peak_date": "2026-09-03"
     },
     "MARS": {
       "company": "Marston's",
@@ -821,8 +821,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 21.2,
       "pre_event_vol": 1.85,
-      "peak_price": 1492.5,
-      "peak_date": "2026-08-28"
+      "peak_price": 1500.0,
+      "peak_date": "2026-09-03"
     },
     "SNR": {
       "company": "Senior",
@@ -1125,8 +1125,16 @@
       "signal_date": "2026-08-27",
       "growth_pct": 22.2,
       "pre_event_vol": 2.89,
-      "peak_price": 1159.0,
-      "peak_date": "2026-09-02"
+      "peak_price": 1164.0,
+      "peak_date": "2026-09-03"
+    },
+    "HWG": {
+      "company": "Harworth Group",
+      "signal_date": "2026-09-03",
+      "growth_pct": 22.7,
+      "pre_event_vol": 2.83,
+      "peak_price": 176.1999969482422,
+      "peak_date": "2026-09-03"
     }
   },
   "holdings": {
