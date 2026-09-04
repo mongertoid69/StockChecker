@@ -77,8 +77,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 24.7,
       "pre_event_vol": 2.75,
-      "peak_price": 13540.0,
-      "peak_date": "2026-09-03"
+      "peak_price": 13620.0,
+      "peak_date": "2026-09-04"
     },
     "BME": {
       "company": "B&M",
@@ -189,8 +189,8 @@
       "signal_date": "2026-06-08",
       "growth_pct": 20.8,
       "pre_event_vol": 2.48,
-      "peak_price": 763.0,
-      "peak_date": "2026-09-03"
+      "peak_price": 765.0,
+      "peak_date": "2026-09-04"
     },
     "CNE": {
       "company": "Capricorn Energy",
@@ -565,8 +565,8 @@
       "signal_date": "2026-06-15",
       "growth_pct": 20.0,
       "pre_event_vol": 1.57,
-      "peak_price": 335.0,
-      "peak_date": "2026-09-03"
+      "peak_price": 337.0,
+      "peak_date": "2026-09-04"
     },
     "MARS": {
       "company": "Marston's",
@@ -909,16 +909,16 @@
       "signal_date": "2026-07-23",
       "growth_pct": 20.0,
       "pre_event_vol": 2.62,
-      "peak_price": 849.0,
-      "peak_date": "2026-09-02"
+      "peak_price": 866.0,
+      "peak_date": "2026-09-04"
     },
     "VOD": {
       "company": "Vodafone Group",
       "signal_date": "2026-07-28",
       "growth_pct": 23.7,
       "pre_event_vol": 2.1,
-      "peak_price": 123.25,
-      "peak_date": "2026-07-28"
+      "peak_price": 125.5999984741211,
+      "peak_date": "2026-09-04"
     },
     "WIZZ": {
       "company": "Wizz Air",
