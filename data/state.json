@@ -189,8 +189,8 @@
       "signal_date": "2026-06-08",
       "growth_pct": 20.8,
       "pre_event_vol": 2.48,
-      "peak_price": 765.0,
-      "peak_date": "2026-09-04"
+      "peak_price": 785.0,
+      "peak_date": "2026-09-07"
     },
     "CNE": {
       "company": "Capricorn Energy",
@@ -677,8 +677,8 @@
       "signal_date": "2026-05-06",
       "growth_pct": 24.4,
       "pre_event_vol": 1.82,
-      "peak_price": 1130.0,
-      "peak_date": "2026-08-17"
+      "peak_price": 1136.0,
+      "peak_date": "2026-09-07"
     },
     "POLN": {
       "company": "Pollen Street Group",
@@ -805,8 +805,8 @@
       "signal_date": "2026-03-17",
       "growth_pct": 21.2,
       "pre_event_vol": 1.4,
-      "peak_price": 3473.6884765625,
-      "peak_date": "2026-03-17"
+      "peak_price": 3482.5,
+      "peak_date": "2026-09-07"
     },
     "SMIN": {
       "company": "Smiths Group",
@@ -997,8 +997,8 @@
       "signal_date": "2026-08-04",
       "growth_pct": 20.1,
       "pre_event_vol": 2.19,
-      "peak_price": 756.5,
-      "peak_date": "2026-08-28"
+      "peak_price": 758.0,
+      "peak_date": "2026-09-07"
     },
     "SYNT": {
       "company": "Synthomer",
@@ -1125,8 +1125,8 @@
       "signal_date": "2026-08-27",
       "growth_pct": 22.2,
       "pre_event_vol": 2.89,
-      "peak_price": 1164.0,
-      "peak_date": "2026-09-03"
+      "peak_price": 1181.0,
+      "peak_date": "2026-09-07"
     },
     "HWG": {
       "company": "Harworth Group",
