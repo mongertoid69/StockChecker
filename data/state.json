@@ -5,8 +5,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 23.2,
       "pre_event_vol": 3.03,
-      "peak_price": 4269.0,
-      "peak_date": "2026-08-28"
+      "peak_price": 4306.0,
+      "peak_date": "2026-09-08"
     },
     "AAS": {
       "company": "Aberdeen Asia Focus",
@@ -77,8 +77,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 24.7,
       "pre_event_vol": 2.75,
-      "peak_price": 13620.0,
-      "peak_date": "2026-09-04"
+      "peak_price": 13700.0,
+      "peak_date": "2026-09-08"
     },
     "BME": {
       "company": "B&M",
@@ -565,8 +565,8 @@
       "signal_date": "2026-06-15",
       "growth_pct": 20.0,
       "pre_event_vol": 1.57,
-      "peak_price": 337.0,
-      "peak_date": "2026-09-04"
+      "peak_price": 344.0,
+      "peak_date": "2026-09-08"
     },
     "MARS": {
       "company": "Marston's",
@@ -589,8 +589,8 @@
       "signal_date": "2026-05-06",
       "growth_pct": 20.7,
       "pre_event_vol": 1.61,
-      "peak_price": 177.0,
-      "peak_date": "2026-08-27"
+      "peak_price": 177.25,
+      "peak_date": "2026-09-08"
     },
     "MOON": {
       "company": "Moonpig",
@@ -677,8 +677,8 @@
       "signal_date": "2026-05-06",
       "growth_pct": 24.4,
       "pre_event_vol": 1.82,
-      "peak_price": 1136.0,
-      "peak_date": "2026-09-07"
+      "peak_price": 1140.0,
+      "peak_date": "2026-09-08"
     },
     "POLN": {
       "company": "Pollen Street Group",
@@ -805,8 +805,8 @@
       "signal_date": "2026-03-17",
       "growth_pct": 21.2,
       "pre_event_vol": 1.4,
-      "peak_price": 3482.5,
-      "peak_date": "2026-09-07"
+      "peak_price": 3500.5,
+      "peak_date": "2026-09-08"
     },
     "SMIN": {
       "company": "Smiths Group",
@@ -909,16 +909,16 @@
       "signal_date": "2026-07-23",
       "growth_pct": 20.0,
       "pre_event_vol": 2.62,
-      "peak_price": 866.0,
-      "peak_date": "2026-09-04"
+      "peak_price": 869.0,
+      "peak_date": "2026-09-08"
     },
     "VOD": {
       "company": "Vodafone Group",
       "signal_date": "2026-07-28",
       "growth_pct": 23.7,
       "pre_event_vol": 2.1,
-      "peak_price": 125.5999984741211,
-      "peak_date": "2026-09-04"
+      "peak_price": 128.25,
+      "peak_date": "2026-09-08"
     },
     "WIZZ": {
       "company": "Wizz Air",
@@ -941,16 +941,16 @@
       "signal_date": "2026-04-20",
       "growth_pct": 23.0,
       "pre_event_vol": 2.63,
-      "peak_price": 131.0,
-      "peak_date": "2026-04-20"
+      "peak_price": 135.0,
+      "peak_date": "2026-09-08"
     },
     "XPP": {
       "company": "XP Power",
       "signal_date": "2026-04-27",
       "growth_pct": 21.8,
       "pre_event_vol": 2.32,
-      "peak_price": 1862.0,
-      "peak_date": "2026-08-27"
+      "peak_price": 1890.0,
+      "peak_date": "2026-09-08"
     },
     "ZTF": {
       "company": "Zotefoams",
@@ -1125,16 +1125,24 @@
       "signal_date": "2026-08-27",
       "growth_pct": 22.2,
       "pre_event_vol": 2.89,
-      "peak_price": 1181.0,
-      "peak_date": "2026-09-07"
+      "peak_price": 1182.0,
+      "peak_date": "2026-09-08"
     },
     "HWG": {
       "company": "Harworth Group",
       "signal_date": "2026-09-03",
       "growth_pct": 22.7,
       "pre_event_vol": 2.83,
-      "peak_price": 176.1999969482422,
-      "peak_date": "2026-09-03"
+      "peak_price": 176.60000610351562,
+      "peak_date": "2026-09-08"
+    },
+    "TTG": {
+      "company": "TT Electronics",
+      "signal_date": "2026-09-08",
+      "growth_pct": 21.6,
+      "pre_event_vol": 2.26,
+      "peak_price": 163.0,
+      "peak_date": "2026-09-08"
     }
   },
   "holdings": {
