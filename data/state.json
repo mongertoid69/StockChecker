@@ -421,8 +421,8 @@
       "signal_date": "2026-03-11",
       "growth_pct": 20.4,
       "pre_event_vol": 3.16,
-      "peak_price": 270.140625,
-      "peak_date": "2026-03-11"
+      "peak_price": 274.6000061035156,
+      "peak_date": "2026-09-09"
     },
     "HFD": {
       "company": "Halfords",
@@ -589,8 +589,8 @@
       "signal_date": "2026-05-06",
       "growth_pct": 20.7,
       "pre_event_vol": 1.61,
-      "peak_price": 177.25,
-      "peak_date": "2026-09-08"
+      "peak_price": 181.0,
+      "peak_date": "2026-09-09"
     },
     "MOON": {
       "company": "Moonpig",
@@ -805,8 +805,8 @@
       "signal_date": "2026-03-17",
       "growth_pct": 21.2,
       "pre_event_vol": 1.4,
-      "peak_price": 3500.5,
-      "peak_date": "2026-09-08"
+      "peak_price": 3504.0,
+      "peak_date": "2026-09-09"
     },
     "SMIN": {
       "company": "Smiths Group",
@@ -909,8 +909,8 @@
       "signal_date": "2026-07-23",
       "growth_pct": 20.0,
       "pre_event_vol": 2.62,
-      "peak_price": 869.0,
-      "peak_date": "2026-09-08"
+      "peak_price": 1010.0,
+      "peak_date": "2026-09-09"
     },
     "VOD": {
       "company": "Vodafone Group",
@@ -941,8 +941,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 23.0,
       "pre_event_vol": 2.63,
-      "peak_price": 135.0,
-      "peak_date": "2026-09-08"
+      "peak_price": 142.0,
+      "peak_date": "2026-09-09"
     },
     "XPP": {
       "company": "XP Power",
@@ -1143,6 +1143,14 @@
       "pre_event_vol": 2.26,
       "peak_price": 163.0,
       "peak_date": "2026-09-08"
+    },
+    "PDL": {
+      "company": "Petra Diamonds",
+      "signal_date": "2026-09-09",
+      "growth_pct": 21.1,
+      "pre_event_vol": 5.84,
+      "peak_price": 7.0,
+      "peak_date": "2026-09-09"
     }
   },
   "holdings": {
