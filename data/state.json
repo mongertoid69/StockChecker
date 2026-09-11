@@ -357,8 +357,8 @@
       "signal_date": "2026-04-23",
       "growth_pct": 21.2,
       "pre_event_vol": 1.71,
-      "peak_price": 1508.0,
-      "peak_date": "2026-08-28"
+      "peak_price": 1510.0,
+      "peak_date": "2026-09-11"
     },
     "FSJ": {
       "company": "James Fisher & Sons",
@@ -613,8 +613,8 @@
       "signal_date": "2026-04-13",
       "growth_pct": 24.8,
       "pre_event_vol": 2.32,
-      "peak_price": 180.1999969482422,
-      "peak_date": "2026-08-14"
+      "peak_price": 182.8000030517578,
+      "peak_date": "2026-09-11"
     },
     "NCC": {
       "company": "NCC Group",
@@ -805,8 +805,8 @@
       "signal_date": "2026-03-17",
       "growth_pct": 21.2,
       "pre_event_vol": 1.4,
-      "peak_price": 3533.0,
-      "peak_date": "2026-09-10"
+      "peak_price": 3551.0,
+      "peak_date": "2026-09-11"
     },
     "SMIN": {
       "company": "Smiths Group",
@@ -853,8 +853,8 @@
       "signal_date": "2026-04-17",
       "growth_pct": 22.9,
       "pre_event_vol": 2.77,
-      "peak_price": 5178.75927734375,
-      "peak_date": "2026-04-17"
+      "peak_price": 5185.0,
+      "peak_date": "2026-09-11"
     },
     "TEM": {
       "company": "Templeton Emerging Markets Investment Trust",
@@ -917,8 +917,8 @@
       "signal_date": "2026-07-28",
       "growth_pct": 23.7,
       "pre_event_vol": 2.1,
-      "peak_price": 128.64999389648438,
-      "peak_date": "2026-09-10"
+      "peak_price": 128.75,
+      "peak_date": "2026-09-11"
     },
     "WIZZ": {
       "company": "Wizz Air",
@@ -949,8 +949,8 @@
       "signal_date": "2026-04-27",
       "growth_pct": 21.8,
       "pre_event_vol": 2.32,
-      "peak_price": 1890.0,
-      "peak_date": "2026-09-08"
+      "peak_price": 1896.0,
+      "peak_date": "2026-09-11"
     },
     "ZTF": {
       "company": "Zotefoams",
@@ -1141,8 +1141,8 @@
       "signal_date": "2026-09-08",
       "growth_pct": 21.6,
       "pre_event_vol": 2.26,
-      "peak_price": 165.1999969482422,
-      "peak_date": "2026-09-10"
+      "peak_price": 168.1999969482422,
+      "peak_date": "2026-09-11"
     },
     "PDL": {
       "company": "Petra Diamonds",
