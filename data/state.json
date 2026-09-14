@@ -248,14 +248,6 @@
       "peak_price": 439.8268737792969,
       "peak_date": "2026-03-02"
     },
-    "DATA": {
-      "company": "GlobalData",
-      "signal_date": "2026-04-14",
-      "growth_pct": 20.8,
-      "pre_event_vol": 3.6,
-      "peak_price": 86.9000015258789,
-      "peak_date": "2026-08-12"
-    },
     "DCC": {
       "company": "DCC Energy",
       "signal_date": "2026-05-01",
@@ -309,8 +301,8 @@
       "signal_date": "2026-06-19",
       "growth_pct": 22.4,
       "pre_event_vol": 4.79,
-      "peak_price": 27.450000762939453,
-      "peak_date": "2026-08-20"
+      "peak_price": 27.5,
+      "peak_date": "2026-09-14"
     },
     "EVOK": {
       "company": "Evoke",
@@ -421,8 +413,8 @@
       "signal_date": "2026-03-11",
       "growth_pct": 20.4,
       "pre_event_vol": 3.16,
-      "peak_price": 277.79998779296875,
-      "peak_date": "2026-09-10"
+      "peak_price": 280.0,
+      "peak_date": "2026-09-14"
     },
     "HFD": {
       "company": "Halfords",
@@ -709,8 +701,8 @@
       "signal_date": "2026-02-26",
       "growth_pct": 23.3,
       "pre_event_vol": 3.59,
-      "peak_price": 412.20001220703125,
-      "peak_date": "2026-08-24"
+      "peak_price": 415.79998779296875,
+      "peak_date": "2026-09-14"
     },
     "REL": {
       "company": "RELX",
@@ -805,8 +797,8 @@
       "signal_date": "2026-03-17",
       "growth_pct": 21.2,
       "pre_event_vol": 1.4,
-      "peak_price": 3551.0,
-      "peak_date": "2026-09-11"
+      "peak_price": 3582.0,
+      "peak_date": "2026-09-14"
     },
     "SMIN": {
       "company": "Smiths Group",
@@ -917,8 +909,8 @@
       "signal_date": "2026-07-28",
       "growth_pct": 23.7,
       "pre_event_vol": 2.1,
-      "peak_price": 128.75,
-      "peak_date": "2026-09-11"
+      "peak_price": 130.35000610351562,
+      "peak_date": "2026-09-14"
     },
     "WIZZ": {
       "company": "Wizz Air",
@@ -1141,8 +1133,8 @@
       "signal_date": "2026-09-08",
       "growth_pct": 21.6,
       "pre_event_vol": 2.26,
-      "peak_price": 168.1999969482422,
-      "peak_date": "2026-09-11"
+      "peak_price": 169.39999389648438,
+      "peak_date": "2026-09-14"
     },
     "PDL": {
       "company": "Petra Diamonds",
