@@ -197,8 +197,8 @@
       "signal_date": "2026-04-07",
       "growth_pct": 23.5,
       "pre_event_vol": 2.75,
-      "peak_price": 383.0,
-      "peak_date": "2026-09-03"
+      "peak_price": 384.0,
+      "peak_date": "2026-09-15"
     },
     "CPG": {
       "company": "Compass Group",
@@ -413,8 +413,8 @@
       "signal_date": "2026-03-11",
       "growth_pct": 20.4,
       "pre_event_vol": 3.16,
-      "peak_price": 280.0,
-      "peak_date": "2026-09-14"
+      "peak_price": 280.3999938964844,
+      "peak_date": "2026-09-15"
     },
     "HFD": {
       "company": "Halfords",
@@ -501,8 +501,8 @@
       "signal_date": "2026-02-25",
       "growth_pct": 20.9,
       "pre_event_vol": 2.09,
-      "peak_price": 286.0,
-      "peak_date": "2026-09-02"
+      "peak_price": 293.20001220703125,
+      "peak_date": "2026-09-15"
     },
     "JD": {
       "company": "JD Sports",
@@ -701,8 +701,8 @@
       "signal_date": "2026-02-26",
       "growth_pct": 23.3,
       "pre_event_vol": 3.59,
-      "peak_price": 415.79998779296875,
-      "peak_date": "2026-09-14"
+      "peak_price": 418.3999938964844,
+      "peak_date": "2026-09-15"
     },
     "REL": {
       "company": "RELX",
@@ -797,8 +797,8 @@
       "signal_date": "2026-03-17",
       "growth_pct": 21.2,
       "pre_event_vol": 1.4,
-      "peak_price": 3582.0,
-      "peak_date": "2026-09-14"
+      "peak_price": 3652.5,
+      "peak_date": "2026-09-15"
     },
     "SMIN": {
       "company": "Smiths Group",
@@ -909,8 +909,8 @@
       "signal_date": "2026-07-28",
       "growth_pct": 23.7,
       "pre_event_vol": 2.1,
-      "peak_price": 130.35000610351562,
-      "peak_date": "2026-09-14"
+      "peak_price": 131.1999969482422,
+      "peak_date": "2026-09-15"
     },
     "WIZZ": {
       "company": "Wizz Air",
@@ -1125,16 +1125,16 @@
       "signal_date": "2026-09-03",
       "growth_pct": 22.7,
       "pre_event_vol": 2.83,
-      "peak_price": 176.60000610351562,
-      "peak_date": "2026-09-08"
+      "peak_price": 176.8000030517578,
+      "peak_date": "2026-09-15"
     },
     "TTG": {
       "company": "TT Electronics",
       "signal_date": "2026-09-08",
       "growth_pct": 21.6,
       "pre_event_vol": 2.26,
-      "peak_price": 169.39999389648438,
-      "peak_date": "2026-09-14"
+      "peak_price": 170.60000610351562,
+      "peak_date": "2026-09-15"
     },
     "PDL": {
       "company": "Petra Diamonds",
