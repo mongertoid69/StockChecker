@@ -77,8 +77,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 24.7,
       "pre_event_vol": 2.75,
-      "peak_price": 13700.0,
-      "peak_date": "2026-09-08"
+      "peak_price": 13820.0,
+      "peak_date": "2026-09-17"
     },
     "BME": {
       "company": "B&M",
@@ -109,8 +109,8 @@
       "signal_date": "2026-05-26",
       "growth_pct": 20.4,
       "pre_event_vol": 3.31,
-      "peak_price": 956.0,
-      "peak_date": "2026-09-02"
+      "peak_price": 960.5,
+      "peak_date": "2026-09-17"
     },
     "BP": {
       "company": "BP",
@@ -141,8 +141,8 @@
       "signal_date": "2026-04-23",
       "growth_pct": 21.6,
       "pre_event_vol": 3.03,
-      "peak_price": 438.6000061035156,
-      "peak_date": "2026-08-28"
+      "peak_price": 450.0,
+      "peak_date": "2026-09-17"
     },
     "CBG": {
       "company": "Close Brothers Group",
@@ -365,8 +365,8 @@
       "signal_date": "2026-07-22",
       "growth_pct": 20.7,
       "pre_event_vol": 1.88,
-      "peak_price": 628.0,
-      "peak_date": "2026-08-25"
+      "peak_price": 649.0,
+      "peak_date": "2026-09-17"
     },
     "GNC": {
       "company": "Greencore",
@@ -509,8 +509,8 @@
       "signal_date": "2026-03-03",
       "growth_pct": 21.0,
       "pre_event_vol": 1.01,
-      "peak_price": 3122.0,
-      "peak_date": "2026-08-12"
+      "peak_price": 3126.0,
+      "peak_date": "2026-09-17"
     },
     "KNOS": {
       "company": "Kainos",
@@ -573,8 +573,8 @@
       "signal_date": "2026-05-06",
       "growth_pct": 20.7,
       "pre_event_vol": 1.61,
-      "peak_price": 181.0,
-      "peak_date": "2026-09-09"
+      "peak_price": 183.0,
+      "peak_date": "2026-09-17"
     },
     "MOON": {
       "company": "Moonpig",
@@ -693,8 +693,8 @@
       "signal_date": "2026-02-26",
       "growth_pct": 23.3,
       "pre_event_vol": 3.59,
-      "peak_price": 441.20001220703125,
-      "peak_date": "2026-09-16"
+      "peak_price": 445.0,
+      "peak_date": "2026-09-17"
     },
     "REL": {
       "company": "RELX",
@@ -805,8 +805,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 21.2,
       "pre_event_vol": 1.85,
-      "peak_price": 1500.0,
-      "peak_date": "2026-09-03"
+      "peak_price": 1519.0,
+      "peak_date": "2026-09-17"
     },
     "SNR": {
       "company": "Senior",
@@ -901,8 +901,8 @@
       "signal_date": "2026-07-28",
       "growth_pct": 23.7,
       "pre_event_vol": 2.1,
-      "peak_price": 131.39999389648438,
-      "peak_date": "2026-09-16"
+      "peak_price": 131.75,
+      "peak_date": "2026-09-17"
     },
     "WIZZ": {
       "company": "Wizz Air",
@@ -1117,16 +1117,16 @@
       "signal_date": "2026-09-03",
       "growth_pct": 22.7,
       "pre_event_vol": 2.83,
-      "peak_price": 176.8000030517578,
-      "peak_date": "2026-09-15"
+      "peak_price": 178.39999389648438,
+      "peak_date": "2026-09-17"
     },
     "TTG": {
       "company": "TT Electronics",
       "signal_date": "2026-09-08",
       "growth_pct": 21.6,
       "pre_event_vol": 2.26,
-      "peak_price": 175.0,
-      "peak_date": "2026-09-16"
+      "peak_price": 175.1999969482422,
+      "peak_date": "2026-09-17"
     },
     "PDL": {
       "company": "Petra Diamonds",
@@ -1200,6 +1200,13 @@
       "buy_price": 14400.0,
       "peak_at_buy": 20650.0,
       "cycle_days": 106
+    },
+    "DATA": {
+      "company": "GlobalData",
+      "buy_date": "2026-09-17",
+      "buy_price": 58.79999923706055,
+      "peak_at_buy": 101.80000305175781,
+      "cycle_days": 128
     }
   }
 }
