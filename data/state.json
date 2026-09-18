@@ -141,8 +141,8 @@
       "signal_date": "2026-04-23",
       "growth_pct": 21.6,
       "pre_event_vol": 3.03,
-      "peak_price": 450.0,
-      "peak_date": "2026-09-17"
+      "peak_price": 457.0,
+      "peak_date": "2026-09-18"
     },
     "CBG": {
       "company": "Close Brothers Group",
@@ -253,8 +253,8 @@
       "signal_date": "2026-05-01",
       "growth_pct": 21.9,
       "pre_event_vol": 2.3,
-      "peak_price": 6390.0,
-      "peak_date": "2026-08-27"
+      "peak_price": 6425.0,
+      "peak_date": "2026-09-18"
     },
     "DGI9": {
       "company": "Digital 9 Infrastructure",
@@ -365,8 +365,8 @@
       "signal_date": "2026-07-22",
       "growth_pct": 20.7,
       "pre_event_vol": 1.88,
-      "peak_price": 649.0,
-      "peak_date": "2026-09-17"
+      "peak_price": 684.0,
+      "peak_date": "2026-09-18"
     },
     "GNC": {
       "company": "Greencore",
@@ -405,8 +405,8 @@
       "signal_date": "2026-03-11",
       "growth_pct": 20.4,
       "pre_event_vol": 3.16,
-      "peak_price": 280.3999938964844,
-      "peak_date": "2026-09-15"
+      "peak_price": 280.6000061035156,
+      "peak_date": "2026-09-18"
     },
     "HFD": {
       "company": "Halfords",
@@ -493,8 +493,8 @@
       "signal_date": "2026-02-25",
       "growth_pct": 20.9,
       "pre_event_vol": 2.09,
-      "peak_price": 293.20001220703125,
-      "peak_date": "2026-09-15"
+      "peak_price": 296.20001220703125,
+      "peak_date": "2026-09-18"
     },
     "JD": {
       "company": "JD Sports",
@@ -813,8 +813,8 @@
       "signal_date": "2026-03-02",
       "growth_pct": 23.2,
       "pre_event_vol": 4.43,
-      "peak_price": 296.977783203125,
-      "peak_date": "2026-03-02"
+      "peak_price": 297.0,
+      "peak_date": "2026-09-18"
     },
     "SSIT": {
       "company": "Seraphim Space Investment Trust",
@@ -933,8 +933,8 @@
       "signal_date": "2026-04-27",
       "growth_pct": 21.8,
       "pre_event_vol": 2.32,
-      "peak_price": 1896.0,
-      "peak_date": "2026-09-11"
+      "peak_price": 1960.0,
+      "peak_date": "2026-09-18"
     },
     "ZTF": {
       "company": "Zotefoams",
@@ -1125,8 +1125,8 @@
       "signal_date": "2026-09-08",
       "growth_pct": 21.6,
       "pre_event_vol": 2.26,
-      "peak_price": 175.1999969482422,
-      "peak_date": "2026-09-17"
+      "peak_price": 177.0,
+      "peak_date": "2026-09-18"
     },
     "PDL": {
       "company": "Petra Diamonds",
@@ -1135,6 +1135,14 @@
       "pre_event_vol": 5.84,
       "peak_price": 7.0,
       "peak_date": "2026-09-09"
+    },
+    "KIE": {
+      "company": "Kier Group",
+      "signal_date": "2026-09-18",
+      "growth_pct": 23.7,
+      "pre_event_vol": 2.15,
+      "peak_price": 313.6000061035156,
+      "peak_date": "2026-09-18"
     }
   },
   "holdings": {
