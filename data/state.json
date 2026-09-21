@@ -13,16 +13,16 @@
       "signal_date": "2026-05-06",
       "growth_pct": 20.2,
       "pre_event_vol": 1.67,
-      "peak_price": 453.0,
-      "peak_date": "2026-08-28"
+      "peak_price": 460.0,
+      "peak_date": "2026-09-21"
     },
     "AEP": {
       "company": "AEP Plantations",
       "signal_date": "2026-04-07",
       "growth_pct": 20.1,
       "pre_event_vol": 1.68,
-      "peak_price": 205.0,
-      "peak_date": "2026-08-28"
+      "peak_price": 207.5,
+      "peak_date": "2026-09-21"
     },
     "AJB": {
       "company": "AJ Bell",
@@ -53,8 +53,8 @@
       "signal_date": "2026-04-28",
       "growth_pct": 20.0,
       "pre_event_vol": 1.66,
-      "peak_price": 738.0,
-      "peak_date": "2026-08-13"
+      "peak_price": 743.0,
+      "peak_date": "2026-09-21"
     },
     "BA": {
       "company": "BAE Systems",
@@ -77,8 +77,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 24.7,
       "pre_event_vol": 2.75,
-      "peak_price": 13820.0,
-      "peak_date": "2026-09-17"
+      "peak_price": 14070.0,
+      "peak_date": "2026-09-21"
     },
     "BME": {
       "company": "B&M",
@@ -253,8 +253,8 @@
       "signal_date": "2026-05-01",
       "growth_pct": 21.9,
       "pre_event_vol": 2.3,
-      "peak_price": 6425.0,
-      "peak_date": "2026-09-18"
+      "peak_price": 6435.0,
+      "peak_date": "2026-09-21"
     },
     "DGI9": {
       "company": "Digital 9 Infrastructure",
@@ -365,8 +365,8 @@
       "signal_date": "2026-07-22",
       "growth_pct": 20.7,
       "pre_event_vol": 1.88,
-      "peak_price": 684.0,
-      "peak_date": "2026-09-18"
+      "peak_price": 708.0,
+      "peak_date": "2026-09-21"
     },
     "GNC": {
       "company": "Greencore",
@@ -429,8 +429,8 @@
       "signal_date": "2026-04-29",
       "growth_pct": 22.4,
       "pre_event_vol": 1.88,
-      "peak_price": 3095.0,
-      "peak_date": "2026-08-07"
+      "peak_price": 3100.0,
+      "peak_date": "2026-09-21"
     },
     "HLMA": {
       "company": "Halma plc",
@@ -509,8 +509,8 @@
       "signal_date": "2026-03-03",
       "growth_pct": 21.0,
       "pre_event_vol": 1.01,
-      "peak_price": 3126.0,
-      "peak_date": "2026-09-17"
+      "peak_price": 3232.0,
+      "peak_date": "2026-09-21"
     },
     "KNOS": {
       "company": "Kainos",
@@ -549,8 +549,8 @@
       "signal_date": "2026-06-15",
       "growth_pct": 20.0,
       "pre_event_vol": 1.57,
-      "peak_price": 344.0,
-      "peak_date": "2026-09-08"
+      "peak_price": 346.0,
+      "peak_date": "2026-09-21"
     },
     "MARS": {
       "company": "Marston's",
@@ -573,8 +573,8 @@
       "signal_date": "2026-05-06",
       "growth_pct": 20.7,
       "pre_event_vol": 1.61,
-      "peak_price": 183.0,
-      "peak_date": "2026-09-17"
+      "peak_price": 186.5,
+      "peak_date": "2026-09-21"
     },
     "MOON": {
       "company": "Moonpig",
@@ -661,8 +661,8 @@
       "signal_date": "2026-05-06",
       "growth_pct": 24.4,
       "pre_event_vol": 1.82,
-      "peak_price": 1140.0,
-      "peak_date": "2026-09-08"
+      "peak_price": 1144.0,
+      "peak_date": "2026-09-21"
     },
     "POLN": {
       "company": "Pollen Street Group",
@@ -741,8 +741,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 22.6,
       "pre_event_vol": 2.46,
-      "peak_price": 5300.0,
-      "peak_date": "2026-08-17"
+      "peak_price": 5455.0,
+      "peak_date": "2026-09-21"
     },
     "SAGA": {
       "company": "Saga",
@@ -805,8 +805,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 21.2,
       "pre_event_vol": 1.85,
-      "peak_price": 1519.0,
-      "peak_date": "2026-09-17"
+      "peak_price": 1554.5,
+      "peak_date": "2026-09-21"
     },
     "SNR": {
       "company": "Senior",
@@ -837,8 +837,8 @@
       "signal_date": "2026-04-17",
       "growth_pct": 22.9,
       "pre_event_vol": 2.77,
-      "peak_price": 5185.0,
-      "peak_date": "2026-09-11"
+      "peak_price": 5305.0,
+      "peak_date": "2026-09-21"
     },
     "TEM": {
       "company": "Templeton Emerging Markets Investment Trust",
@@ -933,8 +933,8 @@
       "signal_date": "2026-04-27",
       "growth_pct": 21.8,
       "pre_event_vol": 2.32,
-      "peak_price": 1960.0,
-      "peak_date": "2026-09-18"
+      "peak_price": 2060.0,
+      "peak_date": "2026-09-21"
     },
     "ZTF": {
       "company": "Zotefoams",
@@ -1125,8 +1125,8 @@
       "signal_date": "2026-09-08",
       "growth_pct": 21.6,
       "pre_event_vol": 2.26,
-      "peak_price": 177.0,
-      "peak_date": "2026-09-18"
+      "peak_price": 178.0,
+      "peak_date": "2026-09-21"
     },
     "PDL": {
       "company": "Petra Diamonds",
