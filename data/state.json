@@ -197,8 +197,8 @@
       "signal_date": "2026-04-07",
       "growth_pct": 23.5,
       "pre_event_vol": 2.75,
-      "peak_price": 388.0,
-      "peak_date": "2026-09-23"
+      "peak_price": 395.0,
+      "peak_date": "2026-09-24"
     },
     "CPG": {
       "company": "Compass Group",
@@ -253,8 +253,8 @@
       "signal_date": "2026-05-01",
       "growth_pct": 21.9,
       "pre_event_vol": 2.3,
-      "peak_price": 6435.0,
-      "peak_date": "2026-09-21"
+      "peak_price": 6440.0,
+      "peak_date": "2026-09-24"
     },
     "DGI9": {
       "company": "Digital 9 Infrastructure",
@@ -277,8 +277,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 20.9,
       "pre_event_vol": 2.82,
-      "peak_price": 7700.0,
-      "peak_date": "2026-08-07"
+      "peak_price": 7715.0,
+      "peak_date": "2026-09-24"
     },
     "DSCV": {
       "company": "discoverIE",
@@ -725,8 +725,8 @@
       "signal_date": "2026-03-05",
       "growth_pct": 20.5,
       "pre_event_vol": 8.75,
-      "peak_price": 706.0,
-      "peak_date": "2026-08-11"
+      "peak_price": 755.0,
+      "peak_date": "2026-09-24"
     },
     "RR": {
       "company": "Rolls-Royce Holdings",
@@ -741,8 +741,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 22.6,
       "pre_event_vol": 2.46,
-      "peak_price": 5565.0,
-      "peak_date": "2026-09-23"
+      "peak_price": 5600.0,
+      "peak_date": "2026-09-24"
     },
     "SAGA": {
       "company": "Saga",
@@ -1125,8 +1125,8 @@
       "signal_date": "2026-09-08",
       "growth_pct": 21.6,
       "pre_event_vol": 2.26,
-      "peak_price": 178.0,
-      "peak_date": "2026-09-21"
+      "peak_price": 180.1999969482422,
+      "peak_date": "2026-09-24"
     },
     "PDL": {
       "company": "Petra Diamonds",
