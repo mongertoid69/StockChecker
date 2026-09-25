@@ -13,16 +13,16 @@
       "signal_date": "2026-05-06",
       "growth_pct": 20.2,
       "pre_event_vol": 1.67,
-      "peak_price": 464.0,
-      "peak_date": "2026-09-23"
+      "peak_price": 465.0,
+      "peak_date": "2026-09-25"
     },
     "AEP": {
       "company": "AEP Plantations",
       "signal_date": "2026-04-07",
       "growth_pct": 20.1,
       "pre_event_vol": 1.68,
-      "peak_price": 208.5,
-      "peak_date": "2026-09-23"
+      "peak_price": 209.5,
+      "peak_date": "2026-09-25"
     },
     "AJB": {
       "company": "AJ Bell",
@@ -77,8 +77,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 24.7,
       "pre_event_vol": 2.75,
-      "peak_price": 14120.0,
-      "peak_date": "2026-09-23"
+      "peak_price": 14580.0,
+      "peak_date": "2026-09-25"
     },
     "BME": {
       "company": "B&M",
@@ -197,8 +197,8 @@
       "signal_date": "2026-04-07",
       "growth_pct": 23.5,
       "pre_event_vol": 2.75,
-      "peak_price": 395.0,
-      "peak_date": "2026-09-24"
+      "peak_price": 450.0,
+      "peak_date": "2026-09-25"
     },
     "CPG": {
       "company": "Compass Group",
@@ -277,8 +277,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 20.9,
       "pre_event_vol": 2.82,
-      "peak_price": 7715.0,
-      "peak_date": "2026-09-24"
+      "peak_price": 7750.0,
+      "peak_date": "2026-09-25"
     },
     "DSCV": {
       "company": "discoverIE",
@@ -349,8 +349,8 @@
       "signal_date": "2026-04-23",
       "growth_pct": 21.2,
       "pre_event_vol": 1.71,
-      "peak_price": 1520.0,
-      "peak_date": "2026-09-23"
+      "peak_price": 1522.0,
+      "peak_date": "2026-09-25"
     },
     "FSJ": {
       "company": "James Fisher & Sons",
@@ -429,8 +429,8 @@
       "signal_date": "2026-04-29",
       "growth_pct": 22.4,
       "pre_event_vol": 1.88,
-      "peak_price": 3155.0,
-      "peak_date": "2026-09-23"
+      "peak_price": 3250.0,
+      "peak_date": "2026-09-25"
     },
     "HLMA": {
       "company": "Halma plc",
@@ -509,8 +509,8 @@
       "signal_date": "2026-03-03",
       "growth_pct": 21.0,
       "pre_event_vol": 1.01,
-      "peak_price": 3286.0,
-      "peak_date": "2026-09-22"
+      "peak_price": 3306.0,
+      "peak_date": "2026-09-25"
     },
     "KNOS": {
       "company": "Kainos",
@@ -645,8 +645,8 @@
       "signal_date": "2026-04-22",
       "growth_pct": 21.1,
       "pre_event_vol": 1.76,
-      "peak_price": 694.0,
-      "peak_date": "2026-09-23"
+      "peak_price": 699.0,
+      "peak_date": "2026-09-25"
     },
     "PHAR": {
       "company": "Pharos Energy",
@@ -669,8 +669,8 @@
       "signal_date": "2026-04-15",
       "growth_pct": 20.2,
       "pre_event_vol": 2.08,
-      "peak_price": 917.0,
-      "peak_date": "2026-09-23"
+      "peak_price": 920.0,
+      "peak_date": "2026-09-25"
     },
     "PPH": {
       "company": "PPHE Hotel Group",
@@ -741,8 +741,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 22.6,
       "pre_event_vol": 2.46,
-      "peak_price": 5600.0,
-      "peak_date": "2026-09-24"
+      "peak_price": 5660.0,
+      "peak_date": "2026-09-25"
     },
     "SAGA": {
       "company": "Saga",
@@ -797,8 +797,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 20.9,
       "pre_event_vol": 2.27,
-      "peak_price": 2785.0,
-      "peak_date": "2026-09-23"
+      "peak_price": 2816.0,
+      "peak_date": "2026-09-25"
     },
     "SMT": {
       "company": "Scottish Mortgage Investment Trust",
@@ -837,8 +837,8 @@
       "signal_date": "2026-04-17",
       "growth_pct": 22.9,
       "pre_event_vol": 2.77,
-      "peak_price": 5305.0,
-      "peak_date": "2026-09-21"
+      "peak_price": 5335.0,
+      "peak_date": "2026-09-25"
     },
     "TEM": {
       "company": "Templeton Emerging Markets Investment Trust",
@@ -1117,8 +1117,8 @@
       "signal_date": "2026-09-03",
       "growth_pct": 22.7,
       "pre_event_vol": 2.83,
-      "peak_price": 178.39999389648438,
-      "peak_date": "2026-09-17"
+      "peak_price": 187.0,
+      "peak_date": "2026-09-25"
     },
     "TTG": {
       "company": "TT Electronics",
