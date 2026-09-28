@@ -21,8 +21,8 @@
       "signal_date": "2026-04-07",
       "growth_pct": 20.1,
       "pre_event_vol": 1.68,
-      "peak_price": 209.5,
-      "peak_date": "2026-09-25"
+      "peak_price": 211.0,
+      "peak_date": "2026-09-28"
     },
     "AJB": {
       "company": "AJ Bell",
@@ -77,16 +77,16 @@
       "signal_date": "2026-04-20",
       "growth_pct": 24.7,
       "pre_event_vol": 2.75,
-      "peak_price": 14580.0,
-      "peak_date": "2026-09-25"
+      "peak_price": 14600.0,
+      "peak_date": "2026-09-28"
     },
     "BME": {
       "company": "B&M",
       "signal_date": "2026-06-09",
       "growth_pct": 21.1,
       "pre_event_vol": 2.92,
-      "peak_price": 251.8000030517578,
-      "peak_date": "2026-09-22"
+      "peak_price": 252.0,
+      "peak_date": "2026-09-28"
     },
     "BMY": {
       "company": "Bloomsbury Publishing",
@@ -429,8 +429,8 @@
       "signal_date": "2026-04-29",
       "growth_pct": 22.4,
       "pre_event_vol": 1.88,
-      "peak_price": 3250.0,
-      "peak_date": "2026-09-25"
+      "peak_price": 3260.0,
+      "peak_date": "2026-09-28"
     },
     "HLMA": {
       "company": "Halma plc",
@@ -509,8 +509,8 @@
       "signal_date": "2026-03-03",
       "growth_pct": 21.0,
       "pre_event_vol": 1.01,
-      "peak_price": 3306.0,
-      "peak_date": "2026-09-25"
+      "peak_price": 3438.0,
+      "peak_date": "2026-09-28"
     },
     "KNOS": {
       "company": "Kainos",
@@ -605,8 +605,8 @@
       "signal_date": "2026-05-08",
       "growth_pct": 21.5,
       "pre_event_vol": 2.38,
-      "peak_price": 145.0,
-      "peak_date": "2026-08-28"
+      "peak_price": 150.1999969482422,
+      "peak_date": "2026-09-28"
     },
     "ONT": {
       "company": "Oxford Nanopore Technologies",
@@ -669,8 +669,8 @@
       "signal_date": "2026-04-15",
       "growth_pct": 20.2,
       "pre_event_vol": 2.08,
-      "peak_price": 920.0,
-      "peak_date": "2026-09-25"
+      "peak_price": 921.0,
+      "peak_date": "2026-09-28"
     },
     "PPH": {
       "company": "PPHE Hotel Group",
@@ -789,16 +789,16 @@
       "signal_date": "2026-03-17",
       "growth_pct": 21.2,
       "pre_event_vol": 1.4,
-      "peak_price": 3652.5,
-      "peak_date": "2026-09-15"
+      "peak_price": 3654.5,
+      "peak_date": "2026-09-28"
     },
     "SMIN": {
       "company": "Smiths Group",
       "signal_date": "2026-04-21",
       "growth_pct": 20.9,
       "pre_event_vol": 2.27,
-      "peak_price": 2816.0,
-      "peak_date": "2026-09-25"
+      "peak_price": 2827.0,
+      "peak_date": "2026-09-28"
     },
     "SMT": {
       "company": "Scottish Mortgage Investment Trust",
@@ -837,8 +837,8 @@
       "signal_date": "2026-04-17",
       "growth_pct": 22.9,
       "pre_event_vol": 2.77,
-      "peak_price": 5335.0,
-      "peak_date": "2026-09-25"
+      "peak_price": 5400.0,
+      "peak_date": "2026-09-28"
     },
     "TEM": {
       "company": "Templeton Emerging Markets Investment Trust",
@@ -879,14 +879,6 @@
       "pre_event_vol": 2.56,
       "peak_price": 254.39999389648438,
       "peak_date": "2026-08-14"
-    },
-    "TRST": {
-      "company": "Trustpilot",
-      "signal_date": "2026-05-07",
-      "growth_pct": 23.1,
-      "pre_event_vol": 5.49,
-      "peak_price": 298.20001220703125,
-      "peak_date": "2026-08-07"
     },
     "VCT": {
       "company": "Victrex",
@@ -981,8 +973,8 @@
       "signal_date": "2026-08-04",
       "growth_pct": 20.1,
       "pre_event_vol": 2.19,
-      "peak_price": 763.5,
-      "peak_date": "2026-09-23"
+      "peak_price": 766.0,
+      "peak_date": "2026-09-28"
     },
     "SYNT": {
       "company": "Synthomer",
@@ -1215,6 +1207,13 @@
       "buy_price": 58.79999923706055,
       "peak_at_buy": 101.80000305175781,
       "cycle_days": 128
+    },
+    "TRST": {
+      "company": "Trustpilot",
+      "buy_date": "2026-09-28",
+      "buy_price": 207.39999389648438,
+      "peak_at_buy": 298.20001220703125,
+      "cycle_days": 144
     }
   }
 }
