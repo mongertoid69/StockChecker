@@ -277,8 +277,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 20.9,
       "pre_event_vol": 2.82,
-      "peak_price": 7750.0,
-      "peak_date": "2026-09-25"
+      "peak_price": 7825.0,
+      "peak_date": "2026-09-29"
     },
     "DSCV": {
       "company": "discoverIE",
@@ -333,8 +333,8 @@
       "signal_date": "2026-06-01",
       "growth_pct": 24.5,
       "pre_event_vol": 2.76,
-      "peak_price": 676.0,
-      "peak_date": "2026-08-25"
+      "peak_price": 677.7999877929688,
+      "peak_date": "2026-09-29"
     },
     "FCH": {
       "company": "Funding Circle",
@@ -429,8 +429,8 @@
       "signal_date": "2026-04-29",
       "growth_pct": 22.4,
       "pre_event_vol": 1.88,
-      "peak_price": 3260.0,
-      "peak_date": "2026-09-28"
+      "peak_price": 3275.0,
+      "peak_date": "2026-09-29"
     },
     "HLMA": {
       "company": "Halma plc",
@@ -613,8 +613,8 @@
       "signal_date": "2026-06-01",
       "growth_pct": 21.0,
       "pre_event_vol": 3.73,
-      "peak_price": 183.0,
-      "peak_date": "2026-08-25"
+      "peak_price": 199.39999389648438,
+      "peak_date": "2026-09-29"
     },
     "OTB": {
       "company": "On The Beach Group",
@@ -629,8 +629,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 20.4,
       "pre_event_vol": 2.23,
-      "peak_price": 2950.0,
-      "peak_date": "2026-08-13"
+      "peak_price": 2976.0,
+      "peak_date": "2026-09-29"
     },
     "PAGE": {
       "company": "PageGroup",
@@ -741,8 +741,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 22.6,
       "pre_event_vol": 2.46,
-      "peak_price": 5660.0,
-      "peak_date": "2026-09-25"
+      "peak_price": 5690.0,
+      "peak_date": "2026-09-29"
     },
     "SAGA": {
       "company": "Saga",
@@ -797,24 +797,24 @@
       "signal_date": "2026-04-21",
       "growth_pct": 20.9,
       "pre_event_vol": 2.27,
-      "peak_price": 2827.0,
-      "peak_date": "2026-09-28"
+      "peak_price": 2831.0,
+      "peak_date": "2026-09-29"
     },
     "SMT": {
       "company": "Scottish Mortgage Investment Trust",
       "signal_date": "2026-04-21",
       "growth_pct": 21.2,
       "pre_event_vol": 1.85,
-      "peak_price": 1573.0,
-      "peak_date": "2026-09-23"
+      "peak_price": 1584.5,
+      "peak_date": "2026-09-29"
     },
     "SNR": {
       "company": "Senior",
       "signal_date": "2026-03-02",
       "growth_pct": 23.2,
       "pre_event_vol": 4.43,
-      "peak_price": 297.0,
-      "peak_date": "2026-09-18"
+      "peak_price": 297.5,
+      "peak_date": "2026-09-29"
     },
     "SSIT": {
       "company": "Seraphim Space Investment Trust",
@@ -837,8 +837,8 @@
       "signal_date": "2026-04-17",
       "growth_pct": 22.9,
       "pre_event_vol": 2.77,
-      "peak_price": 5400.0,
-      "peak_date": "2026-09-28"
+      "peak_price": 5415.0,
+      "peak_date": "2026-09-29"
     },
     "TEM": {
       "company": "Templeton Emerging Markets Investment Trust",
@@ -973,8 +973,8 @@
       "signal_date": "2026-08-04",
       "growth_pct": 20.1,
       "pre_event_vol": 2.19,
-      "peak_price": 766.0,
-      "peak_date": "2026-09-28"
+      "peak_price": 771.5,
+      "peak_date": "2026-09-29"
     },
     "SYNT": {
       "company": "Synthomer",
@@ -1135,6 +1135,22 @@
       "pre_event_vol": 2.15,
       "peak_price": 313.6000061035156,
       "peak_date": "2026-09-18"
+    },
+    "APTD": {
+      "company": "Aptitude Software Group",
+      "signal_date": "2026-09-29",
+      "growth_pct": 23.3,
+      "pre_event_vol": 2.7,
+      "peak_price": 265.0,
+      "peak_date": "2026-09-29"
+    },
+    "VSVS": {
+      "company": "Vesuvius",
+      "signal_date": "2026-09-29",
+      "growth_pct": 21.9,
+      "pre_event_vol": 2.15,
+      "peak_price": 467.0,
+      "peak_date": "2026-09-29"
     }
   },
   "holdings": {
