@@ -464,14 +464,6 @@
       "peak_price": 2060.0,
       "peak_date": "2026-08-14"
     },
-    "IGG": {
-      "company": "IG Group",
-      "signal_date": "2026-05-22",
-      "growth_pct": 21.9,
-      "pre_event_vol": 1.84,
-      "peak_price": 1850.0,
-      "peak_date": "2026-05-22"
-    },
     "III": {
       "company": "3i",
       "signal_date": "2026-07-06",
@@ -741,8 +733,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 22.6,
       "pre_event_vol": 2.46,
-      "peak_price": 5785.0,
-      "peak_date": "2026-09-30"
+      "peak_price": 5855.0,
+      "peak_date": "2026-10-01"
     },
     "SAGA": {
       "company": "Saga",
@@ -821,8 +813,8 @@
       "signal_date": "2026-02-25",
       "growth_pct": 22.8,
       "pre_event_vol": 4.07,
-      "peak_price": 193.8000030517578,
-      "peak_date": "2026-08-12"
+      "peak_price": 195.39999389648438,
+      "peak_date": "2026-10-01"
     },
     "STB": {
       "company": "Secure Trust Bank",
@@ -1013,8 +1005,8 @@
       "signal_date": "2026-08-05",
       "growth_pct": 22.1,
       "pre_event_vol": 3.33,
-      "peak_price": 257.3999938964844,
-      "peak_date": "2026-08-13"
+      "peak_price": 258.3999938964844,
+      "peak_date": "2026-10-01"
     },
     "ATYM": {
       "company": "Atalaya Mining",
