@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-05",
   "new_growth_signals": [
     {
       "ticker": "IGG",
@@ -7,20 +7,12 @@
       "growth_pct": 21.9
     }
   ],
-  "new_buys": [
-    {
-      "ticker": "PDL",
-      "company": "Petra Diamonds",
-      "buy_price": 4.5,
-      "peak_price": 7.0,
-      "cycle_days": 23
-    }
-  ],
+  "new_buys": [],
   "rejected_buys": [
     {
       "ticker": "IGG",
       "company": "IG Group",
-      "reason": "cycle_days=133 (max 150), pre_event_vol=2.12% (min 2.3%)"
+      "reason": "cycle_days=133 (max 150), pre_event_vol=2.14% (min 2.3%)"
     }
   ],
   "new_sells": [],
