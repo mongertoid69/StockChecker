@@ -13,8 +13,8 @@
       "signal_date": "2026-05-06",
       "growth_pct": 20.2,
       "pre_event_vol": 1.67,
-      "peak_price": 468.0,
-      "peak_date": "2026-10-02"
+      "peak_price": 472.0,
+      "peak_date": "2026-10-06"
     },
     "AEP": {
       "company": "AEP Plantations",
@@ -53,8 +53,8 @@
       "signal_date": "2026-04-28",
       "growth_pct": 20.0,
       "pre_event_vol": 1.66,
-      "peak_price": 775.0,
-      "peak_date": "2026-10-02"
+      "peak_price": 785.0,
+      "peak_date": "2026-10-06"
     },
     "BA": {
       "company": "BAE Systems",
@@ -125,8 +125,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 24.3,
       "pre_event_vol": 2.56,
-      "peak_price": 345.0,
-      "peak_date": "2026-08-11"
+      "peak_price": 346.79998779296875,
+      "peak_date": "2026-10-06"
     },
     "BRWM": {
       "company": "BlackRock World Mining Trust",
@@ -208,14 +208,6 @@
       "peak_price": 33.099998474121094,
       "peak_date": "2026-08-05"
     },
-    "CPI": {
-      "company": "Capita",
-      "signal_date": "2026-04-21",
-      "growth_pct": 22.6,
-      "pre_event_vol": 4.58,
-      "peak_price": 293.0,
-      "peak_date": "2026-04-21"
-    },
     "CRDA": {
       "company": "Croda International",
       "signal_date": "2026-04-20",
@@ -277,16 +269,16 @@
       "signal_date": "2026-04-21",
       "growth_pct": 20.9,
       "pre_event_vol": 2.82,
-      "peak_price": 7825.0,
-      "peak_date": "2026-09-29"
+      "peak_price": 7860.0,
+      "peak_date": "2026-10-06"
     },
     "DSCV": {
       "company": "discoverIE",
       "signal_date": "2026-04-23",
       "growth_pct": 20.5,
       "pre_event_vol": 2.5,
-      "peak_price": 850.0,
-      "peak_date": "2026-10-02"
+      "peak_price": 865.0,
+      "peak_date": "2026-10-06"
     },
     "EDV": {
       "company": "Endeavour Mining",
@@ -325,8 +317,8 @@
       "signal_date": "2026-05-29",
       "growth_pct": 20.5,
       "pre_event_vol": 1.54,
-      "peak_price": 281.0,
-      "peak_date": "2026-10-02"
+      "peak_price": 288.0,
+      "peak_date": "2026-10-06"
     },
     "EZJ": {
       "company": "EasyJet",
@@ -349,8 +341,8 @@
       "signal_date": "2026-04-23",
       "growth_pct": 21.2,
       "pre_event_vol": 1.71,
-      "peak_price": 1522.0,
-      "peak_date": "2026-09-25"
+      "peak_price": 1542.0,
+      "peak_date": "2026-10-06"
     },
     "FSJ": {
       "company": "James Fisher & Sons",
@@ -565,8 +557,8 @@
       "signal_date": "2026-05-06",
       "growth_pct": 20.7,
       "pre_event_vol": 1.61,
-      "peak_price": 188.0,
-      "peak_date": "2026-09-30"
+      "peak_price": 190.0,
+      "peak_date": "2026-10-06"
     },
     "MOON": {
       "company": "Moonpig",
@@ -605,8 +597,8 @@
       "signal_date": "2026-06-01",
       "growth_pct": 21.0,
       "pre_event_vol": 3.73,
-      "peak_price": 223.1999969482422,
-      "peak_date": "2026-10-02"
+      "peak_price": 230.8000030517578,
+      "peak_date": "2026-10-06"
     },
     "OTB": {
       "company": "On The Beach Group",
@@ -621,8 +613,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 20.4,
       "pre_event_vol": 2.23,
-      "peak_price": 3102.0,
-      "peak_date": "2026-10-02"
+      "peak_price": 3112.0,
+      "peak_date": "2026-10-06"
     },
     "PAGE": {
       "company": "PageGroup",
@@ -637,8 +629,8 @@
       "signal_date": "2026-04-22",
       "growth_pct": 21.1,
       "pre_event_vol": 1.76,
-      "peak_price": 711.5,
-      "peak_date": "2026-10-02"
+      "peak_price": 723.0,
+      "peak_date": "2026-10-06"
     },
     "PHAR": {
       "company": "Pharos Energy",
@@ -733,8 +725,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 22.6,
       "pre_event_vol": 2.46,
-      "peak_price": 5960.0,
-      "peak_date": "2026-10-02"
+      "peak_price": 5990.0,
+      "peak_date": "2026-10-06"
     },
     "SAGA": {
       "company": "Saga",
@@ -789,16 +781,16 @@
       "signal_date": "2026-04-21",
       "growth_pct": 20.9,
       "pre_event_vol": 2.27,
-      "peak_price": 2831.0,
-      "peak_date": "2026-09-29"
+      "peak_price": 2847.0,
+      "peak_date": "2026-10-06"
     },
     "SMT": {
       "company": "Scottish Mortgage Investment Trust",
       "signal_date": "2026-04-21",
       "growth_pct": 21.2,
       "pre_event_vol": 1.85,
-      "peak_price": 1590.5,
-      "peak_date": "2026-09-30"
+      "peak_price": 1637.5,
+      "peak_date": "2026-10-06"
     },
     "SNR": {
       "company": "Senior",
@@ -909,8 +901,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 23.0,
       "pre_event_vol": 2.63,
-      "peak_price": 142.0,
-      "peak_date": "2026-09-09"
+      "peak_price": 148.0,
+      "peak_date": "2026-10-06"
     },
     "XPP": {
       "company": "XP Power",
@@ -1005,8 +997,8 @@
       "signal_date": "2026-08-05",
       "growth_pct": 22.1,
       "pre_event_vol": 3.33,
-      "peak_price": 260.3999938964844,
-      "peak_date": "2026-10-02"
+      "peak_price": 262.3999938964844,
+      "peak_date": "2026-10-06"
     },
     "ATYM": {
       "company": "Atalaya Mining",
@@ -1037,8 +1029,8 @@
       "signal_date": "2026-08-06",
       "growth_pct": 24.9,
       "pre_event_vol": 2.54,
-      "peak_price": 2028.0,
-      "peak_date": "2026-09-30"
+      "peak_price": 2050.0,
+      "peak_date": "2026-10-06"
     },
     "QQ": {
       "company": "Qinetiq",
@@ -1109,8 +1101,8 @@
       "signal_date": "2026-09-08",
       "growth_pct": 21.6,
       "pre_event_vol": 2.26,
-      "peak_price": 180.1999969482422,
-      "peak_date": "2026-09-24"
+      "peak_price": 192.39999389648438,
+      "peak_date": "2026-10-06"
     },
     "KIE": {
       "company": "Kier Group",
@@ -1143,6 +1135,22 @@
       "pre_event_vol": 3.23,
       "peak_price": 544.0,
       "peak_date": "2026-10-02"
+    },
+    "CARD": {
+      "company": "Card Factory",
+      "signal_date": "2026-10-06",
+      "growth_pct": 20.7,
+      "pre_event_vol": 2.13,
+      "peak_price": 84.0,
+      "peak_date": "2026-10-06"
+    },
+    "JDW": {
+      "company": "Wetherspoons",
+      "signal_date": "2026-10-06",
+      "growth_pct": 20.3,
+      "pre_event_vol": 2.08,
+      "peak_price": 962.5,
+      "peak_date": "2026-10-06"
     }
   },
   "holdings": {
