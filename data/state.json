@@ -85,16 +85,16 @@
       "signal_date": "2026-06-09",
       "growth_pct": 21.1,
       "pre_event_vol": 2.92,
-      "peak_price": 255.60000610351562,
-      "peak_date": "2026-10-07"
+      "peak_price": 257.0,
+      "peak_date": "2026-10-08"
     },
     "BMY": {
       "company": "Bloomsbury Publishing",
       "signal_date": "2026-03-05",
       "growth_pct": 22.7,
       "pre_event_vol": 2.36,
-      "peak_price": 664.0,
-      "peak_date": "2026-08-14"
+      "peak_price": 669.0,
+      "peak_date": "2026-10-08"
     },
     "BOWL": {
       "company": "Hollywood Bowl Group",
@@ -117,16 +117,16 @@
       "signal_date": "2026-03-19",
       "growth_pct": 21.8,
       "pre_event_vol": 2.12,
-      "peak_price": 583.1337280273438,
-      "peak_date": "2026-03-19"
+      "peak_price": 584.7999877929688,
+      "peak_date": "2026-10-08"
     },
     "BPT": {
       "company": "Bridgepoint Group",
       "signal_date": "2026-04-21",
       "growth_pct": 24.3,
       "pre_event_vol": 2.56,
-      "peak_price": 365.3999938964844,
-      "peak_date": "2026-10-07"
+      "peak_price": 382.6000061035156,
+      "peak_date": "2026-10-08"
     },
     "BRWM": {
       "company": "BlackRock World Mining Trust",
@@ -245,8 +245,8 @@
       "signal_date": "2026-05-01",
       "growth_pct": 21.9,
       "pre_event_vol": 2.3,
-      "peak_price": 6440.0,
-      "peak_date": "2026-09-24"
+      "peak_price": 6445.0,
+      "peak_date": "2026-10-08"
     },
     "DOCS": {
       "company": "Dr. Martens",
@@ -285,8 +285,8 @@
       "signal_date": "2026-06-19",
       "growth_pct": 22.4,
       "pre_event_vol": 4.79,
-      "peak_price": 27.5,
-      "peak_date": "2026-09-14"
+      "peak_price": 28.5,
+      "peak_date": "2026-10-08"
     },
     "EVOK": {
       "company": "Evoke",
@@ -317,8 +317,8 @@
       "signal_date": "2026-06-01",
       "growth_pct": 24.5,
       "pre_event_vol": 2.76,
-      "peak_price": 680.5999755859375,
-      "peak_date": "2026-10-02"
+      "peak_price": 681.0,
+      "peak_date": "2026-10-08"
     },
     "FCH": {
       "company": "Funding Circle",
@@ -765,8 +765,8 @@
       "signal_date": "2026-03-17",
       "growth_pct": 21.2,
       "pre_event_vol": 1.4,
-      "peak_price": 3654.5,
-      "peak_date": "2026-09-28"
+      "peak_price": 3780.5,
+      "peak_date": "2026-10-08"
     },
     "SMIN": {
       "company": "Smiths Group",
@@ -928,14 +928,6 @@
       "peak_price": 411.3999938964844,
       "peak_date": "2026-08-07"
     },
-    "VTY": {
-      "company": "Vistry Group",
-      "signal_date": "2026-08-03",
-      "growth_pct": 21.2,
-      "pre_event_vol": 4.01,
-      "peak_price": 315.0,
-      "peak_date": "2026-08-03"
-    },
     "MEGP": {
       "company": "ME Group International",
       "signal_date": "2026-08-04",
@@ -1021,8 +1013,8 @@
       "signal_date": "2026-08-06",
       "growth_pct": 24.9,
       "pre_event_vol": 2.54,
-      "peak_price": 2078.0,
-      "peak_date": "2026-10-07"
+      "peak_price": 2094.0,
+      "peak_date": "2026-10-08"
     },
     "QQ": {
       "company": "Qinetiq",
@@ -1133,32 +1125,32 @@
       "signal_date": "2026-10-06",
       "growth_pct": 20.7,
       "pre_event_vol": 2.13,
-      "peak_price": 85.80000305175781,
-      "peak_date": "2026-10-07"
+      "peak_price": 86.4000015258789,
+      "peak_date": "2026-10-08"
     },
     "JDW": {
       "company": "Wetherspoons",
       "signal_date": "2026-10-06",
       "growth_pct": 20.3,
       "pre_event_vol": 2.08,
-      "peak_price": 989.5,
-      "peak_date": "2026-10-07"
+      "peak_price": 1002.0,
+      "peak_date": "2026-10-08"
     },
     "AVON": {
       "company": "Avon Technologies",
       "signal_date": "2026-10-07",
       "growth_pct": 21.0,
       "pre_event_vol": 1.76,
-      "peak_price": 2190.0,
-      "peak_date": "2026-10-07"
+      "peak_price": 2255.0,
+      "peak_date": "2026-10-08"
     },
     "KMR": {
       "company": "Kenmare Resources",
       "signal_date": "2026-10-07",
       "growth_pct": 20.4,
       "pre_event_vol": 3.07,
-      "peak_price": 227.5,
-      "peak_date": "2026-10-07"
+      "peak_price": 238.0,
+      "peak_date": "2026-10-08"
     }
   },
   "holdings": {
@@ -1252,6 +1244,13 @@
       "buy_price": 206.0,
       "peak_at_buy": 354.5,
       "cycle_days": 141
+    },
+    "VTY": {
+      "company": "Vistry Group",
+      "buy_date": "2026-10-08",
+      "buy_price": 217.1999969482422,
+      "peak_at_buy": 315.0,
+      "cycle_days": 66
     }
   }
 }
