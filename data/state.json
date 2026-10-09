@@ -85,16 +85,16 @@
       "signal_date": "2026-06-09",
       "growth_pct": 21.1,
       "pre_event_vol": 2.92,
-      "peak_price": 257.0,
-      "peak_date": "2026-10-08"
+      "peak_price": 264.6000061035156,
+      "peak_date": "2026-10-09"
     },
     "BMY": {
       "company": "Bloomsbury Publishing",
       "signal_date": "2026-03-05",
       "growth_pct": 22.7,
       "pre_event_vol": 2.36,
-      "peak_price": 669.0,
-      "peak_date": "2026-10-08"
+      "peak_price": 673.0,
+      "peak_date": "2026-10-09"
     },
     "BOWL": {
       "company": "Hollywood Bowl Group",
@@ -117,16 +117,16 @@
       "signal_date": "2026-03-19",
       "growth_pct": 21.8,
       "pre_event_vol": 2.12,
-      "peak_price": 584.7999877929688,
-      "peak_date": "2026-10-08"
+      "peak_price": 586.2999877929688,
+      "peak_date": "2026-10-09"
     },
     "BPT": {
       "company": "Bridgepoint Group",
       "signal_date": "2026-04-21",
       "growth_pct": 24.3,
       "pre_event_vol": 2.56,
-      "peak_price": 382.6000061035156,
-      "peak_date": "2026-10-08"
+      "peak_price": 401.79998779296875,
+      "peak_date": "2026-10-09"
     },
     "BRWM": {
       "company": "BlackRock World Mining Trust",
@@ -269,8 +269,8 @@
       "signal_date": "2026-04-23",
       "growth_pct": 20.5,
       "pre_event_vol": 2.5,
-      "peak_price": 865.0,
-      "peak_date": "2026-10-06"
+      "peak_price": 874.0,
+      "peak_date": "2026-10-09"
     },
     "EDV": {
       "company": "Endeavour Mining",
@@ -389,8 +389,8 @@
       "signal_date": "2026-03-11",
       "growth_pct": 20.4,
       "pre_event_vol": 3.16,
-      "peak_price": 280.6000061035156,
-      "peak_date": "2026-09-18"
+      "peak_price": 281.3999938964844,
+      "peak_date": "2026-10-09"
     },
     "HFD": {
       "company": "Halfords",
@@ -525,8 +525,8 @@
       "signal_date": "2026-06-15",
       "growth_pct": 20.0,
       "pre_event_vol": 1.57,
-      "peak_price": 346.0,
-      "peak_date": "2026-09-21"
+      "peak_price": 348.0,
+      "peak_date": "2026-10-09"
     },
     "MARS": {
       "company": "Marston's",
@@ -581,8 +581,8 @@
       "signal_date": "2026-05-08",
       "growth_pct": 21.5,
       "pre_event_vol": 2.38,
-      "peak_price": 150.1999969482422,
-      "peak_date": "2026-09-28"
+      "peak_price": 151.60000610351562,
+      "peak_date": "2026-10-09"
     },
     "ONT": {
       "company": "Oxford Nanopore Technologies",
@@ -765,8 +765,8 @@
       "signal_date": "2026-03-17",
       "growth_pct": 21.2,
       "pre_event_vol": 1.4,
-      "peak_price": 3780.5,
-      "peak_date": "2026-10-08"
+      "peak_price": 3793.5,
+      "peak_date": "2026-10-09"
     },
     "SMIN": {
       "company": "Smiths Group",
@@ -797,8 +797,8 @@
       "signal_date": "2026-02-25",
       "growth_pct": 22.8,
       "pre_event_vol": 4.07,
-      "peak_price": 202.5,
-      "peak_date": "2026-10-02"
+      "peak_price": 204.5,
+      "peak_date": "2026-10-09"
     },
     "STB": {
       "company": "Secure Trust Bank",
@@ -941,8 +941,8 @@
       "signal_date": "2026-08-04",
       "growth_pct": 20.1,
       "pre_event_vol": 2.19,
-      "peak_price": 780.0,
-      "peak_date": "2026-09-30"
+      "peak_price": 792.0,
+      "peak_date": "2026-10-09"
     },
     "SYNT": {
       "company": "Synthomer",
@@ -981,8 +981,8 @@
       "signal_date": "2026-08-05",
       "growth_pct": 22.1,
       "pre_event_vol": 3.33,
-      "peak_price": 286.6000061035156,
-      "peak_date": "2026-10-07"
+      "peak_price": 297.0,
+      "peak_date": "2026-10-09"
     },
     "ATYM": {
       "company": "Atalaya Mining",
@@ -1013,8 +1013,8 @@
       "signal_date": "2026-08-06",
       "growth_pct": 24.9,
       "pre_event_vol": 2.54,
-      "peak_price": 2094.0,
-      "peak_date": "2026-10-08"
+      "peak_price": 2108.0,
+      "peak_date": "2026-10-09"
     },
     "QQ": {
       "company": "Qinetiq",
@@ -1141,8 +1141,8 @@
       "signal_date": "2026-10-07",
       "growth_pct": 21.0,
       "pre_event_vol": 1.76,
-      "peak_price": 2255.0,
-      "peak_date": "2026-10-08"
+      "peak_price": 2330.0,
+      "peak_date": "2026-10-09"
     },
     "KMR": {
       "company": "Kenmare Resources",
