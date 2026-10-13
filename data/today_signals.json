@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-13",
   "new_growth_signals": [
     {
       "ticker": "IGG",
@@ -12,7 +12,7 @@
     {
       "ticker": "IGG",
       "company": "IG Group",
-      "reason": "cycle_days=140 (max 150), pre_event_vol=2.22% (min 2.3%)"
+      "reason": "cycle_days=140 (max 150), pre_event_vol=2.29% (min 2.3%)"
     }
   ],
   "new_sells": [],
