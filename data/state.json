@@ -85,8 +85,8 @@
       "signal_date": "2026-06-09",
       "growth_pct": 21.1,
       "pre_event_vol": 2.92,
-      "peak_price": 274.0,
-      "peak_date": "2026-10-13"
+      "peak_price": 276.79998779296875,
+      "peak_date": "2026-10-14"
     },
     "BMY": {
       "company": "Bloomsbury Publishing",
@@ -117,8 +117,8 @@
       "signal_date": "2026-03-19",
       "growth_pct": 21.8,
       "pre_event_vol": 2.12,
-      "peak_price": 610.0,
-      "peak_date": "2026-10-13"
+      "peak_price": 614.2000122070312,
+      "peak_date": "2026-10-14"
     },
     "BPT": {
       "company": "Bridgepoint Group",
@@ -213,8 +213,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 20.6,
       "pre_event_vol": 2.69,
-      "peak_price": 3517.0,
-      "peak_date": "2026-10-13"
+      "peak_price": 3543.0,
+      "peak_date": "2026-10-14"
     },
     "CURY": {
       "company": "Currys",
@@ -261,8 +261,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 20.9,
       "pre_event_vol": 2.82,
-      "peak_price": 7860.0,
-      "peak_date": "2026-10-06"
+      "peak_price": 7930.0,
+      "peak_date": "2026-10-14"
     },
     "DSCV": {
       "company": "discoverIE",
@@ -285,8 +285,8 @@
       "signal_date": "2026-06-19",
       "growth_pct": 22.4,
       "pre_event_vol": 4.79,
-      "peak_price": 30.600000381469727,
-      "peak_date": "2026-10-13"
+      "peak_price": 32.0,
+      "peak_date": "2026-10-14"
     },
     "EVOK": {
       "company": "Evoke",
@@ -357,8 +357,8 @@
       "signal_date": "2026-07-22",
       "growth_pct": 21.6,
       "pre_event_vol": 2.02,
-      "peak_price": 268.3999938964844,
-      "peak_date": "2026-10-13"
+      "peak_price": 279.0,
+      "peak_date": "2026-10-14"
     },
     "GROW": {
       "company": "Molten Ventures",
@@ -389,8 +389,8 @@
       "signal_date": "2026-03-11",
       "growth_pct": 20.4,
       "pre_event_vol": 3.16,
-      "peak_price": 291.79998779296875,
-      "peak_date": "2026-10-13"
+      "peak_price": 296.6000061035156,
+      "peak_date": "2026-10-14"
     },
     "HFD": {
       "company": "Halfords",
@@ -469,8 +469,8 @@
       "signal_date": "2026-02-25",
       "growth_pct": 20.9,
       "pre_event_vol": 2.09,
-      "peak_price": 296.20001220703125,
-      "peak_date": "2026-09-18"
+      "peak_price": 298.79998779296875,
+      "peak_date": "2026-10-14"
     },
     "JD": {
       "company": "JD Sports",
@@ -765,8 +765,8 @@
       "signal_date": "2026-03-17",
       "growth_pct": 21.2,
       "pre_event_vol": 1.4,
-      "peak_price": 3865.5,
-      "peak_date": "2026-10-13"
+      "peak_price": 3911.5,
+      "peak_date": "2026-10-14"
     },
     "SMIN": {
       "company": "Smiths Group",
@@ -909,8 +909,8 @@
       "signal_date": "2026-06-16",
       "growth_pct": 20.2,
       "pre_event_vol": 2.25,
-      "peak_price": 467.0,
-      "peak_date": "2026-08-03"
+      "peak_price": 470.0,
+      "peak_date": "2026-10-14"
     },
     "SGE": {
       "company": "Sage Group",
@@ -941,8 +941,8 @@
       "signal_date": "2026-08-04",
       "growth_pct": 20.1,
       "pre_event_vol": 2.19,
-      "peak_price": 792.0,
-      "peak_date": "2026-10-09"
+      "peak_price": 797.5,
+      "peak_date": "2026-10-14"
     },
     "SYNT": {
       "company": "Synthomer",
@@ -981,8 +981,8 @@
       "signal_date": "2026-08-05",
       "growth_pct": 22.1,
       "pre_event_vol": 3.33,
-      "peak_price": 297.0,
-      "peak_date": "2026-10-09"
+      "peak_price": 302.0,
+      "peak_date": "2026-10-14"
     },
     "ATYM": {
       "company": "Atalaya Mining",
@@ -1013,8 +1013,8 @@
       "signal_date": "2026-08-06",
       "growth_pct": 24.9,
       "pre_event_vol": 2.54,
-      "peak_price": 2142.0,
-      "peak_date": "2026-10-13"
+      "peak_price": 2198.0,
+      "peak_date": "2026-10-14"
     },
     "QQ": {
       "company": "Qinetiq",
@@ -1125,24 +1125,24 @@
       "signal_date": "2026-10-06",
       "growth_pct": 20.7,
       "pre_event_vol": 2.13,
-      "peak_price": 86.4000015258789,
-      "peak_date": "2026-10-08"
+      "peak_price": 88.0,
+      "peak_date": "2026-10-14"
     },
     "JDW": {
       "company": "Wetherspoons",
       "signal_date": "2026-10-06",
       "growth_pct": 20.3,
       "pre_event_vol": 2.08,
-      "peak_price": 1008.0,
-      "peak_date": "2026-10-13"
+      "peak_price": 1020.0,
+      "peak_date": "2026-10-14"
     },
     "AVON": {
       "company": "Avon Technologies",
       "signal_date": "2026-10-07",
       "growth_pct": 21.0,
       "pre_event_vol": 1.76,
-      "peak_price": 2350.0,
-      "peak_date": "2026-10-13"
+      "peak_price": 2380.0,
+      "peak_date": "2026-10-14"
     },
     "KMR": {
       "company": "Kenmare Resources",
@@ -1267,6 +1267,13 @@
       "buy_price": 217.1999969482422,
       "peak_at_buy": 315.0,
       "cycle_days": 66
+    },
+    "IGG": {
+      "company": "IG Group",
+      "buy_date": "2026-10-14",
+      "buy_price": 954.0,
+      "peak_at_buy": 1849.8023681640625,
+      "cycle_days": 145
     }
   }
 }
