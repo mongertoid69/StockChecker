@@ -432,5 +432,19 @@
     "proceeds": 1336.36,
     "profit": 336.36,
     "return_pct": 33.64
+  },
+  {
+    "ticker": "TRST",
+    "company": "Trustpilot",
+    "status": "Sold (hit target)",
+    "buy_date": "2026-09-28",
+    "sell_date": "2026-10-16",
+    "buy_price": 207.4,
+    "sell_price": 271.0,
+    "days_held": 14,
+    "invested": 1000,
+    "proceeds": 1306.65,
+    "profit": 306.65,
+    "return_pct": 30.67
   }
 ]
