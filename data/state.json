@@ -525,8 +525,8 @@
       "signal_date": "2026-07-07",
       "growth_pct": 21.5,
       "pre_event_vol": 2.1,
-      "peak_price": 58.400001525878906,
-      "peak_date": "2026-10-19"
+      "peak_price": 58.900001525878906,
+      "peak_date": "2026-10-20"
     },
     "MER": {
       "company": "Mears Group",
@@ -717,8 +717,8 @@
       "signal_date": "2026-04-13",
       "growth_pct": 23.6,
       "pre_event_vol": 4.5,
-      "peak_price": 789.0,
-      "peak_date": "2026-10-19"
+      "peak_price": 807.0,
+      "peak_date": "2026-10-20"
     },
     "SBRE": {
       "company": "Sabre Insurance",
@@ -885,8 +885,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 23.0,
       "pre_event_vol": 2.63,
-      "peak_price": 157.0,
-      "peak_date": "2026-10-16"
+      "peak_price": 160.0,
+      "peak_date": "2026-10-20"
     },
     "XPP": {
       "company": "XP Power",
@@ -909,8 +909,8 @@
       "signal_date": "2026-07-29",
       "growth_pct": 20.7,
       "pre_event_vol": 2.3,
-      "peak_price": 1139.5,
-      "peak_date": "2026-10-19"
+      "peak_price": 1145.5,
+      "peak_date": "2026-10-20"
     },
     "WPP": {
       "company": "WPP",
@@ -973,8 +973,8 @@
       "signal_date": "2026-08-05",
       "growth_pct": 22.1,
       "pre_event_vol": 3.33,
-      "peak_price": 317.20001220703125,
-      "peak_date": "2026-10-19"
+      "peak_price": 348.79998779296875,
+      "peak_date": "2026-10-20"
     },
     "ATYM": {
       "company": "Atalaya Mining",
@@ -1069,8 +1069,8 @@
       "signal_date": "2026-09-03",
       "growth_pct": 22.7,
       "pre_event_vol": 2.83,
-      "peak_price": 187.0,
-      "peak_date": "2026-09-25"
+      "peak_price": 188.0,
+      "peak_date": "2026-10-20"
     },
     "TTG": {
       "company": "TT Electronics",
@@ -1117,16 +1117,16 @@
       "signal_date": "2026-10-06",
       "growth_pct": 20.7,
       "pre_event_vol": 2.13,
-      "peak_price": 91.9000015258789,
-      "peak_date": "2026-10-19"
+      "peak_price": 92.0,
+      "peak_date": "2026-10-20"
     },
     "JDW": {
       "company": "Wetherspoons",
       "signal_date": "2026-10-06",
       "growth_pct": 20.3,
       "pre_event_vol": 2.08,
-      "peak_price": 1048.0,
-      "peak_date": "2026-10-19"
+      "peak_price": 1070.0,
+      "peak_date": "2026-10-20"
     },
     "AVON": {
       "company": "Avon Technologies",
@@ -1165,16 +1165,16 @@
       "signal_date": "2026-10-16",
       "growth_pct": 20.1,
       "pre_event_vol": 1.57,
-      "peak_price": 203.8000030517578,
-      "peak_date": "2026-10-19"
+      "peak_price": 208.39999389648438,
+      "peak_date": "2026-10-20"
     },
     "TRST": {
       "company": "Trustpilot",
       "signal_date": "2026-10-15",
       "growth_pct": 21.9,
       "pre_event_vol": 3.47,
-      "peak_price": 276.20001220703125,
-      "peak_date": "2026-10-19"
+      "peak_price": 283.6000061035156,
+      "peak_date": "2026-10-20"
     }
   },
   "holdings": {
