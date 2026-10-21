@@ -117,8 +117,8 @@
       "signal_date": "2026-03-19",
       "growth_pct": 21.8,
       "pre_event_vol": 2.12,
-      "peak_price": 616.4000244140625,
-      "peak_date": "2026-10-19"
+      "peak_price": 617.0999755859375,
+      "peak_date": "2026-10-21"
     },
     "BPT": {
       "company": "Bridgepoint Group",
@@ -205,8 +205,8 @@
       "signal_date": "2026-04-07",
       "growth_pct": 24.0,
       "pre_event_vol": 6.46,
-      "peak_price": 33.099998474121094,
-      "peak_date": "2026-08-05"
+      "peak_price": 33.189998626708984,
+      "peak_date": "2026-10-21"
     },
     "CRDA": {
       "company": "Croda International",
@@ -349,8 +349,8 @@
       "signal_date": "2026-07-22",
       "growth_pct": 21.6,
       "pre_event_vol": 2.02,
-      "peak_price": 279.0,
-      "peak_date": "2026-10-14"
+      "peak_price": 283.0,
+      "peak_date": "2026-10-21"
     },
     "GROW": {
       "company": "Molten Ventures",
@@ -485,8 +485,8 @@
       "signal_date": "2026-04-22",
       "growth_pct": 20.8,
       "pre_event_vol": 2.93,
-      "peak_price": 1294.0,
-      "peak_date": "2026-08-21"
+      "peak_price": 1323.0,
+      "peak_date": "2026-10-21"
     },
     "LIO": {
       "company": "Liontrust Asset Management",
@@ -525,8 +525,8 @@
       "signal_date": "2026-07-07",
       "growth_pct": 21.5,
       "pre_event_vol": 2.1,
-      "peak_price": 58.900001525878906,
-      "peak_date": "2026-10-20"
+      "peak_price": 60.099998474121094,
+      "peak_date": "2026-10-21"
     },
     "MER": {
       "company": "Mears Group",
@@ -573,8 +573,8 @@
       "signal_date": "2026-05-08",
       "growth_pct": 21.5,
       "pre_event_vol": 2.38,
-      "peak_price": 155.39999389648438,
-      "peak_date": "2026-10-13"
+      "peak_price": 155.60000610351562,
+      "peak_date": "2026-10-21"
     },
     "ONT": {
       "company": "Oxford Nanopore Technologies",
@@ -669,8 +669,8 @@
       "signal_date": "2026-03-06",
       "growth_pct": 23.1,
       "pre_event_vol": 4.51,
-      "peak_price": 2937.0,
-      "peak_date": "2026-10-19"
+      "peak_price": 2973.0,
+      "peak_date": "2026-10-21"
     },
     "RHIM": {
       "company": "RHI Magnesita",
@@ -717,8 +717,8 @@
       "signal_date": "2026-04-13",
       "growth_pct": 23.6,
       "pre_event_vol": 4.5,
-      "peak_price": 807.0,
-      "peak_date": "2026-10-20"
+      "peak_price": 818.0,
+      "peak_date": "2026-10-21"
     },
     "SBRE": {
       "company": "Sabre Insurance",
@@ -829,8 +829,8 @@
       "signal_date": "2026-04-15",
       "growth_pct": 20.2,
       "pre_event_vol": 3.55,
-      "peak_price": 37.02000045776367,
-      "peak_date": "2026-10-19"
+      "peak_price": 39.02000045776367,
+      "peak_date": "2026-10-21"
     },
     "TRI": {
       "company": "Trifast",
@@ -885,8 +885,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 23.0,
       "pre_event_vol": 2.63,
-      "peak_price": 160.0,
-      "peak_date": "2026-10-20"
+      "peak_price": 160.5,
+      "peak_date": "2026-10-21"
     },
     "XPP": {
       "company": "XP Power",
@@ -909,8 +909,8 @@
       "signal_date": "2026-07-29",
       "growth_pct": 20.7,
       "pre_event_vol": 2.3,
-      "peak_price": 1145.5,
-      "peak_date": "2026-10-20"
+      "peak_price": 1155.5,
+      "peak_date": "2026-10-21"
     },
     "WPP": {
       "company": "WPP",
@@ -1021,8 +1021,8 @@
       "signal_date": "2026-08-12",
       "growth_pct": 21.0,
       "pre_event_vol": 1.59,
-      "peak_price": 277.20001220703125,
-      "peak_date": "2026-08-12"
+      "peak_price": 277.6000061035156,
+      "peak_date": "2026-10-21"
     },
     "FOUR": {
       "company": "4imprint",
@@ -1117,8 +1117,8 @@
       "signal_date": "2026-10-06",
       "growth_pct": 20.7,
       "pre_event_vol": 2.13,
-      "peak_price": 92.0,
-      "peak_date": "2026-10-20"
+      "peak_price": 92.69999694824219,
+      "peak_date": "2026-10-21"
     },
     "JDW": {
       "company": "Wetherspoons",
@@ -1165,8 +1165,8 @@
       "signal_date": "2026-10-16",
       "growth_pct": 20.1,
       "pre_event_vol": 1.57,
-      "peak_price": 208.39999389648438,
-      "peak_date": "2026-10-20"
+      "peak_price": 211.60000610351562,
+      "peak_date": "2026-10-21"
     },
     "TRST": {
       "company": "Trustpilot",
