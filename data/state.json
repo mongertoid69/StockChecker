@@ -109,8 +109,8 @@
       "signal_date": "2026-03-19",
       "growth_pct": 21.8,
       "pre_event_vol": 2.12,
-      "peak_price": 617.0999755859375,
-      "peak_date": "2026-10-21"
+      "peak_price": 638.5,
+      "peak_date": "2026-10-23"
     },
     "BPT": {
       "company": "Bridgepoint Group",
@@ -197,16 +197,16 @@
       "signal_date": "2026-04-07",
       "growth_pct": 24.0,
       "pre_event_vol": 6.46,
-      "peak_price": 33.349998474121094,
-      "peak_date": "2026-10-22"
+      "peak_price": 33.939998626708984,
+      "peak_date": "2026-10-23"
     },
     "CRDA": {
       "company": "Croda International",
       "signal_date": "2026-04-20",
       "growth_pct": 20.6,
       "pre_event_vol": 2.69,
-      "peak_price": 3632.0,
-      "peak_date": "2026-10-19"
+      "peak_price": 3636.0,
+      "peak_date": "2026-10-23"
     },
     "CURY": {
       "company": "Currys",
@@ -229,8 +229,8 @@
       "signal_date": "2026-05-01",
       "growth_pct": 21.9,
       "pre_event_vol": 2.3,
-      "peak_price": 6445.0,
-      "peak_date": "2026-10-08"
+      "peak_price": 6450.0,
+      "peak_date": "2026-10-23"
     },
     "DOCS": {
       "company": "Dr. Martens",
@@ -341,8 +341,8 @@
       "signal_date": "2026-07-22",
       "growth_pct": 21.6,
       "pre_event_vol": 2.02,
-      "peak_price": 285.79998779296875,
-      "peak_date": "2026-10-22"
+      "peak_price": 287.6000061035156,
+      "peak_date": "2026-10-23"
     },
     "GROW": {
       "company": "Molten Ventures",
@@ -373,8 +373,8 @@
       "signal_date": "2026-03-11",
       "growth_pct": 20.4,
       "pre_event_vol": 3.16,
-      "peak_price": 296.6000061035156,
-      "peak_date": "2026-10-14"
+      "peak_price": 300.3999938964844,
+      "peak_date": "2026-10-23"
     },
     "HFD": {
       "company": "Halfords",
@@ -453,8 +453,8 @@
       "signal_date": "2026-02-25",
       "growth_pct": 20.9,
       "pre_event_vol": 2.09,
-      "peak_price": 298.79998779296875,
-      "peak_date": "2026-10-14"
+      "peak_price": 300.79998779296875,
+      "peak_date": "2026-10-23"
     },
     "JD": {
       "company": "JD Sports",
@@ -493,8 +493,8 @@
       "signal_date": "2026-03-04",
       "growth_pct": 20.8,
       "pre_event_vol": 3.85,
-      "peak_price": 9466.0,
-      "peak_date": "2026-10-22"
+      "peak_price": 9510.0,
+      "peak_date": "2026-10-23"
     },
     "LUCE": {
       "company": "Luceco",
@@ -565,8 +565,8 @@
       "signal_date": "2026-05-08",
       "growth_pct": 21.5,
       "pre_event_vol": 2.38,
-      "peak_price": 157.0,
-      "peak_date": "2026-10-22"
+      "peak_price": 165.0,
+      "peak_date": "2026-10-23"
     },
     "ONT": {
       "company": "Oxford Nanopore Technologies",
@@ -629,8 +629,8 @@
       "signal_date": "2026-04-15",
       "growth_pct": 20.2,
       "pre_event_vol": 2.08,
-      "peak_price": 921.0,
-      "peak_date": "2026-09-28"
+      "peak_price": 927.0,
+      "peak_date": "2026-10-23"
     },
     "PPH": {
       "company": "PPHE Hotel Group",
@@ -661,8 +661,8 @@
       "signal_date": "2026-03-06",
       "growth_pct": 23.1,
       "pre_event_vol": 4.51,
-      "peak_price": 3028.0,
-      "peak_date": "2026-10-22"
+      "peak_price": 3039.0,
+      "peak_date": "2026-10-23"
     },
     "RHIM": {
       "company": "RHI Magnesita",
@@ -749,8 +749,8 @@
       "signal_date": "2026-03-17",
       "growth_pct": 21.2,
       "pre_event_vol": 1.4,
-      "peak_price": 3938.0,
-      "peak_date": "2026-10-16"
+      "peak_price": 4033.0,
+      "peak_date": "2026-10-23"
     },
     "SMIN": {
       "company": "Smiths Group",
@@ -821,8 +821,8 @@
       "signal_date": "2026-04-15",
       "growth_pct": 20.2,
       "pre_event_vol": 3.55,
-      "peak_price": 39.02000045776367,
-      "peak_date": "2026-10-21"
+      "peak_price": 39.70000076293945,
+      "peak_date": "2026-10-23"
     },
     "TRI": {
       "company": "Trifast",
@@ -1013,8 +1013,8 @@
       "signal_date": "2026-08-12",
       "growth_pct": 21.0,
       "pre_event_vol": 1.59,
-      "peak_price": 277.6000061035156,
-      "peak_date": "2026-10-21"
+      "peak_price": 281.3999938964844,
+      "peak_date": "2026-10-23"
     },
     "FOUR": {
       "company": "4imprint",
@@ -1061,8 +1061,8 @@
       "signal_date": "2026-09-03",
       "growth_pct": 22.7,
       "pre_event_vol": 2.83,
-      "peak_price": 188.0,
-      "peak_date": "2026-10-20"
+      "peak_price": 188.60000610351562,
+      "peak_date": "2026-10-23"
     },
     "TTG": {
       "company": "TT Electronics",
@@ -1157,8 +1157,8 @@
       "signal_date": "2026-10-16",
       "growth_pct": 20.1,
       "pre_event_vol": 1.57,
-      "peak_price": 213.8000030517578,
-      "peak_date": "2026-10-22"
+      "peak_price": 214.8000030517578,
+      "peak_date": "2026-10-23"
     },
     "TRST": {
       "company": "Trustpilot",
@@ -1282,6 +1282,13 @@
       "buy_price": 308.6000061035156,
       "peak_at_buy": 471.79998779296875,
       "cycle_days": 64
+    },
+    "ANTO": {
+      "company": "Antofagasta plc",
+      "buy_date": "2026-10-23",
+      "buy_price": 3048.0,
+      "peak_at_buy": 4407.6552734375,
+      "cycle_days": 143
     }
   }
 }
