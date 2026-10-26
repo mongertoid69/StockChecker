@@ -197,8 +197,8 @@
       "signal_date": "2026-04-07",
       "growth_pct": 24.0,
       "pre_event_vol": 6.46,
-      "peak_price": 33.939998626708984,
-      "peak_date": "2026-10-23"
+      "peak_price": 34.189998626708984,
+      "peak_date": "2026-10-26"
     },
     "CRDA": {
       "company": "Croda International",
@@ -229,8 +229,8 @@
       "signal_date": "2026-05-01",
       "growth_pct": 21.9,
       "pre_event_vol": 2.3,
-      "peak_price": 6450.0,
-      "peak_date": "2026-10-23"
+      "peak_price": 6455.0,
+      "peak_date": "2026-10-26"
     },
     "DOCS": {
       "company": "Dr. Martens",
@@ -341,8 +341,8 @@
       "signal_date": "2026-07-22",
       "growth_pct": 21.6,
       "pre_event_vol": 2.02,
-      "peak_price": 287.6000061035156,
-      "peak_date": "2026-10-23"
+      "peak_price": 288.79998779296875,
+      "peak_date": "2026-10-26"
     },
     "GROW": {
       "company": "Molten Ventures",
@@ -373,8 +373,8 @@
       "signal_date": "2026-03-11",
       "growth_pct": 20.4,
       "pre_event_vol": 3.16,
-      "peak_price": 300.3999938964844,
-      "peak_date": "2026-10-23"
+      "peak_price": 304.79998779296875,
+      "peak_date": "2026-10-26"
     },
     "HFD": {
       "company": "Halfords",
@@ -453,8 +453,8 @@
       "signal_date": "2026-02-25",
       "growth_pct": 20.9,
       "pre_event_vol": 2.09,
-      "peak_price": 300.79998779296875,
-      "peak_date": "2026-10-23"
+      "peak_price": 309.79998779296875,
+      "peak_date": "2026-10-26"
     },
     "JD": {
       "company": "JD Sports",
@@ -477,8 +477,8 @@
       "signal_date": "2026-04-22",
       "growth_pct": 20.8,
       "pre_event_vol": 2.93,
-      "peak_price": 1323.0,
-      "peak_date": "2026-10-21"
+      "peak_price": 1341.0,
+      "peak_date": "2026-10-26"
     },
     "LIO": {
       "company": "Liontrust Asset Management",
@@ -565,8 +565,8 @@
       "signal_date": "2026-05-08",
       "growth_pct": 21.5,
       "pre_event_vol": 2.38,
-      "peak_price": 165.0,
-      "peak_date": "2026-10-23"
+      "peak_price": 174.39999389648438,
+      "peak_date": "2026-10-26"
     },
     "ONT": {
       "company": "Oxford Nanopore Technologies",
@@ -709,8 +709,8 @@
       "signal_date": "2026-04-13",
       "growth_pct": 23.6,
       "pre_event_vol": 4.5,
-      "peak_price": 818.0,
-      "peak_date": "2026-10-21"
+      "peak_price": 823.0,
+      "peak_date": "2026-10-26"
     },
     "SBRE": {
       "company": "Sabre Insurance",
@@ -821,8 +821,8 @@
       "signal_date": "2026-04-15",
       "growth_pct": 20.2,
       "pre_event_vol": 3.55,
-      "peak_price": 39.70000076293945,
-      "peak_date": "2026-10-23"
+      "peak_price": 41.02000045776367,
+      "peak_date": "2026-10-26"
     },
     "TRI": {
       "company": "Trifast",
@@ -1013,8 +1013,8 @@
       "signal_date": "2026-08-12",
       "growth_pct": 21.0,
       "pre_event_vol": 1.59,
-      "peak_price": 281.3999938964844,
-      "peak_date": "2026-10-23"
+      "peak_price": 284.20001220703125,
+      "peak_date": "2026-10-26"
     },
     "FOUR": {
       "company": "4imprint",
@@ -1157,8 +1157,8 @@
       "signal_date": "2026-10-16",
       "growth_pct": 20.1,
       "pre_event_vol": 1.57,
-      "peak_price": 214.8000030517578,
-      "peak_date": "2026-10-23"
+      "peak_price": 216.8000030517578,
+      "peak_date": "2026-10-26"
     },
     "TRST": {
       "company": "Trustpilot",
