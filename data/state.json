@@ -117,8 +117,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 24.3,
       "pre_event_vol": 2.56,
-      "peak_price": 406.0,
-      "peak_date": "2026-10-13"
+      "peak_price": 415.0,
+      "peak_date": "2026-10-29"
     },
     "BRWM": {
       "company": "BlackRock World Mining Trust",
@@ -341,8 +341,8 @@
       "signal_date": "2026-07-22",
       "growth_pct": 21.6,
       "pre_event_vol": 2.02,
-      "peak_price": 290.0,
-      "peak_date": "2026-10-27"
+      "peak_price": 293.3999938964844,
+      "peak_date": "2026-10-29"
     },
     "GROW": {
       "company": "Molten Ventures",
@@ -373,8 +373,8 @@
       "signal_date": "2026-03-11",
       "growth_pct": 20.4,
       "pre_event_vol": 3.16,
-      "peak_price": 305.6000061035156,
-      "peak_date": "2026-10-28"
+      "peak_price": 306.6000061035156,
+      "peak_date": "2026-10-29"
     },
     "HFD": {
       "company": "Halfords",
@@ -453,8 +453,8 @@
       "signal_date": "2026-02-25",
       "growth_pct": 20.9,
       "pre_event_vol": 2.09,
-      "peak_price": 309.79998779296875,
-      "peak_date": "2026-10-26"
+      "peak_price": 312.6000061035156,
+      "peak_date": "2026-10-29"
     },
     "JD": {
       "company": "JD Sports",
@@ -709,8 +709,8 @@
       "signal_date": "2026-04-13",
       "growth_pct": 23.6,
       "pre_event_vol": 4.5,
-      "peak_price": 850.0,
-      "peak_date": "2026-10-27"
+      "peak_price": 898.0,
+      "peak_date": "2026-10-29"
     },
     "SBRE": {
       "company": "Sabre Insurance",
@@ -749,8 +749,8 @@
       "signal_date": "2026-03-17",
       "growth_pct": 21.2,
       "pre_event_vol": 1.4,
-      "peak_price": 4033.0,
-      "peak_date": "2026-10-23"
+      "peak_price": 4038.0,
+      "peak_date": "2026-10-29"
     },
     "SMIN": {
       "company": "Smiths Group",
@@ -821,8 +821,8 @@
       "signal_date": "2026-04-15",
       "growth_pct": 20.2,
       "pre_event_vol": 3.55,
-      "peak_price": 41.02000045776367,
-      "peak_date": "2026-10-26"
+      "peak_price": 41.2599983215332,
+      "peak_date": "2026-10-29"
     },
     "TRI": {
       "company": "Trifast",
@@ -949,8 +949,8 @@
       "signal_date": "2026-08-05",
       "growth_pct": 20.6,
       "pre_event_vol": 1.69,
-      "peak_price": 188.1999969482422,
-      "peak_date": "2026-10-28"
+      "peak_price": 189.60000610351562,
+      "peak_date": "2026-10-29"
     },
     "FAN": {
       "company": "Volution Group",
@@ -1013,8 +1013,8 @@
       "signal_date": "2026-08-12",
       "growth_pct": 21.0,
       "pre_event_vol": 1.59,
-      "peak_price": 287.6000061035156,
-      "peak_date": "2026-10-27"
+      "peak_price": 290.79998779296875,
+      "peak_date": "2026-10-29"
     },
     "FOUR": {
       "company": "4imprint",
@@ -1069,8 +1069,8 @@
       "signal_date": "2026-09-08",
       "growth_pct": 21.6,
       "pre_event_vol": 2.26,
-      "peak_price": 193.0,
-      "peak_date": "2026-10-28"
+      "peak_price": 198.39999389648438,
+      "peak_date": "2026-10-29"
     },
     "KIE": {
       "company": "Kier Group",
@@ -1093,8 +1093,8 @@
       "signal_date": "2026-09-29",
       "growth_pct": 21.9,
       "pre_event_vol": 2.15,
-      "peak_price": 472.79998779296875,
-      "peak_date": "2026-09-30"
+      "peak_price": 474.0,
+      "peak_date": "2026-10-29"
     },
     "OXB": {
       "company": "Oxford Biomedica",
@@ -1125,8 +1125,8 @@
       "signal_date": "2026-10-07",
       "growth_pct": 21.0,
       "pre_event_vol": 1.76,
-      "peak_price": 2480.0,
-      "peak_date": "2026-10-16"
+      "peak_price": 2505.0,
+      "peak_date": "2026-10-29"
     },
     "KMR": {
       "company": "Kenmare Resources",
@@ -1181,8 +1181,16 @@
       "signal_date": "2026-10-27",
       "growth_pct": 20.1,
       "pre_event_vol": 1.94,
-      "peak_price": 81.19999694824219,
-      "peak_date": "2026-10-27"
+      "peak_price": 82.0,
+      "peak_date": "2026-10-29"
+    },
+    "EXPN": {
+      "company": "Experian",
+      "signal_date": "2026-10-29",
+      "growth_pct": 20.7,
+      "pre_event_vol": 2.07,
+      "peak_price": 2930.0,
+      "peak_date": "2026-10-29"
     }
   },
   "holdings": {
