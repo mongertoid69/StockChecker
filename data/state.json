@@ -157,8 +157,8 @@
       "signal_date": "2026-02-26",
       "growth_pct": 21.1,
       "pre_event_vol": 1.08,
-      "peak_price": 8470.0,
-      "peak_date": "2026-10-22"
+      "peak_price": 8510.0,
+      "peak_date": "2026-10-30"
     },
     "CCH": {
       "company": "Coca-Cola HBC",
@@ -205,8 +205,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 20.6,
       "pre_event_vol": 2.69,
-      "peak_price": 3636.0,
-      "peak_date": "2026-10-23"
+      "peak_price": 3644.0,
+      "peak_date": "2026-10-30"
     },
     "CURY": {
       "company": "Currys",
@@ -277,8 +277,8 @@
       "signal_date": "2026-02-27",
       "growth_pct": 20.3,
       "pre_event_vol": 3.51,
-      "peak_price": 46.45000076293945,
-      "peak_date": "2026-08-27"
+      "peak_price": 46.599998474121094,
+      "peak_date": "2026-10-30"
     },
     "EWG": {
       "company": "Eurowag",
@@ -373,8 +373,8 @@
       "signal_date": "2026-03-11",
       "growth_pct": 20.4,
       "pre_event_vol": 3.16,
-      "peak_price": 306.6000061035156,
-      "peak_date": "2026-10-29"
+      "peak_price": 308.0,
+      "peak_date": "2026-10-30"
     },
     "HFD": {
       "company": "Halfords",
@@ -1125,8 +1125,8 @@
       "signal_date": "2026-10-07",
       "growth_pct": 21.0,
       "pre_event_vol": 1.76,
-      "peak_price": 2505.0,
-      "peak_date": "2026-10-29"
+      "peak_price": 2565.0,
+      "peak_date": "2026-10-30"
     },
     "KMR": {
       "company": "Kenmare Resources",
@@ -1181,16 +1181,24 @@
       "signal_date": "2026-10-27",
       "growth_pct": 20.1,
       "pre_event_vol": 1.94,
-      "peak_price": 82.0,
-      "peak_date": "2026-10-29"
+      "peak_price": 83.80000305175781,
+      "peak_date": "2026-10-30"
     },
     "EXPN": {
       "company": "Experian",
       "signal_date": "2026-10-29",
       "growth_pct": 20.7,
       "pre_event_vol": 2.07,
-      "peak_price": 2930.0,
-      "peak_date": "2026-10-29"
+      "peak_price": 2987.0,
+      "peak_date": "2026-10-30"
+    },
+    "IMB": {
+      "company": "Imperial Brands",
+      "signal_date": "2026-10-30",
+      "growth_pct": 20.3,
+      "pre_event_vol": 1.46,
+      "peak_price": 2938.0,
+      "peak_date": "2026-10-30"
     }
   },
   "holdings": {
