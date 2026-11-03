@@ -1,17 +1,19 @@
 {
-  "date": "2026-10-30",
-  "new_growth_signals": [
-    {
-      "ticker": "IMB",
-      "company": "Imperial Brands",
-      "growth_pct": 20.3
-    }
-  ],
+  "date": "2026-11-03",
+  "new_growth_signals": [],
   "new_buys": [],
   "rejected_buys": [],
   "new_sells": [],
   "forced_exits": [],
   "watchlist_status": [
+    {
+      "ticker": "AAL",
+      "company": "Anglo American plc",
+      "current_price": 3704.0,
+      "peak_price": 4306.0,
+      "pct_below_peak": 14.0,
+      "still_needs_to_fall_pct": 16.0
+    },
     {
       "ticker": "AAS",
       "company": "Aberdeen Asia Focus",
