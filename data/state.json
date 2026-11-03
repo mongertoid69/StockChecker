@@ -277,8 +277,8 @@
       "signal_date": "2026-02-27",
       "growth_pct": 20.3,
       "pre_event_vol": 3.51,
-      "peak_price": 46.599998474121094,
-      "peak_date": "2026-10-30"
+      "peak_price": 47.0,
+      "peak_date": "2026-11-03"
     },
     "EWG": {
       "company": "Eurowag",
@@ -333,16 +333,16 @@
       "signal_date": "2026-07-22",
       "growth_pct": 20.7,
       "pre_event_vol": 1.88,
-      "peak_price": 709.0,
-      "peak_date": "2026-10-02"
+      "peak_price": 719.0,
+      "peak_date": "2026-11-03"
     },
     "GNC": {
       "company": "Greencore",
       "signal_date": "2026-07-22",
       "growth_pct": 21.6,
       "pre_event_vol": 2.02,
-      "peak_price": 293.3999938964844,
-      "peak_date": "2026-10-29"
+      "peak_price": 296.0,
+      "peak_date": "2026-11-03"
     },
     "GROW": {
       "company": "Molten Ventures",
@@ -680,14 +680,6 @@
       "peak_price": 384.0,
       "peak_date": "2026-04-21"
     },
-    "RPI": {
-      "company": "Raspberry Pi Holdings",
-      "signal_date": "2026-03-05",
-      "growth_pct": 20.5,
-      "pre_event_vol": 8.75,
-      "peak_price": 755.0,
-      "peak_date": "2026-09-24"
-    },
     "RR": {
       "company": "Rolls-Royce Holdings",
       "signal_date": "2026-05-29",
@@ -709,8 +701,8 @@
       "signal_date": "2026-04-13",
       "growth_pct": 23.6,
       "pre_event_vol": 4.5,
-      "peak_price": 898.0,
-      "peak_date": "2026-10-29"
+      "peak_price": 910.0,
+      "peak_date": "2026-11-03"
     },
     "SBRE": {
       "company": "Sabre Insurance",
@@ -813,8 +805,8 @@
       "signal_date": "2026-07-21",
       "growth_pct": 22.5,
       "pre_event_vol": 3.43,
-      "peak_price": 906.0,
-      "peak_date": "2026-08-17"
+      "peak_price": 918.0,
+      "peak_date": "2026-11-03"
     },
     "THG": {
       "company": "THG",
@@ -909,8 +901,8 @@
       "signal_date": "2026-07-30",
       "growth_pct": 22.6,
       "pre_event_vol": 3.1,
-      "peak_price": 412.70001220703125,
-      "peak_date": "2026-10-16"
+      "peak_price": 413.20001220703125,
+      "peak_date": "2026-11-03"
     },
     "MEGP": {
       "company": "ME Group International",
@@ -949,8 +941,8 @@
       "signal_date": "2026-08-05",
       "growth_pct": 20.6,
       "pre_event_vol": 1.69,
-      "peak_price": 189.60000610351562,
-      "peak_date": "2026-10-29"
+      "peak_price": 191.0,
+      "peak_date": "2026-11-03"
     },
     "FAN": {
       "company": "Volution Group",
@@ -1101,8 +1093,8 @@
       "signal_date": "2026-09-30",
       "growth_pct": 23.1,
       "pre_event_vol": 3.23,
-      "peak_price": 544.0,
-      "peak_date": "2026-10-02"
+      "peak_price": 545.0,
+      "peak_date": "2026-11-03"
     },
     "CARD": {
       "company": "Card Factory",
@@ -1157,8 +1149,8 @@
       "signal_date": "2026-10-16",
       "growth_pct": 20.1,
       "pre_event_vol": 1.57,
-      "peak_price": 220.1999969482422,
-      "peak_date": "2026-10-27"
+      "peak_price": 234.39999389648438,
+      "peak_date": "2026-11-03"
     },
     "TRST": {
       "company": "Trustpilot",
@@ -1189,8 +1181,8 @@
       "signal_date": "2026-10-29",
       "growth_pct": 20.7,
       "pre_event_vol": 2.07,
-      "peak_price": 2987.0,
-      "peak_date": "2026-10-30"
+      "peak_price": 3013.0,
+      "peak_date": "2026-11-03"
     },
     "IMB": {
       "company": "Imperial Brands",
@@ -1199,6 +1191,38 @@
       "pre_event_vol": 1.46,
       "peak_price": 2938.0,
       "peak_date": "2026-10-30"
+    },
+    "IWG": {
+      "company": "International Workplace Group",
+      "signal_date": "2026-11-03",
+      "growth_pct": 20.7,
+      "pre_event_vol": 1.6,
+      "peak_price": 214.1999969482422,
+      "peak_date": "2026-11-03"
+    },
+    "PETS": {
+      "company": "Pets at Home",
+      "signal_date": "2026-11-02",
+      "growth_pct": 23.7,
+      "pre_event_vol": 1.75,
+      "peak_price": 255.0,
+      "peak_date": "2026-11-02"
+    },
+    "RNK": {
+      "company": "Rank Group",
+      "signal_date": "2026-11-03",
+      "growth_pct": 23.9,
+      "pre_event_vol": 2.58,
+      "peak_price": 90.5999984741211,
+      "peak_date": "2026-11-03"
+    },
+    "WIX": {
+      "company": "Wickes",
+      "signal_date": "2026-11-02",
+      "growth_pct": 21.7,
+      "pre_event_vol": 2.07,
+      "peak_price": 241.5,
+      "peak_date": "2026-11-02"
     }
   },
   "holdings": {
