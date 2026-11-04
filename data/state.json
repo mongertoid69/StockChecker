@@ -157,8 +157,8 @@
       "signal_date": "2026-02-26",
       "growth_pct": 21.1,
       "pre_event_vol": 1.08,
-      "peak_price": 8510.0,
-      "peak_date": "2026-10-30"
+      "peak_price": 8595.0,
+      "peak_date": "2026-11-04"
     },
     "CCH": {
       "company": "Coca-Cola HBC",
@@ -197,8 +197,8 @@
       "signal_date": "2026-04-07",
       "growth_pct": 24.0,
       "pre_event_vol": 6.46,
-      "peak_price": 34.189998626708984,
-      "peak_date": "2026-10-26"
+      "peak_price": 34.349998474121094,
+      "peak_date": "2026-11-04"
     },
     "CRDA": {
       "company": "Croda International",
@@ -301,8 +301,8 @@
       "signal_date": "2026-06-01",
       "growth_pct": 24.5,
       "pre_event_vol": 2.76,
-      "peak_price": 683.5999755859375,
-      "peak_date": "2026-10-19"
+      "peak_price": 688.5999755859375,
+      "peak_date": "2026-11-04"
     },
     "FCH": {
       "company": "Funding Circle",
@@ -341,8 +341,8 @@
       "signal_date": "2026-07-22",
       "growth_pct": 21.6,
       "pre_event_vol": 2.02,
-      "peak_price": 296.0,
-      "peak_date": "2026-11-03"
+      "peak_price": 298.0,
+      "peak_date": "2026-11-04"
     },
     "GROW": {
       "company": "Molten Ventures",
@@ -445,8 +445,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 23.5,
       "pre_event_vol": 2.73,
-      "peak_price": 75.4000015258789,
-      "peak_date": "2026-09-30"
+      "peak_price": 76.30000305175781,
+      "peak_date": "2026-11-04"
     },
     "ITH": {
       "company": "Ithaca Energy",
@@ -461,8 +461,8 @@
       "signal_date": "2026-05-27",
       "growth_pct": 24.0,
       "pre_event_vol": 2.57,
-      "peak_price": 94.9800033569336,
-      "peak_date": "2026-08-07"
+      "peak_price": 96.9800033569336,
+      "peak_date": "2026-11-04"
     },
     "KLR": {
       "company": "Keller Group",
@@ -493,8 +493,8 @@
       "signal_date": "2026-03-04",
       "growth_pct": 20.8,
       "pre_event_vol": 3.85,
-      "peak_price": 9510.0,
-      "peak_date": "2026-10-23"
+      "peak_price": 9790.0,
+      "peak_date": "2026-11-04"
     },
     "LUCE": {
       "company": "Luceco",
@@ -509,8 +509,8 @@
       "signal_date": "2026-06-15",
       "growth_pct": 20.0,
       "pre_event_vol": 1.57,
-      "peak_price": 349.0,
-      "peak_date": "2026-10-27"
+      "peak_price": 350.0,
+      "peak_date": "2026-11-04"
     },
     "MARS": {
       "company": "Marston's",
@@ -629,8 +629,8 @@
       "signal_date": "2026-04-15",
       "growth_pct": 20.2,
       "pre_event_vol": 2.08,
-      "peak_price": 927.0,
-      "peak_date": "2026-10-23"
+      "peak_price": 938.0,
+      "peak_date": "2026-11-04"
     },
     "PPH": {
       "company": "PPHE Hotel Group",
@@ -661,8 +661,8 @@
       "signal_date": "2026-03-06",
       "growth_pct": 23.1,
       "pre_event_vol": 4.51,
-      "peak_price": 3039.0,
-      "peak_date": "2026-10-23"
+      "peak_price": 3058.0,
+      "peak_date": "2026-11-04"
     },
     "RHIM": {
       "company": "RHI Magnesita",
@@ -805,8 +805,8 @@
       "signal_date": "2026-07-21",
       "growth_pct": 22.5,
       "pre_event_vol": 3.43,
-      "peak_price": 918.0,
-      "peak_date": "2026-11-03"
+      "peak_price": 945.0,
+      "peak_date": "2026-11-04"
     },
     "THG": {
       "company": "THG",
@@ -861,8 +861,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 20.6,
       "pre_event_vol": 2.34,
-      "peak_price": 762.0,
-      "peak_date": "2026-08-10"
+      "peak_price": 774.5,
+      "peak_date": "2026-11-04"
     },
     "XAR": {
       "company": "Xaar",
@@ -901,8 +901,8 @@
       "signal_date": "2026-07-30",
       "growth_pct": 22.6,
       "pre_event_vol": 3.1,
-      "peak_price": 413.20001220703125,
-      "peak_date": "2026-11-03"
+      "peak_price": 419.20001220703125,
+      "peak_date": "2026-11-04"
     },
     "MEGP": {
       "company": "ME Group International",
@@ -941,8 +941,8 @@
       "signal_date": "2026-08-05",
       "growth_pct": 20.6,
       "pre_event_vol": 1.69,
-      "peak_price": 191.0,
-      "peak_date": "2026-11-03"
+      "peak_price": 193.1999969482422,
+      "peak_date": "2026-11-04"
     },
     "FAN": {
       "company": "Volution Group",
@@ -989,8 +989,8 @@
       "signal_date": "2026-08-06",
       "growth_pct": 24.9,
       "pre_event_vol": 2.54,
-      "peak_price": 2346.0,
-      "peak_date": "2026-10-19"
+      "peak_price": 2360.0,
+      "peak_date": "2026-11-04"
     },
     "QQ": {
       "company": "Qinetiq",
@@ -1093,8 +1093,8 @@
       "signal_date": "2026-09-30",
       "growth_pct": 23.1,
       "pre_event_vol": 3.23,
-      "peak_price": 545.0,
-      "peak_date": "2026-11-03"
+      "peak_price": 552.0,
+      "peak_date": "2026-11-04"
     },
     "CARD": {
       "company": "Card Factory",
@@ -1125,8 +1125,8 @@
       "signal_date": "2026-10-07",
       "growth_pct": 20.4,
       "pre_event_vol": 3.07,
-      "peak_price": 238.0,
-      "peak_date": "2026-10-08"
+      "peak_price": 242.0,
+      "peak_date": "2026-11-04"
     },
     "MGAM": {
       "company": "Morgan Advanced Materials",
@@ -1165,8 +1165,8 @@
       "signal_date": "2026-10-22",
       "growth_pct": 24.9,
       "pre_event_vol": 2.26,
-      "peak_price": 559.5999755859375,
-      "peak_date": "2026-10-22"
+      "peak_price": 563.7999877929688,
+      "peak_date": "2026-11-04"
     },
     "SNWS": {
       "company": "Smiths News",
@@ -1181,40 +1181,40 @@
       "signal_date": "2026-10-29",
       "growth_pct": 20.7,
       "pre_event_vol": 2.07,
-      "peak_price": 3013.0,
-      "peak_date": "2026-11-03"
+      "peak_price": 3095.0,
+      "peak_date": "2026-11-04"
     },
     "IMB": {
       "company": "Imperial Brands",
       "signal_date": "2026-10-30",
       "growth_pct": 20.3,
       "pre_event_vol": 1.46,
-      "peak_price": 2938.0,
-      "peak_date": "2026-10-30"
+      "peak_price": 2978.0,
+      "peak_date": "2026-11-04"
     },
     "IWG": {
       "company": "International Workplace Group",
       "signal_date": "2026-11-03",
       "growth_pct": 20.7,
       "pre_event_vol": 1.6,
-      "peak_price": 214.1999969482422,
-      "peak_date": "2026-11-03"
+      "peak_price": 217.39999389648438,
+      "peak_date": "2026-11-04"
     },
     "PETS": {
       "company": "Pets at Home",
       "signal_date": "2026-11-02",
       "growth_pct": 23.7,
       "pre_event_vol": 1.75,
-      "peak_price": 255.0,
-      "peak_date": "2026-11-02"
+      "peak_price": 258.6000061035156,
+      "peak_date": "2026-11-04"
     },
     "RNK": {
       "company": "Rank Group",
       "signal_date": "2026-11-03",
       "growth_pct": 23.9,
       "pre_event_vol": 2.58,
-      "peak_price": 90.5999984741211,
-      "peak_date": "2026-11-03"
+      "peak_price": 93.9000015258789,
+      "peak_date": "2026-11-04"
     },
     "WIX": {
       "company": "Wickes",
@@ -1223,6 +1223,54 @@
       "pre_event_vol": 2.07,
       "peak_price": 241.5,
       "peak_date": "2026-11-02"
+    },
+    "AUTO": {
+      "company": "Autotrader Group",
+      "signal_date": "2026-11-04",
+      "growth_pct": 21.2,
+      "pre_event_vol": 2.01,
+      "peak_price": 570.7999877929688,
+      "peak_date": "2026-11-04"
+    },
+    "ENT": {
+      "company": "Entain",
+      "signal_date": "2026-11-04",
+      "growth_pct": 20.4,
+      "pre_event_vol": 2.01,
+      "peak_price": 497.70001220703125,
+      "peak_date": "2026-11-04"
+    },
+    "MONY": {
+      "company": "MONY Group",
+      "signal_date": "2026-11-04",
+      "growth_pct": 22.1,
+      "pre_event_vol": 1.72,
+      "peak_price": 217.1999969482422,
+      "peak_date": "2026-11-04"
+    },
+    "RTO": {
+      "company": "Rentokil Initial",
+      "signal_date": "2026-11-04",
+      "growth_pct": 20.4,
+      "pre_event_vol": 2.37,
+      "peak_price": 358.79998779296875,
+      "peak_date": "2026-11-04"
+    },
+    "SMWH": {
+      "company": "WHSmith",
+      "signal_date": "2026-11-04",
+      "growth_pct": 21.0,
+      "pre_event_vol": 2.66,
+      "peak_price": 447.0,
+      "peak_date": "2026-11-04"
+    },
+    "SVS": {
+      "company": "Savills",
+      "signal_date": "2026-11-04",
+      "growth_pct": 22.1,
+      "pre_event_vol": 1.8,
+      "peak_price": 1164.0,
+      "peak_date": "2026-11-04"
     }
   },
   "holdings": {
@@ -1310,13 +1358,6 @@
       "peak_at_buy": 354.5,
       "cycle_days": 141
     },
-    "VTY": {
-      "company": "Vistry Group",
-      "buy_date": "2026-10-08",
-      "buy_price": 217.1999969482422,
-      "peak_at_buy": 315.0,
-      "cycle_days": 66
-    },
     "IGG": {
       "company": "IG Group",
       "buy_date": "2026-10-14",
@@ -1337,6 +1378,13 @@
       "buy_price": 3048.0,
       "peak_at_buy": 4407.6552734375,
       "cycle_days": 143
+    },
+    "RPI": {
+      "company": "Raspberry Pi Holdings",
+      "buy_date": "2026-11-04",
+      "buy_price": 519.0,
+      "peak_at_buy": 833.0,
+      "cycle_days": 147
     }
   }
 }

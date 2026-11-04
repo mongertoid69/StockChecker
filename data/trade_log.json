@@ -446,5 +446,19 @@
     "proceeds": 1306.65,
     "profit": 306.65,
     "return_pct": 30.67
+  },
+  {
+    "ticker": "VTY",
+    "company": "Vistry Group",
+    "status": "Sold (hit target)",
+    "buy_date": "2026-10-08",
+    "sell_date": "2026-11-04",
+    "buy_price": 217.2,
+    "sell_price": 290.0,
+    "days_held": 19,
+    "invested": 1000,
+    "proceeds": 1335.17,
+    "profit": 335.17,
+    "return_pct": 33.52
   }
 ]
