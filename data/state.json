@@ -157,8 +157,8 @@
       "signal_date": "2026-02-26",
       "growth_pct": 21.1,
       "pre_event_vol": 1.08,
-      "peak_price": 8725.0,
-      "peak_date": "2026-11-05"
+      "peak_price": 8755.0,
+      "peak_date": "2026-11-06"
     },
     "CCH": {
       "company": "Coca-Cola HBC",
@@ -205,8 +205,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 20.6,
       "pre_event_vol": 2.69,
-      "peak_price": 3651.0,
-      "peak_date": "2026-11-05"
+      "peak_price": 3666.0,
+      "peak_date": "2026-11-06"
     },
     "CURY": {
       "company": "Currys",
@@ -407,14 +407,6 @@
       "pre_event_vol": 1.99,
       "peak_price": 4479.8134765625,
       "peak_date": "2026-04-20"
-    },
-    "HTG": {
-      "company": "Hunting",
-      "signal_date": "2026-02-25",
-      "growth_pct": 20.5,
-      "pre_event_vol": 1.91,
-      "peak_price": 530.9276733398438,
-      "peak_date": "2026-02-25"
     },
     "HTWS": {
       "company": "Helios Towers",
@@ -1205,8 +1197,8 @@
       "signal_date": "2026-11-02",
       "growth_pct": 23.7,
       "pre_event_vol": 1.75,
-      "peak_price": 260.0,
-      "peak_date": "2026-11-05"
+      "peak_price": 261.0,
+      "peak_date": "2026-11-06"
     },
     "RNK": {
       "company": "Rank Group",
