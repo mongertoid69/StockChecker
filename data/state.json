@@ -16,14 +16,6 @@
       "peak_price": 474.0,
       "peak_date": "2026-10-07"
     },
-    "AEP": {
-      "company": "AEP Plantations",
-      "signal_date": "2026-04-07",
-      "growth_pct": 20.1,
-      "pre_event_vol": 1.68,
-      "peak_price": 211.0,
-      "peak_date": "2026-09-28"
-    },
     "AJB": {
       "company": "AJ Bell",
       "signal_date": "2026-04-08",
@@ -157,8 +149,8 @@
       "signal_date": "2026-02-26",
       "growth_pct": 21.1,
       "pre_event_vol": 1.08,
-      "peak_price": 8755.0,
-      "peak_date": "2026-11-06"
+      "peak_price": 8775.0,
+      "peak_date": "2026-11-10"
     },
     "CCH": {
       "company": "Coca-Cola HBC",
@@ -301,8 +293,8 @@
       "signal_date": "2026-06-01",
       "growth_pct": 24.5,
       "pre_event_vol": 2.76,
-      "peak_price": 690.0,
-      "peak_date": "2026-11-05"
+      "peak_price": 690.5999755859375,
+      "peak_date": "2026-11-10"
     },
     "FCH": {
       "company": "Funding Circle",
@@ -453,8 +445,8 @@
       "signal_date": "2026-05-27",
       "growth_pct": 24.0,
       "pre_event_vol": 2.57,
-      "peak_price": 96.9800033569336,
-      "peak_date": "2026-11-04"
+      "peak_price": 97.5999984741211,
+      "peak_date": "2026-11-10"
     },
     "KLR": {
       "company": "Keller Group",
@@ -621,8 +613,8 @@
       "signal_date": "2026-04-15",
       "growth_pct": 20.2,
       "pre_event_vol": 2.08,
-      "peak_price": 942.0,
-      "peak_date": "2026-11-05"
+      "peak_price": 949.0,
+      "peak_date": "2026-11-10"
     },
     "PPH": {
       "company": "PPHE Hotel Group",
@@ -781,8 +773,8 @@
       "signal_date": "2026-04-17",
       "growth_pct": 22.9,
       "pre_event_vol": 2.77,
-      "peak_price": 5415.0,
-      "peak_date": "2026-09-29"
+      "peak_price": 5505.0,
+      "peak_date": "2026-11-10"
     },
     "TEM": {
       "company": "Templeton Emerging Markets Investment Trust",
@@ -909,8 +901,8 @@
       "signal_date": "2026-08-04",
       "growth_pct": 20.1,
       "pre_event_vol": 2.19,
-      "peak_price": 797.5,
-      "peak_date": "2026-10-14"
+      "peak_price": 798.0,
+      "peak_date": "2026-11-10"
     },
     "SYNT": {
       "company": "Synthomer",
@@ -949,8 +941,8 @@
       "signal_date": "2026-08-05",
       "growth_pct": 22.1,
       "pre_event_vol": 3.33,
-      "peak_price": 348.79998779296875,
-      "peak_date": "2026-10-20"
+      "peak_price": 356.3999938964844,
+      "peak_date": "2026-11-10"
     },
     "ATYM": {
       "company": "Atalaya Mining",
@@ -1061,8 +1053,8 @@
       "signal_date": "2026-09-18",
       "growth_pct": 23.7,
       "pre_event_vol": 2.15,
-      "peak_price": 317.79998779296875,
-      "peak_date": "2026-10-27"
+      "peak_price": 321.3999938964844,
+      "peak_date": "2026-11-10"
     },
     "APTD": {
       "company": "Aptitude Software Group",
@@ -1197,8 +1189,8 @@
       "signal_date": "2026-11-02",
       "growth_pct": 23.7,
       "pre_event_vol": 1.75,
-      "peak_price": 261.0,
-      "peak_date": "2026-11-06"
+      "peak_price": 271.6000061035156,
+      "peak_date": "2026-11-10"
     },
     "RNK": {
       "company": "Rank Group",
@@ -1213,8 +1205,8 @@
       "signal_date": "2026-11-02",
       "growth_pct": 21.7,
       "pre_event_vol": 2.07,
-      "peak_price": 244.0,
-      "peak_date": "2026-11-05"
+      "peak_price": 245.0,
+      "peak_date": "2026-11-10"
     },
     "AUTO": {
       "company": "Autotrader Group",
