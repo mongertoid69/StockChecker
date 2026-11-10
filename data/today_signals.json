@@ -1,14 +1,8 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-10",
   "new_growth_signals": [],
   "new_buys": [],
-  "rejected_buys": [
-    {
-      "ticker": "HTG",
-      "company": "Hunting",
-      "reason": "cycle_days=254 (max 150), pre_event_vol=1.91% (min 2.3%)"
-    }
-  ],
+  "rejected_buys": [],
   "new_sells": [],
   "forced_exits": [],
   "watchlist_status": [
@@ -763,14 +757,6 @@
       "peak_price": 1637.5,
       "pct_below_peak": 10.2,
       "still_needs_to_fall_pct": 19.8
-    },
-    {
-      "ticker": "SNR",
-      "company": "Senior",
-      "current_price": 297.5,
-      "peak_price": 297.5,
-      "pct_below_peak": 0.0,
-      "still_needs_to_fall_pct": 30.0
     },
     {
       "ticker": "SSIT",
