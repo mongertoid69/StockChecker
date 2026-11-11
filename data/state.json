@@ -149,8 +149,8 @@
       "signal_date": "2026-02-26",
       "growth_pct": 21.1,
       "pre_event_vol": 1.08,
-      "peak_price": 8775.0,
-      "peak_date": "2026-11-10"
+      "peak_price": 8805.0,
+      "peak_date": "2026-11-11"
     },
     "CCH": {
       "company": "Coca-Cola HBC",
@@ -197,8 +197,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 20.6,
       "pre_event_vol": 2.69,
-      "peak_price": 3666.0,
-      "peak_date": "2026-11-06"
+      "peak_price": 3703.0,
+      "peak_date": "2026-11-11"
     },
     "CURY": {
       "company": "Currys",
@@ -301,8 +301,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 22.8,
       "pre_event_vol": 2.17,
-      "peak_price": 245.5,
-      "peak_date": "2026-08-14"
+      "peak_price": 250.0,
+      "peak_date": "2026-11-11"
     },
     "FEML": {
       "company": "Fidelity Emerging Markets",
@@ -429,8 +429,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 23.5,
       "pre_event_vol": 2.73,
-      "peak_price": 76.30000305175781,
-      "peak_date": "2026-11-04"
+      "peak_price": 77.19999694824219,
+      "peak_date": "2026-11-11"
     },
     "ITH": {
       "company": "Ithaca Energy",
@@ -613,8 +613,8 @@
       "signal_date": "2026-04-15",
       "growth_pct": 20.2,
       "pre_event_vol": 2.08,
-      "peak_price": 949.0,
-      "peak_date": "2026-11-10"
+      "peak_price": 951.0,
+      "peak_date": "2026-11-11"
     },
     "PPH": {
       "company": "PPHE Hotel Group",
@@ -845,8 +845,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 20.6,
       "pre_event_vol": 2.34,
-      "peak_price": 774.5,
-      "peak_date": "2026-11-04"
+      "peak_price": 795.0,
+      "peak_date": "2026-11-11"
     },
     "XAR": {
       "company": "Xaar",
@@ -885,8 +885,8 @@
       "signal_date": "2026-07-30",
       "growth_pct": 22.6,
       "pre_event_vol": 3.1,
-      "peak_price": 419.20001220703125,
-      "peak_date": "2026-11-04"
+      "peak_price": 420.5,
+      "peak_date": "2026-11-11"
     },
     "MEGP": {
       "company": "ME Group International",
@@ -901,8 +901,8 @@
       "signal_date": "2026-08-04",
       "growth_pct": 20.1,
       "pre_event_vol": 2.19,
-      "peak_price": 798.0,
-      "peak_date": "2026-11-10"
+      "peak_price": 815.0,
+      "peak_date": "2026-11-11"
     },
     "SYNT": {
       "company": "Synthomer",
@@ -1053,8 +1053,8 @@
       "signal_date": "2026-09-18",
       "growth_pct": 23.7,
       "pre_event_vol": 2.15,
-      "peak_price": 321.3999938964844,
-      "peak_date": "2026-11-10"
+      "peak_price": 330.0,
+      "peak_date": "2026-11-11"
     },
     "APTD": {
       "company": "Aptitude Software Group",
@@ -1077,8 +1077,8 @@
       "signal_date": "2026-09-30",
       "growth_pct": 23.1,
       "pre_event_vol": 3.23,
-      "peak_price": 552.0,
-      "peak_date": "2026-11-04"
+      "peak_price": 555.0,
+      "peak_date": "2026-11-11"
     },
     "CARD": {
       "company": "Card Factory",
@@ -1133,8 +1133,8 @@
       "signal_date": "2026-10-16",
       "growth_pct": 20.1,
       "pre_event_vol": 1.57,
-      "peak_price": 234.39999389648438,
-      "peak_date": "2026-11-03"
+      "peak_price": 236.0,
+      "peak_date": "2026-11-11"
     },
     "TRST": {
       "company": "Trustpilot",
@@ -1269,8 +1269,8 @@
       "signal_date": "2026-11-05",
       "growth_pct": 20.5,
       "pre_event_vol": 1.69,
-      "peak_price": 1380.0,
-      "peak_date": "2026-11-05"
+      "peak_price": 1403.0,
+      "peak_date": "2026-11-11"
     },
     "VTY": {
       "company": "Vistry Group",
@@ -1279,6 +1279,14 @@
       "pre_event_vol": 3.66,
       "peak_price": 315.0,
       "peak_date": "2026-08-03"
+    },
+    "AEP": {
+      "company": "AEP Plantations",
+      "signal_date": "2026-07-27",
+      "growth_pct": 21.9,
+      "pre_event_vol": 4.49,
+      "peak_price": 178.95726013183594,
+      "peak_date": "2026-07-27"
     }
   },
   "holdings": {
