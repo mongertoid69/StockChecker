@@ -69,8 +69,8 @@
       "signal_date": "2026-06-09",
       "growth_pct": 21.1,
       "pre_event_vol": 2.92,
-      "peak_price": 286.20001220703125,
-      "peak_date": "2026-10-16"
+      "peak_price": 337.3999938964844,
+      "peak_date": "2026-11-12"
     },
     "BMY": {
       "company": "Bloomsbury Publishing",
@@ -109,8 +109,8 @@
       "signal_date": "2026-04-21",
       "growth_pct": 24.3,
       "pre_event_vol": 2.56,
-      "peak_price": 415.0,
-      "peak_date": "2026-10-29"
+      "peak_price": 416.79998779296875,
+      "peak_date": "2026-11-12"
     },
     "BRWM": {
       "company": "BlackRock World Mining Trust",
@@ -149,8 +149,8 @@
       "signal_date": "2026-02-26",
       "growth_pct": 21.1,
       "pre_event_vol": 1.08,
-      "peak_price": 8805.0,
-      "peak_date": "2026-11-11"
+      "peak_price": 8915.0,
+      "peak_date": "2026-11-12"
     },
     "CCH": {
       "company": "Coca-Cola HBC",
@@ -197,8 +197,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 20.6,
       "pre_event_vol": 2.69,
-      "peak_price": 3703.0,
-      "peak_date": "2026-11-11"
+      "peak_price": 3758.0,
+      "peak_date": "2026-11-12"
     },
     "CURY": {
       "company": "Currys",
@@ -223,14 +223,6 @@
       "pre_event_vol": 2.3,
       "peak_price": 6460.0,
       "peak_date": "2026-11-05"
-    },
-    "DOCS": {
-      "company": "Dr. Martens",
-      "signal_date": "2026-05-29",
-      "growth_pct": 21.3,
-      "pre_event_vol": 2.14,
-      "peak_price": 88.5,
-      "peak_date": "2026-08-13"
     },
     "DPLM": {
       "company": "Diploma",
@@ -541,8 +533,8 @@
       "signal_date": "2026-04-13",
       "growth_pct": 24.8,
       "pre_event_vol": 2.32,
-      "peak_price": 182.8000030517578,
-      "peak_date": "2026-09-11"
+      "peak_price": 196.0,
+      "peak_date": "2026-11-12"
     },
     "NCC": {
       "company": "NCC Group",
@@ -613,8 +605,8 @@
       "signal_date": "2026-04-15",
       "growth_pct": 20.2,
       "pre_event_vol": 2.08,
-      "peak_price": 951.0,
-      "peak_date": "2026-11-11"
+      "peak_price": 952.0,
+      "peak_date": "2026-11-12"
     },
     "PPH": {
       "company": "PPHE Hotel Group",
@@ -709,8 +701,8 @@
       "signal_date": "2026-06-29",
       "growth_pct": 23.5,
       "pre_event_vol": 3.59,
-      "peak_price": 39.5,
-      "peak_date": "2026-08-26"
+      "peak_price": 40.0,
+      "peak_date": "2026-11-12"
     },
     "SGRO": {
       "company": "Segro",
@@ -1109,8 +1101,8 @@
       "signal_date": "2026-10-07",
       "growth_pct": 20.4,
       "pre_event_vol": 3.07,
-      "peak_price": 245.0,
-      "peak_date": "2026-11-05"
+      "peak_price": 248.5,
+      "peak_date": "2026-11-12"
     },
     "MGAM": {
       "company": "Morgan Advanced Materials",
@@ -1133,8 +1125,8 @@
       "signal_date": "2026-10-16",
       "growth_pct": 20.1,
       "pre_event_vol": 1.57,
-      "peak_price": 236.0,
-      "peak_date": "2026-11-11"
+      "peak_price": 237.1999969482422,
+      "peak_date": "2026-11-12"
     },
     "TRST": {
       "company": "Trustpilot",
@@ -1181,8 +1173,8 @@
       "signal_date": "2026-11-03",
       "growth_pct": 20.7,
       "pre_event_vol": 1.6,
-      "peak_price": 217.39999389648438,
-      "peak_date": "2026-11-04"
+      "peak_price": 219.8000030517578,
+      "peak_date": "2026-11-12"
     },
     "PETS": {
       "company": "Pets at Home",
@@ -1269,8 +1261,8 @@
       "signal_date": "2026-11-05",
       "growth_pct": 20.5,
       "pre_event_vol": 1.69,
-      "peak_price": 1403.0,
-      "peak_date": "2026-11-11"
+      "peak_price": 1409.0,
+      "peak_date": "2026-11-12"
     },
     "VTY": {
       "company": "Vistry Group",
@@ -1287,6 +1279,14 @@
       "pre_event_vol": 4.49,
       "peak_price": 178.95726013183594,
       "peak_date": "2026-07-27"
+    },
+    "REC": {
+      "company": "Record",
+      "signal_date": "2026-11-12",
+      "growth_pct": 22.1,
+      "pre_event_vol": 2.48,
+      "peak_price": 52.0,
+      "peak_date": "2026-11-12"
     }
   },
   "holdings": {
