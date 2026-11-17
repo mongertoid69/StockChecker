@@ -1,12 +1,6 @@
 {
-  "date": "2026-11-13",
-  "new_growth_signals": [
-    {
-      "ticker": "DOCS",
-      "company": "Dr. Martens",
-      "growth_pct": 21.3
-    }
-  ],
+  "date": "2026-11-17",
+  "new_growth_signals": [],
   "new_buys": [],
   "rejected_buys": [],
   "new_sells": [],
