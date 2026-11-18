@@ -69,8 +69,8 @@
       "signal_date": "2026-06-09",
       "growth_pct": 21.1,
       "pre_event_vol": 2.92,
-      "peak_price": 357.3999938964844,
-      "peak_date": "2026-11-16"
+      "peak_price": 362.20001220703125,
+      "peak_date": "2026-11-18"
     },
     "BMY": {
       "company": "Bloomsbury Publishing",
@@ -197,8 +197,8 @@
       "signal_date": "2026-04-20",
       "growth_pct": 20.6,
       "pre_event_vol": 2.69,
-      "peak_price": 3822.0,
-      "peak_date": "2026-11-16"
+      "peak_price": 3851.0,
+      "peak_date": "2026-11-18"
     },
     "CURY": {
       "company": "Currys",
@@ -239,14 +239,6 @@
       "pre_event_vol": 2.5,
       "peak_price": 880.0,
       "peak_date": "2026-10-13"
-    },
-    "EDV": {
-      "company": "Endeavour Mining",
-      "signal_date": "2026-04-20",
-      "growth_pct": 20.9,
-      "pre_event_vol": 3.31,
-      "peak_price": 4940.0,
-      "peak_date": "2026-04-20"
     },
     "ENQ": {
       "company": "EnQuest",
@@ -573,8 +565,8 @@
       "signal_date": "2026-07-13",
       "growth_pct": 22.3,
       "pre_event_vol": 2.86,
-      "peak_price": 224.0,
-      "peak_date": "2026-08-21"
+      "peak_price": 247.8000030517578,
+      "peak_date": "2026-11-18"
     },
     "PCT": {
       "company": "Polar Capital Technology Trust",
@@ -936,14 +928,6 @@
       "peak_price": 356.3999938964844,
       "peak_date": "2026-11-10"
     },
-    "ATYM": {
-      "company": "Atalaya Mining",
-      "signal_date": "2026-08-06",
-      "growth_pct": 23.4,
-      "pre_event_vol": 3.4,
-      "peak_price": 1109.0,
-      "peak_date": "2026-08-28"
-    },
     "BREE": {
       "company": "Breedon Group",
       "signal_date": "2026-08-07",
@@ -965,8 +949,8 @@
       "signal_date": "2026-08-06",
       "growth_pct": 24.9,
       "pre_event_vol": 2.54,
-      "peak_price": 2404.0,
-      "peak_date": "2026-11-16"
+      "peak_price": 2418.0,
+      "peak_date": "2026-11-18"
     },
     "QQ": {
       "company": "Qinetiq",
@@ -1173,8 +1157,8 @@
       "signal_date": "2026-11-02",
       "growth_pct": 23.7,
       "pre_event_vol": 1.75,
-      "peak_price": 272.0,
-      "peak_date": "2026-11-16"
+      "peak_price": 275.0,
+      "peak_date": "2026-11-18"
     },
     "RNK": {
       "company": "Rank Group",
@@ -1408,6 +1392,13 @@
       "buy_price": 185.0,
       "peak_at_buy": 265.0,
       "cycle_days": 48
+    },
+    "ATYM": {
+      "company": "Atalaya Mining",
+      "buy_date": "2026-11-18",
+      "buy_price": 730.0,
+      "peak_at_buy": 1109.0,
+      "cycle_days": 104
     }
   }
 }
