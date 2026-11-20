@@ -1,22 +1,14 @@
 {
-  "date": "2026-11-18",
-  "new_growth_signals": [],
-  "new_buys": [
-    {
-      "ticker": "ATYM",
-      "company": "Atalaya Mining",
-      "buy_price": 730.0,
-      "peak_price": 1109.0,
-      "cycle_days": 104
-    }
-  ],
-  "rejected_buys": [
+  "date": "2026-11-20",
+  "new_growth_signals": [
     {
       "ticker": "EDV",
       "company": "Endeavour Mining",
-      "reason": "cycle_days=212 (max 150), pre_event_vol=3.31% (min 2.3%)"
+      "growth_pct": 22.0
     }
   ],
+  "new_buys": [],
+  "rejected_buys": [],
   "new_sells": [],
   "forced_exits": [],
   "watchlist_status": [
@@ -31,7 +23,7 @@
     {
       "ticker": "AAS",
       "company": "Aberdeen Asia Focus",
-      "current_price": 401.0,
+      "current_price": 400.98,
       "peak_price": 474.0,
       "pct_below_peak": 15.4,
       "still_needs_to_fall_pct": 14.6
@@ -87,7 +79,7 @@
     {
       "ticker": "BME",
       "company": "B&M",
-      "current_price": 362.2,
+      "current_price": 362.16,
       "peak_price": 362.2,
       "pct_below_peak": 0.0,
       "still_needs_to_fall_pct": 30.0
@@ -167,10 +159,10 @@
     {
       "ticker": "CCEP",
       "company": "Coca-Cola Europacific Partners",
-      "current_price": 8980.0,
+      "current_price": 8978.58,
       "peak_price": 9065.0,
-      "pct_below_peak": 0.9,
-      "still_needs_to_fall_pct": 29.1
+      "pct_below_peak": 1.0,
+      "still_needs_to_fall_pct": 29.0
     },
     {
       "ticker": "CCH",
@@ -463,7 +455,7 @@
     {
       "ticker": "KNOS",
       "company": "Kainos",
-      "current_price": 1067.0,
+      "current_price": 1066.9,
       "peak_price": 1341.0,
       "pct_below_peak": 20.4,
       "still_needs_to_fall_pct": 9.6
@@ -743,7 +735,7 @@
     {
       "ticker": "SMT",
       "company": "Scottish Mortgage Investment Trust",
-      "current_price": 1450.0,
+      "current_price": 1449.98,
       "peak_price": 1637.5,
       "pct_below_peak": 11.5,
       "still_needs_to_fall_pct": 18.5
@@ -823,10 +815,10 @@
     {
       "ticker": "VOD",
       "company": "Vodafone Group",
-      "current_price": 114.05,
+      "current_price": 114.03,
       "peak_price": 131.75,
-      "pct_below_peak": 13.4,
-      "still_needs_to_fall_pct": 16.6
+      "pct_below_peak": 13.5,
+      "still_needs_to_fall_pct": 16.5
     },
     {
       "ticker": "WIZZ",
@@ -895,7 +887,7 @@
     {
       "ticker": "RS1",
       "company": "RS Group",
-      "current_price": 787.5,
+      "current_price": 787.41,
       "peak_price": 815.0,
       "pct_below_peak": 3.4,
       "still_needs_to_fall_pct": 26.6
@@ -927,7 +919,7 @@
     {
       "ticker": "FAN",
       "company": "Volution Group",
-      "current_price": 635.0,
+      "current_price": 634.91,
       "peak_price": 693.0,
       "pct_below_peak": 8.4,
       "still_needs_to_fall_pct": 21.6
@@ -1271,7 +1263,7 @@
     {
       "ticker": "REC",
       "company": "Record",
-      "current_price": 50.4,
+      "current_price": 50.39,
       "peak_price": 52.0,
       "pct_below_peak": 3.1,
       "still_needs_to_fall_pct": 26.9
@@ -1283,6 +1275,14 @@
       "peak_price": 73.58,
       "pct_below_peak": 23.8,
       "still_needs_to_fall_pct": 6.2
+    },
+    {
+      "ticker": "EDV",
+      "company": "Endeavour Mining",
+      "current_price": 3434.0,
+      "peak_price": 4287.13,
+      "pct_below_peak": 19.9,
+      "still_needs_to_fall_pct": 10.1
     }
   ]
 }

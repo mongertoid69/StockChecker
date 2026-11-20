@@ -1271,6 +1271,14 @@
       "pre_event_vol": 2.25,
       "peak_price": 73.58443450927734,
       "peak_date": "2026-06-11"
+    },
+    "EDV": {
+      "company": "Endeavour Mining",
+      "signal_date": "2026-08-12",
+      "growth_pct": 22.0,
+      "pre_event_vol": 3.24,
+      "peak_price": 4287.1279296875,
+      "peak_date": "2026-08-12"
     }
   },
   "holdings": {
