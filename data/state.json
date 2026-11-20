@@ -112,14 +112,6 @@
       "peak_price": 416.79998779296875,
       "peak_date": "2026-11-12"
     },
-    "BRWM": {
-      "company": "BlackRock World Mining Trust",
-      "signal_date": "2026-04-21",
-      "growth_pct": 20.3,
-      "pre_event_vol": 3.26,
-      "peak_price": 1060.0,
-      "peak_date": "2026-08-28"
-    },
     "BYIT": {
       "company": "Bytes Technology Group",
       "signal_date": "2026-04-23",
@@ -127,14 +119,6 @@
       "pre_event_vol": 3.03,
       "peak_price": 473.3999938964844,
       "peak_date": "2026-10-27"
-    },
-    "CBG": {
-      "company": "Close Brothers Group",
-      "signal_date": "2026-05-06",
-      "growth_pct": 23.9,
-      "pre_event_vol": 3.64,
-      "peak_price": 482.6000061035156,
-      "peak_date": "2026-05-06"
     },
     "CCC": {
       "company": "Computacenter",
@@ -207,14 +191,6 @@
       "pre_event_vol": 2.86,
       "peak_price": 168.1999969482422,
       "peak_date": "2026-07-30"
-    },
-    "CYN": {
-      "company": "CQS Natural Resources",
-      "signal_date": "2026-03-02",
-      "growth_pct": 20.2,
-      "pre_event_vol": 3.6,
-      "peak_price": 439.8268737792969,
-      "peak_date": "2026-03-02"
     },
     "DCC": {
       "company": "DCC Energy",
@@ -992,14 +968,6 @@
       "peak_price": 164.0,
       "peak_date": "2026-08-17"
     },
-    "FRES": {
-      "company": "Fresnillo plc",
-      "signal_date": "2026-08-25",
-      "growth_pct": 23.9,
-      "pre_event_vol": 3.67,
-      "peak_price": 3176.0,
-      "peak_date": "2026-08-25"
-    },
     "GAMA": {
       "company": "Gamma Communications",
       "signal_date": "2026-08-27",
@@ -1205,8 +1173,8 @@
       "signal_date": "2026-11-04",
       "growth_pct": 20.4,
       "pre_event_vol": 2.37,
-      "peak_price": 362.79998779296875,
-      "peak_date": "2026-11-16"
+      "peak_price": 367.20001220703125,
+      "peak_date": "2026-11-20"
     },
     "SMWH": {
       "company": "WHSmith",
@@ -1239,14 +1207,6 @@
       "pre_event_vol": 1.69,
       "peak_price": 1412.0,
       "peak_date": "2026-11-13"
-    },
-    "VTY": {
-      "company": "Vistry Group",
-      "signal_date": "2026-08-03",
-      "growth_pct": 21.2,
-      "pre_event_vol": 3.66,
-      "peak_price": 315.0,
-      "peak_date": "2026-08-03"
     },
     "AEP": {
       "company": "AEP Plantations",
@@ -1407,6 +1367,20 @@
       "buy_price": 730.0,
       "peak_at_buy": 1109.0,
       "cycle_days": 104
+    },
+    "FRES": {
+      "company": "Fresnillo plc",
+      "buy_date": "2026-11-20",
+      "buy_price": 2151.0,
+      "peak_at_buy": 3176.0,
+      "cycle_days": 87
+    },
+    "VTY": {
+      "company": "Vistry Group",
+      "buy_date": "2026-11-20",
+      "buy_price": 216.39999389648438,
+      "peak_at_buy": 315.0,
+      "cycle_days": 109
     }
   }
 }
