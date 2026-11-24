@@ -1,39 +1,19 @@
 {
-  "date": "2026-11-20",
-  "new_growth_signals": [],
-  "new_buys": [
-    {
-      "ticker": "FRES",
-      "company": "Fresnillo plc",
-      "buy_price": 2151.0,
-      "peak_price": 3176.0,
-      "cycle_days": 87
-    },
-    {
-      "ticker": "VTY",
-      "company": "Vistry Group",
-      "buy_price": 216.4,
-      "peak_price": 315.0,
-      "cycle_days": 109
-    }
-  ],
-  "rejected_buys": [
+  "date": "2026-11-24",
+  "new_growth_signals": [
     {
       "ticker": "BRWM",
       "company": "BlackRock World Mining Trust",
-      "reason": "cycle_days=213 (max 150), pre_event_vol=3.26% (min 2.3%)"
-    },
-    {
-      "ticker": "CBG",
-      "company": "Close Brothers Group",
-      "reason": "cycle_days=198 (max 150), pre_event_vol=3.64% (min 2.3%)"
+      "growth_pct": 20.2
     },
     {
       "ticker": "CYN",
       "company": "CQS Natural Resources",
-      "reason": "cycle_days=263 (max 150), pre_event_vol=3.6% (min 2.3%)"
+      "growth_pct": 20.9
     }
   ],
+  "new_buys": [],
+  "rejected_buys": [],
   "new_sells": [],
   "forced_exits": [],
   "watchlist_status": [
@@ -1268,6 +1248,22 @@
       "peak_price": 4287.13,
       "pct_below_peak": 26.0,
       "still_needs_to_fall_pct": 4.0
+    },
+    {
+      "ticker": "BRWM",
+      "company": "BlackRock World Mining Trust",
+      "current_price": 739.0,
+      "peak_price": 1041.94,
+      "pct_below_peak": 29.1,
+      "still_needs_to_fall_pct": 0.9
+    },
+    {
+      "ticker": "CYN",
+      "company": "CQS Natural Resources",
+      "current_price": 303.0,
+      "peak_price": 427.91,
+      "pct_below_peak": 29.2,
+      "still_needs_to_fall_pct": 0.8
     }
   ]
 }

@@ -1239,6 +1239,22 @@
       "pre_event_vol": 3.24,
       "peak_price": 4287.1279296875,
       "peak_date": "2026-08-12"
+    },
+    "BRWM": {
+      "company": "BlackRock World Mining Trust",
+      "signal_date": "2026-08-26",
+      "growth_pct": 20.2,
+      "pre_event_vol": 2.39,
+      "peak_price": 1041.9412841796875,
+      "peak_date": "2026-08-26"
+    },
+    "CYN": {
+      "company": "CQS Natural Resources",
+      "signal_date": "2026-08-25",
+      "growth_pct": 20.9,
+      "pre_event_vol": 2.02,
+      "peak_price": 427.9130859375,
+      "peak_date": "2026-08-25"
     }
   },
   "holdings": {
