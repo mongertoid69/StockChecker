@@ -173,8 +173,8 @@
       "signal_date": "2026-04-07",
       "growth_pct": 24.0,
       "pre_event_vol": 6.46,
-      "peak_price": 34.349998474121094,
-      "peak_date": "2026-11-04"
+      "peak_price": 35.22999954223633,
+      "peak_date": "2026-11-24"
     },
     "CRDA": {
       "company": "Croda International",
@@ -317,8 +317,8 @@
       "signal_date": "2026-06-12",
       "growth_pct": 22.1,
       "pre_event_vol": 2.6,
-      "peak_price": 76.8499984741211,
-      "peak_date": "2026-08-28"
+      "peak_price": 78.8499984741211,
+      "peak_date": "2026-11-24"
     },
     "HBR": {
       "company": "Harbour Energy",
@@ -437,8 +437,8 @@
       "signal_date": "2026-03-04",
       "growth_pct": 20.8,
       "pre_event_vol": 3.85,
-      "peak_price": 9888.0,
-      "peak_date": "2026-11-16"
+      "peak_price": 9962.0,
+      "peak_date": "2026-11-24"
     },
     "LUCE": {
       "company": "Luceco",
@@ -669,8 +669,8 @@
       "signal_date": "2026-06-29",
       "growth_pct": 23.5,
       "pre_event_vol": 3.59,
-      "peak_price": 40.0,
-      "peak_date": "2026-11-12"
+      "peak_price": 40.5,
+      "peak_date": "2026-11-24"
     },
     "SGRO": {
       "company": "Segro",
@@ -1005,8 +1005,8 @@
       "signal_date": "2026-09-29",
       "growth_pct": 21.9,
       "pre_event_vol": 2.15,
-      "peak_price": 474.0,
-      "peak_date": "2026-10-29"
+      "peak_price": 477.0,
+      "peak_date": "2026-11-24"
     },
     "OXB": {
       "company": "Oxford Biomedica",
@@ -1173,8 +1173,8 @@
       "signal_date": "2026-11-04",
       "growth_pct": 20.4,
       "pre_event_vol": 2.37,
-      "peak_price": 371.1000061035156,
-      "peak_date": "2026-11-23"
+      "peak_price": 375.0,
+      "peak_date": "2026-11-24"
     },
     "SMWH": {
       "company": "WHSmith",
