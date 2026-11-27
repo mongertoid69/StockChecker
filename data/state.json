@@ -173,8 +173,8 @@
       "signal_date": "2026-04-07",
       "growth_pct": 24.0,
       "pre_event_vol": 6.46,
-      "peak_price": 35.22999954223633,
-      "peak_date": "2026-11-24"
+      "peak_price": 35.790000915527344,
+      "peak_date": "2026-11-25"
     },
     "CRDA": {
       "company": "Croda International",
@@ -263,14 +263,6 @@
       "pre_event_vol": 2.17,
       "peak_price": 252.5,
       "peak_date": "2026-11-23"
-    },
-    "FEML": {
-      "company": "Fidelity Emerging Markets",
-      "signal_date": "2026-04-23",
-      "growth_pct": 21.2,
-      "pre_event_vol": 1.71,
-      "peak_price": 1542.0,
-      "peak_date": "2026-10-06"
     },
     "FSJ": {
       "company": "James Fisher & Sons",
@@ -544,14 +536,6 @@
       "peak_price": 247.8000030517578,
       "peak_date": "2026-11-18"
     },
-    "PCT": {
-      "company": "Polar Capital Technology Trust",
-      "signal_date": "2026-04-22",
-      "growth_pct": 21.1,
-      "pre_event_vol": 1.76,
-      "peak_price": 723.0,
-      "peak_date": "2026-10-06"
-    },
     "PHAR": {
       "company": "Pharos Energy",
       "signal_date": "2026-03-09",
@@ -815,14 +799,6 @@
       "pre_event_vol": 2.63,
       "peak_price": 160.5,
       "peak_date": "2026-10-21"
-    },
-    "XPP": {
-      "company": "XP Power",
-      "signal_date": "2026-04-27",
-      "growth_pct": 21.8,
-      "pre_event_vol": 2.32,
-      "peak_price": 2100.0,
-      "peak_date": "2026-09-22"
     },
     "ZTF": {
       "company": "Zotefoams",
@@ -1125,8 +1101,8 @@
       "signal_date": "2026-11-02",
       "growth_pct": 23.7,
       "pre_event_vol": 1.75,
-      "peak_price": 275.0,
-      "peak_date": "2026-11-18"
+      "peak_price": 286.20001220703125,
+      "peak_date": "2026-11-25"
     },
     "RNK": {
       "company": "Rank Group",
@@ -1231,14 +1207,6 @@
       "pre_event_vol": 3.24,
       "peak_price": 4287.1279296875,
       "peak_date": "2026-08-12"
-    },
-    "BRWM": {
-      "company": "BlackRock World Mining Trust",
-      "signal_date": "2026-08-26",
-      "growth_pct": 20.2,
-      "pre_event_vol": 2.39,
-      "peak_price": 1041.9412841796875,
-      "peak_date": "2026-08-26"
     },
     "CYN": {
       "company": "CQS Natural Resources",
@@ -1389,6 +1357,13 @@
       "buy_price": 216.39999389648438,
       "peak_at_buy": 315.0,
       "cycle_days": 109
+    },
+    "BRWM": {
+      "company": "BlackRock World Mining Trust",
+      "buy_date": "2026-11-25",
+      "buy_price": 725.9450073242188,
+      "peak_at_buy": 1041.9412841796875,
+      "cycle_days": 91
     }
   }
 }
