@@ -173,16 +173,16 @@
       "signal_date": "2026-04-07",
       "growth_pct": 24.0,
       "pre_event_vol": 6.46,
-      "peak_price": 35.790000915527344,
-      "peak_date": "2026-11-25"
+      "peak_price": 36.25,
+      "peak_date": "2026-11-26"
     },
     "CRDA": {
       "company": "Croda International",
       "signal_date": "2026-04-20",
       "growth_pct": 20.6,
       "pre_event_vol": 2.69,
-      "peak_price": 3883.0,
-      "peak_date": "2026-11-23"
+      "peak_price": 3887.0,
+      "peak_date": "2026-11-26"
     },
     "CURY": {
       "company": "Currys",
@@ -197,8 +197,8 @@
       "signal_date": "2026-05-01",
       "growth_pct": 21.9,
       "pre_event_vol": 2.3,
-      "peak_price": 6470.0,
-      "peak_date": "2026-11-23"
+      "peak_price": 6475.0,
+      "peak_date": "2026-11-26"
     },
     "DPLM": {
       "company": "Diploma",
@@ -253,8 +253,8 @@
       "signal_date": "2026-06-01",
       "growth_pct": 24.5,
       "pre_event_vol": 2.76,
-      "peak_price": 690.5999755859375,
-      "peak_date": "2026-11-10"
+      "peak_price": 691.0,
+      "peak_date": "2026-11-26"
     },
     "FCH": {
       "company": "Funding Circle",
@@ -309,8 +309,8 @@
       "signal_date": "2026-06-12",
       "growth_pct": 22.1,
       "pre_event_vol": 2.6,
-      "peak_price": 78.8499984741211,
-      "peak_date": "2026-11-24"
+      "peak_price": 79.30000305175781,
+      "peak_date": "2026-11-26"
     },
     "HBR": {
       "company": "Harbour Energy",
@@ -325,8 +325,8 @@
       "signal_date": "2026-05-14",
       "growth_pct": 20.0,
       "pre_event_vol": 1.82,
-      "peak_price": 280.0,
-      "peak_date": "2026-10-19"
+      "peak_price": 282.0,
+      "peak_date": "2026-11-26"
     },
     "HGT": {
       "company": "Hg Capital Trust",
@@ -429,8 +429,8 @@
       "signal_date": "2026-03-04",
       "growth_pct": 20.8,
       "pre_event_vol": 3.85,
-      "peak_price": 9962.0,
-      "peak_date": "2026-11-24"
+      "peak_price": 10315.0,
+      "peak_date": "2026-11-26"
     },
     "LUCE": {
       "company": "Luceco",
@@ -589,8 +589,8 @@
       "signal_date": "2026-03-06",
       "growth_pct": 23.1,
       "pre_event_vol": 4.51,
-      "peak_price": 3084.0,
-      "peak_date": "2026-11-05"
+      "peak_price": 3103.0,
+      "peak_date": "2026-11-26"
     },
     "RHIM": {
       "company": "RHI Magnesita",
@@ -981,8 +981,8 @@
       "signal_date": "2026-09-29",
       "growth_pct": 21.9,
       "pre_event_vol": 2.15,
-      "peak_price": 477.0,
-      "peak_date": "2026-11-24"
+      "peak_price": 479.6000061035156,
+      "peak_date": "2026-11-26"
     },
     "OXB": {
       "company": "Oxford Biomedica",
@@ -1085,8 +1085,8 @@
       "signal_date": "2026-10-30",
       "growth_pct": 20.3,
       "pre_event_vol": 1.46,
-      "peak_price": 3062.0,
-      "peak_date": "2026-11-05"
+      "peak_price": 3432.0,
+      "peak_date": "2026-11-26"
     },
     "IWG": {
       "company": "International Workplace Group",
@@ -1101,8 +1101,8 @@
       "signal_date": "2026-11-02",
       "growth_pct": 23.7,
       "pre_event_vol": 1.75,
-      "peak_price": 286.20001220703125,
-      "peak_date": "2026-11-25"
+      "peak_price": 286.3999938964844,
+      "peak_date": "2026-11-26"
     },
     "RNK": {
       "company": "Rank Group",
@@ -1149,8 +1149,8 @@
       "signal_date": "2026-11-04",
       "growth_pct": 20.4,
       "pre_event_vol": 2.37,
-      "peak_price": 375.0,
-      "peak_date": "2026-11-24"
+      "peak_price": 383.3999938964844,
+      "peak_date": "2026-11-26"
     },
     "SMWH": {
       "company": "WHSmith",
@@ -1215,6 +1215,14 @@
       "pre_event_vol": 2.02,
       "peak_price": 427.9130859375,
       "peak_date": "2026-08-25"
+    },
+    "XPP": {
+      "company": "XP Power",
+      "signal_date": "2026-09-22",
+      "growth_pct": 21.1,
+      "pre_event_vol": 2.77,
+      "peak_price": 2100.0,
+      "peak_date": "2026-09-22"
     }
   },
   "holdings": {
